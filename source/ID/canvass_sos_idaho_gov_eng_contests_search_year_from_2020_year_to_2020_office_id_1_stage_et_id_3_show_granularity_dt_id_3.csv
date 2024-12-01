@@ -1,0 +1,397 @@
+contest_id,election_date,election_type,primary_party,is_voter_statistics,question_number,question_text,question_type,question_grouping,office_name,district_type,district_name,candidate_name,is_pseudocandidate,candidate_party,candidate_party_2,candidate_party3,candidate_party4,candidate_for_retention_or_recall,granular_division_type,granular_division_name,votes
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,"Ada ",259389
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,"Ada ",259389
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,"Ada ",130699
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,"Ada ",120539
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,"Ada ",438
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,"Ada ",356
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,"Ada ",5310
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,"Ada ",875
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,"Ada ",1172
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Adams,2586
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Adams,2586
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Adams,1941
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Adams,591
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Adams,6
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Adams,3
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Adams,34
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Adams,6
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Adams,5
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Bannock,39553
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Bannock,39553
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Bannock,23331
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Bannock,14682
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Bannock,87
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Bannock,89
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Bannock,947
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Bannock,212
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Bannock,205
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,"Bear Lake",3315
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,"Bear Lake",3315
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,"Bear Lake",2914
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,"Bear Lake",350
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,"Bear Lake",8
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,"Bear Lake",4
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,"Bear Lake",25
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,"Bear Lake",3
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,"Bear Lake",11
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Benewah,4973
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Benewah,4973
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Benewah,3878
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Benewah,977
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Benewah,9
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Benewah,6
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Benewah,58
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Benewah,17
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Benewah,28
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Bingham,19996
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Bingham,19996
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Bingham,15295
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Bingham,4124
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Bingham,56
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Bingham,49
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Bingham,307
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Bingham,65
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Bingham,100
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Blaine,13289
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Blaine,13289
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Blaine,4032
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Blaine,8919
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Blaine,47
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Blaine,34
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Blaine,168
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Blaine,36
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Blaine,53
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Boise,4820
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Boise,4820
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Boise,3485
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Boise,1204
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Boise,12
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Boise,7
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Boise,67
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Boise,15
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Boise,30
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Bonner,27335
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Bonner,27335
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Bonner,18369
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Bonner,8310
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Bonner,56
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Bonner,37
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Bonner,401
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Bonner,60
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Bonner,102
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,"Bonneville ",53995
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,"Bonneville ",53995
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,"Bonneville ",37805
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,"Bonneville ",14254
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,"Bonneville ",113
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,"Bonneville ",90
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,"Bonneville ",1288
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,"Bonneville ",186
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,"Bonneville ",259
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Boundary,6313
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Boundary,6313
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Boundary,4937
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Boundary,1220
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Boundary,29
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Boundary,14
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Boundary,82
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Boundary,16
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Boundary,15
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Butte,1415
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Butte,1415
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Butte,1202
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Butte,188
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Butte,5
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Butte,2
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Butte,11
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Butte,2
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Butte,5
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Camas,674
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Camas,674
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Camas,507
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Camas,149
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Camas,3
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Camas,2
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Camas,7
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Camas,3
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Camas,3
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Canyon,90410
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Canyon,90410
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Canyon,61759
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Canyon,25881
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Canyon,197
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Canyon,230
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Canyon,1696
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Canyon,305
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Canyon,342
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Caribou,3416
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Caribou,3416
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Caribou,2906
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Caribou,431
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Caribou,11
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Caribou,5
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Caribou,41
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Caribou,12
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Caribou,10
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Cassia,9629
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Cassia,9629
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Cassia,7907
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Cassia,1464
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Cassia,38
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Cassia,26
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Cassia,121
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Cassia,25
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Cassia,48
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Clark,311
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Clark,311
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Clark,264
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Clark,41
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Clark,0
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Clark,0
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Clark,4
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Clark,1
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Clark,1
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Clearwater,4419
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Clearwater,4419
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Clearwater,3453
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Clearwater,877
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Clearwater,9
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Clearwater,5
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Clearwater,47
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Clearwater,16
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Clearwater,12
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Custer,2739
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Custer,2739
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Custer,2089
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Custer,603
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Custer,6
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Custer,2
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Custer,17
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Custer,10
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Custer,12
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Elmore,10205
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Elmore,10205
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Elmore,7246
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Elmore,2601
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Elmore,18
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Elmore,34
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Elmore,225
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Elmore,39
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Elmore,42
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Franklin,6664
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Franklin,6664
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Franklin,5845
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Franklin,657
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Franklin,28
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Franklin,7
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Franklin,87
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Franklin,28
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Franklin,12
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Fremont,6719
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Fremont,6719
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Fremont,5548
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Fremont,998
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Fremont,16
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Fremont,14
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Fremont,88
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Fremont,24
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Fremont,31
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Gem,9958
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Gem,9958
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Gem,7951
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Gem,1803
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Gem,14
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Gem,15
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Gem,121
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Gem,24
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Gem,30
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Gooding,6050
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Gooding,6050
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Gooding,4659
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Gooding,1256
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Gooding,16
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Gooding,13
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Gooding,67
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Gooding,16
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Gooding,23
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Idaho,9602
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Idaho,9602
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Idaho,7826
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Idaho,1561
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Idaho,25
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Idaho,14
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Idaho,118
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Idaho,35
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Idaho,23
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Jefferson,14173
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Jefferson,14173
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Jefferson,12099
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Jefferson,1661
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Jefferson,50
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Jefferson,26
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Jefferson,252
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Jefferson,41
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Jefferson,44
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Jerome,7812
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Jerome,7812
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Jerome,5734
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Jerome,1893
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Jerome,17
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Jerome,10
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Jerome,100
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Jerome,23
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Jerome,35
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Kootenai,89467
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Kootenai,89467
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Kootenai,62837
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Kootenai,24312
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Kootenai,144
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Kootenai,117
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Kootenai,1594
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Kootenai,195
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Kootenai,268
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Latah,20570
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Latah,20570
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Latah,9472
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Latah,10236
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Latah,38
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Latah,37
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Latah,608
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Latah,54
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Latah,125
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Lemhi,4738
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Lemhi,4738
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Lemhi,3592
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Lemhi,1032
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Lemhi,7
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Lemhi,8
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Lemhi,78
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Lemhi,11
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Lemhi,10
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Lewis,1870
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Lewis,1870
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Lewis,1489
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Lewis,349
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Lewis,7
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Lewis,2
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Lewis,16
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Lewis,4
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Lewis,3
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Lincoln,1940
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Lincoln,1940
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Lincoln,1469
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Lincoln,414
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Lincoln,6
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Lincoln,4
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Lincoln,21
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Lincoln,12
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Lincoln,14
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Madison,17112
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Madison,17112
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Madison,13559
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Madison,2666
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Madison,65
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Madison,39
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Madison,644
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Madison,64
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Madison,75
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Minidoka,7993
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Minidoka,7993
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Minidoka,6265
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Minidoka,1550
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Minidoka,11
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Minidoka,18
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Minidoka,87
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Minidoka,19
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Minidoka,43
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,"Nez Perce",20967
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,"Nez Perce",20967
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,"Nez Perce",13738
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,"Nez Perce",6686
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,"Nez Perce",39
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,"Nez Perce",36
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,"Nez Perce",296
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,"Nez Perce",67
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,"Nez Perce",105
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Oneida,2451
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Oneida,2451
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Oneida,2148
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Oneida,249
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Oneida,9
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Oneida,2
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Oneida,27
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Oneida,6
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Oneida,10
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Owyhee,4742
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Owyhee,4742
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Owyhee,3819
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Owyhee,816
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Owyhee,14
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Owyhee,9
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Owyhee,57
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Owyhee,15
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Owyhee,12
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Payette,11293
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Payette,11293
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Payette,8862
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Payette,2161
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Payette,22
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Payette,14
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Payette,166
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Payette,35
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Payette,33
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Power,3074
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Power,3074
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Power,2116
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Power,865
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Power,13
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Power,10
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Power,41
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Power,15
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Power,14
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Shoshone,6049
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Shoshone,6049
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Shoshone,4216
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Shoshone,1693
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Shoshone,14
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Shoshone,10
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Shoshone,71
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Shoshone,22
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Shoshone,23
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Teton,6347
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Teton,6347
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Teton,2858
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Teton,3318
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Teton,1
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Teton,5
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Teton,109
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Teton,17
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Teton,39
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,"Twin Falls",36501
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,"Twin Falls",36501
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,"Twin Falls",25897
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,"Twin Falls",9391
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,"Twin Falls",82
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,"Twin Falls",71
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,"Twin Falls",770
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,"Twin Falls",131
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,"Twin Falls",159
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Valley,7063
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Valley,7063
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Valley,3947
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Valley,2976
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Valley,7
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Valley,9
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Valley,73
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Valley,21
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Valley,30
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Ballots Cast",1,,,,,,County,Washington,5344
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Total Votes Cast",1,,,,,,County,Washington,5344
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Donald J. Trump",0,Republican,,,,,County,Washington,4154
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Joseph R. Biden",0,Democratic,,,,,County,Washington,1073
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Don Blankenship",0,Constitutional,,,,,County,Washington,13
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Rocky ""Rocky"" De La Fuente",0,Independent,,,,,County,Washington,6
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Jo Jorgensen",0,Libertarian,,,,,County,Washington,57
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Brock Pierce",0,Independent,,,,,County,Washington,25
+5723,"2020-11-03 00:00:00",General,,0,,,,,President,State,Idaho,"Kanye West",0,Independent,,,,,County,Washington,16
