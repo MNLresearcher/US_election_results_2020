@@ -1,0 +1,871 @@
+fips,county,candidate,votes
+27001,Aitkin,Joseph R. Biden,3607
+27001,Aitkin,Howie Hawkins,24
+27001,Aitkin,USPRSIA,15
+27001,Aitkin,Brock Pierce,24
+27001,Aitkin,Kanye West,22
+27001,Aitkin,Jo Jorgensen,55
+27001,Aitkin,Donald J. Trump,6258
+27001,Aitkin,USPRSSLP,2
+27001,Aitkin,USPRSSWP,3
+27001,Aitkin,Write-in,15
+27003,Anoka,Joseph R. Biden,100893
+27003,Anoka,Howie Hawkins,731
+27003,Anoka,USPRSIA,467
+27003,Anoka,Brock Pierce,408
+27003,Anoka,Kanye West,513
+27003,Anoka,Jo Jorgensen,2475
+27003,Anoka,Donald J. Trump,104902
+27003,Anoka,USPRSSLP,66
+27003,Anoka,USPRSSWP,36
+27003,Anoka,Write-in,641
+27005,Becker,Joseph R. Biden,6589
+27005,Becker,Howie Hawkins,35
+27005,Becker,USPRSIA,37
+27005,Becker,Brock Pierce,27
+27005,Becker,Kanye West,52
+27005,Becker,Jo Jorgensen,168
+27005,Becker,Donald J. Trump,12438
+27005,Becker,USPRSSLP,8
+27005,Becker,USPRSSWP,4
+27005,Becker,Write-in,43
+27007,Beltrami,Joseph R. Biden,11426
+27007,Beltrami,Howie Hawkins,75
+27007,Beltrami,USPRSIA,32
+27007,Beltrami,Brock Pierce,33
+27007,Beltrami,Kanye West,95
+27007,Beltrami,Jo Jorgensen,256
+27007,Beltrami,Donald J. Trump,12188
+27007,Beltrami,USPRSSLP,17
+27007,Beltrami,USPRSSWP,9
+27007,Beltrami,Write-in,58
+27009,Benton,Joseph R. Biden,7280
+27009,Benton,Howie Hawkins,81
+27009,Benton,USPRSIA,29
+27009,Benton,Brock Pierce,40
+27009,Benton,Kanye West,45
+27009,Benton,Jo Jorgensen,351
+27009,Benton,Donald J. Trump,14382
+27009,Benton,USPRSSLP,5
+27009,Benton,USPRSSWP,5
+27009,Benton,Write-in,42
+27011,Big Stone,Joseph R. Biden,1053
+27011,Big Stone,Howie Hawkins,14
+27011,Big Stone,USPRSIA,4
+27011,Big Stone,Brock Pierce,8
+27011,Big Stone,Kanye West,14
+27011,Big Stone,Jo Jorgensen,14
+27011,Big Stone,Donald J. Trump,1863
+27011,Big Stone,USPRSSLP,0
+27011,Big Stone,USPRSSWP,0
+27011,Big Stone,Write-in,4
+27013,Blue Earth,Joseph R. Biden,18330
+27013,Blue Earth,Howie Hawkins,139
+27013,Blue Earth,USPRSIA,64
+27013,Blue Earth,Brock Pierce,82
+27013,Blue Earth,Kanye West,120
+27013,Blue Earth,Jo Jorgensen,477
+27013,Blue Earth,Donald J. Trump,16731
+27013,Blue Earth,USPRSSLP,10
+27013,Blue Earth,USPRSSWP,16
+27013,Blue Earth,Write-in,82
+27015,Brown,Joseph R. Biden,4753
+27015,Brown,Howie Hawkins,38
+27015,Brown,USPRSIA,33
+27015,Brown,Brock Pierce,41
+27015,Brown,Kanye West,33
+27015,Brown,Jo Jorgensen,136
+27015,Brown,Donald J. Trump,9552
+27015,Brown,USPRSSLP,6
+27015,Brown,USPRSSWP,3
+27015,Brown,Write-in,40
+27017,Carlton,Joseph R. Biden,10098
+27017,Carlton,Howie Hawkins,61
+27017,Carlton,USPRSIA,48
+27017,Carlton,Brock Pierce,40
+27017,Carlton,Kanye West,43
+27017,Carlton,Jo Jorgensen,231
+27017,Carlton,Donald J. Trump,9791
+27017,Carlton,USPRSSLP,4
+27017,Carlton,USPRSSWP,4
+27017,Carlton,Write-in,49
+27019,Carver,Joseph R. Biden,30774
+27019,Carver,Howie Hawkins,141
+27019,Carver,USPRSIA,124
+27019,Carver,Brock Pierce,107
+27019,Carver,Kanye West,126
+27019,Carver,Jo Jorgensen,822
+27019,Carver,Donald J. Trump,34009
+27019,Carver,USPRSSLP,13
+27019,Carver,USPRSSWP,5
+27019,Carver,Write-in,240
+27021,Cass,Joseph R. Biden,6342
+27021,Cass,Howie Hawkins,60
+27021,Cass,USPRSIA,34
+27021,Cass,Brock Pierce,27
+27021,Cass,Kanye West,46
+27021,Cass,Jo Jorgensen,111
+27021,Cass,Donald J. Trump,11620
+27021,Cass,USPRSSLP,12
+27021,Cass,USPRSSWP,3
+27021,Cass,Write-in,34
+27023,Chippewa,Joseph R. Biden,2226
+27023,Chippewa,Howie Hawkins,12
+27023,Chippewa,USPRSIA,8
+27023,Chippewa,Brock Pierce,21
+27023,Chippewa,Kanye West,22
+27023,Chippewa,Jo Jorgensen,58
+27023,Chippewa,Donald J. Trump,4250
+27023,Chippewa,USPRSSLP,0
+27023,Chippewa,USPRSSWP,2
+27023,Chippewa,Write-in,12
+27025,Chisago,Joseph R. Biden,11806
+27025,Chisago,Howie Hawkins,111
+27025,Chisago,USPRSIA,70
+27025,Chisago,Brock Pierce,68
+27025,Chisago,Kanye West,53
+27025,Chisago,Jo Jorgensen,464
+27025,Chisago,Donald J. Trump,21916
+27025,Chisago,USPRSSLP,8
+27025,Chisago,USPRSSWP,1
+27025,Chisago,Write-in,73
+27027,Clay,Joseph R. Biden,16357
+27027,Clay,Howie Hawkins,101
+27027,Clay,USPRSIA,76
+27027,Clay,Brock Pierce,57
+27027,Clay,Kanye West,79
+27027,Clay,Jo Jorgensen,410
+27027,Clay,Donald J. Trump,15043
+27027,Clay,USPRSSLP,9
+27027,Clay,USPRSSWP,6
+27027,Clay,Write-in,101
+27029,Clearwater,Joseph R. Biden,1260
+27029,Clearwater,Howie Hawkins,14
+27029,Clearwater,USPRSIA,4
+27029,Clearwater,Brock Pierce,8
+27029,Clearwater,Kanye West,12
+27029,Clearwater,Jo Jorgensen,28
+27029,Clearwater,Donald J. Trump,3372
+27029,Clearwater,USPRSSLP,1
+27029,Clearwater,USPRSSWP,0
+27029,Clearwater,Write-in,9
+27031,Cook,Joseph R. Biden,2496
+27031,Cook,Howie Hawkins,15
+27031,Cook,USPRSIA,5
+27031,Cook,Brock Pierce,9
+27031,Cook,Kanye West,16
+27031,Cook,Jo Jorgensen,36
+27031,Cook,Donald J. Trump,1203
+27031,Cook,USPRSSLP,3
+27031,Cook,USPRSSWP,2
+27031,Cook,Write-in,21
+27033,Cottonwood,Joseph R. Biden,1834
+27033,Cottonwood,Howie Hawkins,13
+27033,Cottonwood,USPRSIA,9
+27033,Cottonwood,Brock Pierce,10
+27033,Cottonwood,Kanye West,11
+27033,Cottonwood,Jo Jorgensen,55
+27033,Cottonwood,Donald J. Trump,4165
+27033,Cottonwood,USPRSSLP,0
+27033,Cottonwood,USPRSSWP,0
+27033,Cottonwood,Write-in,10
+27035,Crow Wing,Joseph R. Biden,13726
+27035,Crow Wing,Howie Hawkins,92
+27035,Crow Wing,USPRSIA,61
+27035,Crow Wing,Brock Pierce,66
+27035,Crow Wing,Kanye West,81
+27035,Crow Wing,Jo Jorgensen,357
+27035,Crow Wing,Donald J. Trump,25676
+27035,Crow Wing,USPRSSLP,9
+27035,Crow Wing,USPRSSWP,5
+27035,Crow Wing,Write-in,100
+27037,Dakota,Joseph R. Biden,146155
+27037,Dakota,Howie Hawkins,827
+27037,Dakota,USPRSIA,535
+27037,Dakota,Brock Pierce,456
+27037,Dakota,Kanye West,593
+27037,Dakota,Jo Jorgensen,2957
+27037,Dakota,Donald J. Trump,109638
+27037,Dakota,USPRSSLP,83
+27037,Dakota,USPRSSWP,31
+27037,Dakota,Write-in,984
+27039,Dodge,Joseph R. Biden,4079
+27039,Dodge,Howie Hawkins,39
+27039,Dodge,USPRSIA,27
+27039,Dodge,Brock Pierce,26
+27039,Dodge,Kanye West,30
+27039,Dodge,Jo Jorgensen,167
+27039,Dodge,Donald J. Trump,7783
+27039,Dodge,USPRSSLP,3
+27039,Dodge,USPRSSWP,3
+27039,Dodge,Write-in,30
+27041,Douglas,Joseph R. Biden,7868
+27041,Douglas,Howie Hawkins,56
+27041,Douglas,USPRSIA,40
+27041,Douglas,Brock Pierce,57
+27041,Douglas,Kanye West,55
+27041,Douglas,Jo Jorgensen,238
+27041,Douglas,Donald J. Trump,15799
+27041,Douglas,USPRSSLP,2
+27041,Douglas,USPRSSWP,5
+27041,Douglas,Write-in,45
+27043,Faribault,Joseph R. Biden,2531
+27043,Faribault,Howie Hawkins,19
+27043,Faribault,USPRSIA,21
+27043,Faribault,Brock Pierce,24
+27043,Faribault,Kanye West,31
+27043,Faribault,Jo Jorgensen,72
+27043,Faribault,Donald J. Trump,5191
+27043,Faribault,USPRSSLP,2
+27043,Faribault,USPRSSWP,1
+27043,Faribault,Write-in,22
+27045,Fillmore,Joseph R. Biden,4551
+27045,Fillmore,Howie Hawkins,24
+27045,Fillmore,USPRSIA,34
+27045,Fillmore,Brock Pierce,19
+27045,Fillmore,Kanye West,36
+27045,Fillmore,Jo Jorgensen,135
+27045,Fillmore,Donald J. Trump,7301
+27045,Fillmore,USPRSSLP,0
+27045,Fillmore,USPRSSWP,4
+27045,Fillmore,Write-in,37
+27047,Freeborn,Joseph R. Biden,6889
+27047,Freeborn,Howie Hawkins,51
+27047,Freeborn,USPRSIA,38
+27047,Freeborn,Brock Pierce,26
+27047,Freeborn,Kanye West,49
+27047,Freeborn,Jo Jorgensen,146
+27047,Freeborn,Donald J. Trump,9578
+27047,Freeborn,USPRSSLP,10
+27047,Freeborn,USPRSSWP,4
+27047,Freeborn,Write-in,27
+27049,Goodhue,Joseph R. Biden,11806
+27049,Goodhue,Howie Hawkins,102
+27049,Goodhue,USPRSIA,64
+27049,Goodhue,Brock Pierce,65
+27049,Goodhue,Kanye West,64
+27049,Goodhue,Jo Jorgensen,397
+27049,Goodhue,Donald J. Trump,16052
+27049,Goodhue,USPRSSLP,8
+27049,Goodhue,USPRSSWP,9
+27049,Goodhue,Write-in,69
+27051,Grant,Joseph R. Biden,1300
+27051,Grant,Howie Hawkins,8
+27051,Grant,USPRSIA,7
+27051,Grant,Brock Pierce,10
+27051,Grant,Kanye West,10
+27051,Grant,Jo Jorgensen,43
+27051,Grant,Donald J. Trump,2269
+27051,Grant,USPRSSLP,1
+27051,Grant,USPRSSWP,2
+27051,Grant,Write-in,4
+27053,Hennepin,Joseph R. Biden,532623
+27053,Hennepin,Howie Hawkins,2448
+27053,Hennepin,USPRSIA,1038
+27053,Hennepin,Brock Pierce,1025
+27053,Hennepin,Kanye West,1937
+27053,Hennepin,Jo Jorgensen,7526
+27053,Hennepin,Donald J. Trump,205973
+27053,Hennepin,USPRSSLP,448
+27053,Hennepin,USPRSSWP,164
+27053,Hennepin,Write-in,2787
+27055,Houston,Joseph R. Biden,4853
+27055,Houston,Howie Hawkins,29
+27055,Houston,USPRSIA,20
+27055,Houston,Brock Pierce,32
+27055,Houston,Kanye West,29
+27055,Houston,Jo Jorgensen,114
+27055,Houston,Donald J. Trump,6334
+27055,Houston,USPRSSLP,4
+27055,Houston,USPRSSWP,4
+27055,Houston,Write-in,21
+27057,Hubbard,Joseph R. Biden,4462
+27057,Hubbard,Howie Hawkins,48
+27057,Hubbard,USPRSIA,23
+27057,Hubbard,Brock Pierce,24
+27057,Hubbard,Kanye West,30
+27057,Hubbard,Jo Jorgensen,134
+27057,Hubbard,Donald J. Trump,8202
+27057,Hubbard,USPRSSLP,2
+27057,Hubbard,USPRSSWP,2
+27057,Hubbard,Write-in,38
+27059,Isanti,Joseph R. Biden,7138
+27059,Isanti,Howie Hawkins,79
+27059,Isanti,USPRSIA,51
+27059,Isanti,Brock Pierce,34
+27059,Isanti,Kanye West,53
+27059,Isanti,Jo Jorgensen,304
+27059,Isanti,Donald J. Trump,16491
+27059,Isanti,USPRSSLP,7
+27059,Isanti,USPRSSWP,5
+27059,Isanti,Write-in,73
+27061,Itasca,Joseph R. Biden,10786
+27061,Itasca,Howie Hawkins,77
+27061,Itasca,USPRSIA,44
+27061,Itasca,Brock Pierce,50
+27061,Itasca,Kanye West,63
+27061,Itasca,Jo Jorgensen,247
+27061,Itasca,Donald J. Trump,15239
+27061,Itasca,USPRSSLP,2
+27061,Itasca,USPRSSWP,3
+27061,Itasca,Write-in,50
+27063,Jackson,Joseph R. Biden,1745
+27063,Jackson,Howie Hawkins,12
+27063,Jackson,USPRSIA,15
+27063,Jackson,Brock Pierce,19
+27063,Jackson,Kanye West,19
+27063,Jackson,Jo Jorgensen,53
+27063,Jackson,Donald J. Trump,3948
+27063,Jackson,USPRSSLP,0
+27063,Jackson,USPRSSWP,2
+27063,Jackson,Write-in,6
+27065,Kanabec,Joseph R. Biden,2774
+27065,Kanabec,Howie Hawkins,23
+27065,Kanabec,USPRSIA,12
+27065,Kanabec,Brock Pierce,21
+27065,Kanabec,Kanye West,17
+27065,Kanabec,Jo Jorgensen,93
+27065,Kanabec,Donald J. Trump,6278
+27065,Kanabec,USPRSSLP,5
+27065,Kanabec,USPRSSWP,1
+27065,Kanabec,Write-in,18
+27067,Kandiyohi,Joseph R. Biden,8440
+27067,Kandiyohi,Howie Hawkins,53
+27067,Kandiyohi,USPRSIA,44
+27067,Kandiyohi,Brock Pierce,48
+27067,Kandiyohi,Kanye West,63
+27067,Kandiyohi,Jo Jorgensen,211
+27067,Kandiyohi,Donald J. Trump,14437
+27067,Kandiyohi,USPRSSLP,6
+27067,Kandiyohi,USPRSSWP,11
+27067,Kandiyohi,Write-in,54
+27069,Kittson,Joseph R. Biden,1006
+27069,Kittson,Howie Hawkins,8
+27069,Kittson,USPRSIA,7
+27069,Kittson,Brock Pierce,7
+27069,Kittson,Kanye West,12
+27069,Kittson,Jo Jorgensen,44
+27069,Kittson,Donald J. Trump,1546
+27069,Kittson,USPRSSLP,0
+27069,Kittson,USPRSSWP,0
+27069,Kittson,Write-in,9
+27071,Koochiching,Joseph R. Biden,2659
+27071,Koochiching,Howie Hawkins,17
+27071,Koochiching,USPRSIA,13
+27071,Koochiching,Brock Pierce,10
+27071,Koochiching,Kanye West,14
+27071,Koochiching,Jo Jorgensen,60
+27071,Koochiching,Donald J. Trump,4131
+27071,Koochiching,USPRSSLP,1
+27071,Koochiching,USPRSSWP,0
+27071,Koochiching,Write-in,17
+27073,Lac Qui Parle,Joseph R. Biden,1446
+27073,Lac Qui Parle,Howie Hawkins,7
+27073,Lac Qui Parle,USPRSIA,4
+27073,Lac Qui Parle,Brock Pierce,14
+27073,Lac Qui Parle,Kanye West,13
+27073,Lac Qui Parle,Jo Jorgensen,20
+27073,Lac Qui Parle,Donald J. Trump,2528
+27073,Lac Qui Parle,USPRSSLP,0
+27073,Lac Qui Parle,USPRSSWP,1
+27073,Lac Qui Parle,Write-in,7
+27075,Lake,Joseph R. Biden,3647
+27075,Lake,Howie Hawkins,26
+27075,Lake,USPRSIA,8
+27075,Lake,Brock Pierce,10
+27075,Lake,Kanye West,18
+27075,Lake,Jo Jorgensen,78
+27075,Lake,Donald J. Trump,3393
+27075,Lake,USPRSSLP,2
+27075,Lake,USPRSSWP,1
+27075,Lake,Write-in,19
+27077,Lake Of The Woods,Joseph R. Biden,671
+27077,Lake Of The Woods,Howie Hawkins,4
+27077,Lake Of The Woods,USPRSIA,1
+27077,Lake Of The Woods,Brock Pierce,0
+27077,Lake Of The Woods,Kanye West,3
+27077,Lake Of The Woods,Jo Jorgensen,22
+27077,Lake Of The Woods,Donald J. Trump,1704
+27077,Lake Of The Woods,USPRSSLP,0
+27077,Lake Of The Woods,USPRSSWP,0
+27077,Lake Of The Woods,Write-in,3
+27079,Le Sueur,Joseph R. Biden,5672
+27079,Le Sueur,Howie Hawkins,42
+27079,Le Sueur,USPRSIA,35
+27079,Le Sueur,Brock Pierce,36
+27079,Le Sueur,Kanye West,42
+27079,Le Sueur,Jo Jorgensen,169
+27079,Le Sueur,Donald J. Trump,10775
+27079,Le Sueur,USPRSSLP,1
+27079,Le Sueur,USPRSSWP,4
+27079,Le Sueur,Write-in,42
+27081,Lincoln,Joseph R. Biden,937
+27081,Lincoln,Howie Hawkins,6
+27081,Lincoln,USPRSIA,9
+27081,Lincoln,Brock Pierce,6
+27081,Lincoln,Kanye West,8
+27081,Lincoln,Jo Jorgensen,23
+27081,Lincoln,Donald J. Trump,2121
+27081,Lincoln,USPRSSLP,1
+27081,Lincoln,USPRSSWP,1
+27081,Lincoln,Write-in,3
+27083,Lyon,Joseph R. Biden,4634
+27083,Lyon,Howie Hawkins,28
+27083,Lyon,USPRSIA,24
+27083,Lyon,Brock Pierce,21
+27083,Lyon,Kanye West,31
+27083,Lyon,Jo Jorgensen,140
+27083,Lyon,Donald J. Trump,7979
+27083,Lyon,USPRSSLP,4
+27083,Lyon,USPRSSWP,3
+27083,Lyon,Write-in,29
+27087,Mahnomen,Joseph R. Biden,1112
+27087,Mahnomen,Howie Hawkins,6
+27087,Mahnomen,USPRSIA,10
+27087,Mahnomen,Brock Pierce,6
+27087,Mahnomen,Kanye West,12
+27087,Mahnomen,Jo Jorgensen,9
+27087,Mahnomen,Donald J. Trump,1142
+27087,Mahnomen,USPRSSLP,4
+27087,Mahnomen,USPRSSWP,1
+27087,Mahnomen,Write-in,2
+27089,Marshall,Joseph R. Biden,1295
+27089,Marshall,Howie Hawkins,8
+27089,Marshall,USPRSIA,13
+27089,Marshall,Brock Pierce,15
+27089,Marshall,Kanye West,11
+27089,Marshall,Jo Jorgensen,37
+27089,Marshall,Donald J. Trump,3721
+27089,Marshall,USPRSSLP,1
+27089,Marshall,USPRSSWP,0
+27089,Marshall,Write-in,12
+27091,Martin,Joseph R. Biden,3305
+27091,Martin,Howie Hawkins,24
+27091,Martin,USPRSIA,18
+27091,Martin,Brock Pierce,20
+27091,Martin,Kanye West,29
+27091,Martin,Jo Jorgensen,98
+27091,Martin,Donald J. Trump,7480
+27091,Martin,USPRSSLP,2
+27091,Martin,USPRSSWP,3
+27091,Martin,Write-in,30
+27085,McLeod,Joseph R. Biden,6413
+27085,McLeod,Howie Hawkins,58
+27085,McLeod,USPRSIA,41
+27085,McLeod,Brock Pierce,47
+27085,McLeod,Kanye West,40
+27085,McLeod,Jo Jorgensen,292
+27085,McLeod,Donald J. Trump,13986
+27085,McLeod,USPRSSLP,2
+27085,McLeod,USPRSSWP,9
+27085,McLeod,Write-in,45
+27093,Meeker,Joseph R. Biden,3867
+27093,Meeker,Howie Hawkins,41
+27093,Meeker,USPRSIA,30
+27093,Meeker,Brock Pierce,31
+27093,Meeker,Kanye West,45
+27093,Meeker,Jo Jorgensen,122
+27093,Meeker,Donald J. Trump,9359
+27093,Meeker,USPRSSLP,2
+27093,Meeker,USPRSSWP,0
+27093,Meeker,Write-in,32
+27095,Mille Lacs,Joseph R. Biden,4404
+27095,Mille Lacs,Howie Hawkins,31
+27095,Mille Lacs,USPRSIA,28
+27095,Mille Lacs,Brock Pierce,25
+27095,Mille Lacs,Kanye West,36
+27095,Mille Lacs,Jo Jorgensen,181
+27095,Mille Lacs,Donald J. Trump,9952
+27095,Mille Lacs,USPRSSLP,4
+27095,Mille Lacs,USPRSSWP,5
+27095,Mille Lacs,Write-in,23
+27097,Morrison,Joseph R. Biden,4367
+27097,Morrison,Howie Hawkins,52
+27097,Morrison,USPRSIA,34
+27097,Morrison,Brock Pierce,44
+27097,Morrison,Kanye West,28
+27097,Morrison,Jo Jorgensen,173
+27097,Morrison,Donald J. Trump,14821
+27097,Morrison,USPRSSLP,3
+27097,Morrison,USPRSSWP,3
+27097,Morrison,Write-in,33
+27099,Mower,Joseph R. Biden,8899
+27099,Mower,Howie Hawkins,47
+27099,Mower,USPRSIA,40
+27099,Mower,Brock Pierce,44
+27099,Mower,Kanye West,62
+27099,Mower,Jo Jorgensen,177
+27099,Mower,Donald J. Trump,10025
+27099,Mower,USPRSSLP,5
+27099,Mower,USPRSSWP,2
+27099,Mower,Write-in,44
+27101,Murray,Joseph R. Biden,1449
+27101,Murray,Howie Hawkins,10
+27101,Murray,USPRSIA,8
+27101,Murray,Brock Pierce,8
+27101,Murray,Kanye West,9
+27101,Murray,Jo Jorgensen,32
+27101,Murray,Donald J. Trump,3363
+27101,Murray,USPRSSLP,2
+27101,Murray,USPRSSWP,2
+27101,Murray,Write-in,13
+27103,Nicollet,Joseph R. Biden,9622
+27103,Nicollet,Howie Hawkins,78
+27103,Nicollet,USPRSIA,37
+27103,Nicollet,Brock Pierce,40
+27103,Nicollet,Kanye West,43
+27103,Nicollet,Jo Jorgensen,222
+27103,Nicollet,Donald J. Trump,9018
+27103,Nicollet,USPRSSLP,4
+27103,Nicollet,USPRSSWP,7
+27103,Nicollet,Write-in,54
+27105,Nobles,Joseph R. Biden,2933
+27105,Nobles,Howie Hawkins,19
+27105,Nobles,USPRSIA,27
+27105,Nobles,Brock Pierce,17
+27105,Nobles,Kanye West,28
+27105,Nobles,Jo Jorgensen,59
+27105,Nobles,Donald J. Trump,5600
+27105,Nobles,USPRSSLP,5
+27105,Nobles,USPRSSWP,4
+27105,Nobles,Write-in,23
+27107,Norman,Joseph R. Biden,1404
+27107,Norman,Howie Hawkins,10
+27107,Norman,USPRSIA,8
+27107,Norman,Brock Pierce,18
+27107,Norman,Kanye West,6
+27107,Norman,Jo Jorgensen,31
+27107,Norman,Donald J. Trump,1953
+27107,Norman,USPRSSLP,0
+27107,Norman,USPRSSWP,3
+27107,Norman,Write-in,8
+27109,Olmsted,Joseph R. Biden,49491
+27109,Olmsted,Howie Hawkins,263
+27109,Olmsted,USPRSIA,159
+27109,Olmsted,Brock Pierce,189
+27109,Olmsted,Kanye West,188
+27109,Olmsted,Jo Jorgensen,1078
+27109,Olmsted,Donald J. Trump,39692
+27109,Olmsted,USPRSSLP,14
+27109,Olmsted,USPRSSWP,11
+27109,Olmsted,Write-in,300
+27111,Otter Tail,Joseph R. Biden,11958
+27111,Otter Tail,Howie Hawkins,76
+27111,Otter Tail,USPRSIA,51
+27111,Otter Tail,Brock Pierce,73
+27111,Otter Tail,Kanye West,90
+27111,Otter Tail,Jo Jorgensen,257
+27111,Otter Tail,Donald J. Trump,23800
+27111,Otter Tail,USPRSSLP,3
+27111,Otter Tail,USPRSSWP,3
+27111,Otter Tail,Write-in,88
+27113,Pennington,Joseph R. Biden,2568
+27113,Pennington,Howie Hawkins,12
+27113,Pennington,USPRSIA,7
+27113,Pennington,Brock Pierce,16
+27113,Pennington,Kanye West,19
+27113,Pennington,Jo Jorgensen,103
+27113,Pennington,Donald J. Trump,4532
+27113,Pennington,USPRSSLP,3
+27113,Pennington,USPRSSWP,3
+27113,Pennington,Write-in,14
+27115,Pine,Joseph R. Biden,5419
+27115,Pine,Howie Hawkins,51
+27115,Pine,USPRSIA,26
+27115,Pine,Brock Pierce,23
+27115,Pine,Kanye West,25
+27115,Pine,Jo Jorgensen,168
+27115,Pine,Donald J. Trump,10256
+27115,Pine,USPRSSLP,1
+27115,Pine,USPRSSWP,3
+27115,Pine,Write-in,29
+27117,Pipestone,Joseph R. Biden,1306
+27117,Pipestone,Howie Hawkins,12
+27117,Pipestone,USPRSIA,11
+27117,Pipestone,Brock Pierce,9
+27117,Pipestone,Kanye West,15
+27117,Pipestone,Jo Jorgensen,25
+27117,Pipestone,Donald J. Trump,3553
+27117,Pipestone,USPRSSLP,0
+27117,Pipestone,USPRSSWP,1
+27117,Pipestone,Write-in,8
+27119,Polk,Joseph R. Biden,5439
+27119,Polk,Howie Hawkins,29
+27119,Polk,USPRSIA,28
+27119,Polk,Brock Pierce,36
+27119,Polk,Kanye West,39
+27119,Polk,Jo Jorgensen,123
+27119,Polk,Donald J. Trump,9865
+27119,Polk,USPRSSLP,5
+27119,Polk,USPRSSWP,4
+27119,Polk,Write-in,26
+27121,Pope,Joseph R. Biden,2477
+27121,Pope,Howie Hawkins,16
+27121,Pope,USPRSIA,10
+27121,Pope,Brock Pierce,13
+27121,Pope,Kanye West,18
+27121,Pope,Jo Jorgensen,56
+27121,Pope,Donald J. Trump,4417
+27121,Pope,USPRSSLP,0
+27121,Pope,USPRSSWP,0
+27121,Pope,Write-in,15
+27123,Ramsey,Joseph R. Biden,211620
+27123,Ramsey,Howie Hawkins,1062
+27123,Ramsey,USPRSIA,422
+27123,Ramsey,Brock Pierce,428
+27123,Ramsey,Kanye West,793
+27123,Ramsey,Jo Jorgensen,2865
+27123,Ramsey,Donald J. Trump,77376
+27123,Ramsey,USPRSSLP,182
+27123,Ramsey,USPRSSWP,88
+27123,Ramsey,Write-in,1141
+27125,Red Lake,Joseph R. Biden,691
+27125,Red Lake,Howie Hawkins,7
+27125,Red Lake,USPRSIA,8
+27125,Red Lake,Brock Pierce,7
+27125,Red Lake,Kanye West,5
+27125,Red Lake,Jo Jorgensen,18
+27125,Red Lake,Donald J. Trump,1454
+27125,Red Lake,USPRSSLP,0
+27125,Red Lake,USPRSSWP,0
+27125,Red Lake,Write-in,6
+27127,Redwood,Joseph R. Biden,2355
+27127,Redwood,Howie Hawkins,11
+27127,Redwood,USPRSIA,14
+27127,Redwood,Brock Pierce,22
+27127,Redwood,Kanye West,18
+27127,Redwood,Jo Jorgensen,76
+27127,Redwood,Donald J. Trump,5771
+27127,Redwood,USPRSSLP,1
+27127,Redwood,USPRSSWP,0
+27127,Redwood,Write-in,16
+27129,Renville,Joseph R. Biden,2496
+27129,Renville,Howie Hawkins,19
+27129,Renville,USPRSIA,15
+27129,Renville,Brock Pierce,23
+27129,Renville,Kanye West,23
+27129,Renville,Jo Jorgensen,68
+27129,Renville,Donald J. Trump,5467
+27129,Renville,USPRSSLP,1
+27129,Renville,USPRSSWP,4
+27129,Renville,Write-in,12
+27131,Rice,Joseph R. Biden,17402
+27131,Rice,Howie Hawkins,115
+27131,Rice,USPRSIA,70
+27131,Rice,Brock Pierce,78
+27131,Rice,Kanye West,88
+27131,Rice,Jo Jorgensen,372
+27131,Rice,Donald J. Trump,17464
+27131,Rice,USPRSSLP,13
+27131,Rice,USPRSSWP,7
+27131,Rice,Write-in,77
+27133,Rock,Joseph R. Biden,1556
+27133,Rock,Howie Hawkins,13
+27133,Rock,USPRSIA,16
+27133,Rock,Brock Pierce,13
+27133,Rock,Kanye West,9
+27133,Rock,Jo Jorgensen,35
+27133,Rock,Donald J. Trump,3583
+27133,Rock,USPRSSLP,2
+27133,Rock,USPRSSWP,1
+27133,Rock,Write-in,12
+27135,Roseau,Joseph R. Biden,2188
+27135,Roseau,Howie Hawkins,18
+27135,Roseau,USPRSIA,15
+27135,Roseau,Brock Pierce,15
+27135,Roseau,Kanye West,20
+27135,Roseau,Jo Jorgensen,81
+27135,Roseau,Donald J. Trump,6065
+27135,Roseau,USPRSSLP,4
+27135,Roseau,USPRSSWP,2
+27135,Roseau,Write-in,13
+27139,Scott,Joseph R. Biden,40040
+27139,Scott,Howie Hawkins,240
+27139,Scott,USPRSIA,162
+27139,Scott,Brock Pierce,162
+27139,Scott,Kanye West,182
+27139,Scott,Jo Jorgensen,1048
+27139,Scott,Donald J. Trump,45872
+27139,Scott,USPRSSLP,18
+27139,Scott,USPRSSWP,9
+27139,Scott,Write-in,232
+27141,Sherburne,Joseph R. Biden,18065
+27141,Sherburne,Howie Hawkins,153
+27141,Sherburne,USPRSIA,96
+27141,Sherburne,Brock Pierce,89
+27141,Sherburne,Kanye West,115
+27141,Sherburne,Jo Jorgensen,734
+27141,Sherburne,Donald J. Trump,36222
+27141,Sherburne,USPRSSLP,7
+27141,Sherburne,USPRSSWP,6
+27141,Sherburne,Write-in,125
+27143,Sibley,Joseph R. Biden,2417
+27143,Sibley,Howie Hawkins,22
+27143,Sibley,USPRSIA,22
+27143,Sibley,Brock Pierce,22
+27143,Sibley,Kanye West,17
+27143,Sibley,Jo Jorgensen,71
+27143,Sibley,Donald J. Trump,5864
+27143,Sibley,USPRSSLP,2
+27143,Sibley,USPRSSWP,0
+27143,Sibley,Write-in,15
+27137,St. Louis,Joseph R. Biden,67704
+27137,St. Louis,Howie Hawkins,396
+27137,St. Louis,USPRSIA,166
+27137,St. Louis,Brock Pierce,160
+27137,St. Louis,Kanye West,290
+27137,St. Louis,Jo Jorgensen,1388
+27137,St. Louis,Donald J. Trump,49017
+27137,St. Louis,USPRSSLP,49
+27137,St. Louis,USPRSSWP,17
+27137,St. Louis,Write-in,344
+27145,Stearns,Joseph R. Biden,31879
+27145,Stearns,Howie Hawkins,275
+27145,Stearns,USPRSIA,136
+27145,Stearns,Brock Pierce,154
+27145,Stearns,Kanye West,165
+27145,Stearns,Jo Jorgensen,1036
+27145,Stearns,Donald J. Trump,50959
+27145,Stearns,USPRSSLP,20
+27145,Stearns,USPRSSWP,16
+27145,Stearns,Write-in,195
+27147,Steele,Joseph R. Biden,7917
+27147,Steele,Howie Hawkins,69
+27147,Steele,USPRSIA,53
+27147,Steele,Brock Pierce,39
+27147,Steele,Kanye West,56
+27147,Steele,Jo Jorgensen,278
+27147,Steele,Donald J. Trump,12656
+27147,Steele,USPRSSLP,3
+27147,Steele,USPRSSWP,5
+27147,Steele,Write-in,52
+27149,Stevens,Joseph R. Biden,1922
+27149,Stevens,Howie Hawkins,18
+27149,Stevens,USPRSIA,4
+27149,Stevens,Brock Pierce,11
+27149,Stevens,Kanye West,18
+27149,Stevens,Jo Jorgensen,44
+27149,Stevens,Donald J. Trump,3044
+27149,Stevens,USPRSSLP,4
+27149,Stevens,USPRSSWP,1
+27149,Stevens,Write-in,19
+27151,Swift,Joseph R. Biden,1784
+27151,Swift,Howie Hawkins,11
+27151,Swift,USPRSIA,9
+27151,Swift,Brock Pierce,13
+27151,Swift,Kanye West,9
+27151,Swift,Jo Jorgensen,42
+27151,Swift,Donald J. Trump,3316
+27151,Swift,USPRSSLP,0
+27151,Swift,USPRSSWP,1
+27151,Swift,Write-in,8
+27153,Todd,Joseph R. Biden,3286
+27153,Todd,Howie Hawkins,23
+27153,Todd,USPRSIA,26
+27153,Todd,Brock Pierce,30
+27153,Todd,Kanye West,30
+27153,Todd,Jo Jorgensen,85
+27153,Todd,Donald J. Trump,9753
+27153,Todd,USPRSSLP,2
+27153,Todd,USPRSSWP,1
+27153,Todd,Write-in,21
+27155,Traverse,Joseph R. Biden,661
+27155,Traverse,Howie Hawkins,5
+27155,Traverse,USPRSIA,2
+27155,Traverse,Brock Pierce,2
+27155,Traverse,Kanye West,6
+27155,Traverse,Jo Jorgensen,12
+27155,Traverse,Donald J. Trump,1172
+27155,Traverse,USPRSSLP,2
+27155,Traverse,USPRSSWP,0
+27155,Traverse,Write-in,2
+27157,Wabasha,Joseph R. Biden,4696
+27157,Wabasha,Howie Hawkins,33
+27157,Wabasha,USPRSIA,21
+27157,Wabasha,Brock Pierce,29
+27157,Wabasha,Kanye West,28
+27157,Wabasha,Jo Jorgensen,133
+27157,Wabasha,Donald J. Trump,8153
+27157,Wabasha,USPRSSLP,2
+27157,Wabasha,USPRSSWP,2
+27157,Wabasha,Write-in,26
+27159,Wadena,Joseph R. Biden,2023
+27159,Wadena,Howie Hawkins,14
+27159,Wadena,USPRSIA,17
+27159,Wadena,Brock Pierce,12
+27159,Wadena,Kanye West,20
+27159,Wadena,Jo Jorgensen,54
+27159,Wadena,Donald J. Trump,5520
+27159,Wadena,USPRSSLP,0
+27159,Wadena,USPRSSWP,1
+27159,Wadena,Write-in,16
+27161,Waseca,Joseph R. Biden,3496
+27161,Waseca,Howie Hawkins,34
+27161,Waseca,USPRSIA,17
+27161,Waseca,Brock Pierce,27
+27161,Waseca,Kanye West,42
+27161,Waseca,Jo Jorgensen,123
+27161,Waseca,Donald J. Trump,6624
+27161,Waseca,USPRSSLP,0
+27161,Waseca,USPRSSWP,1
+27161,Waseca,Write-in,25
+27163,Washington,Joseph R. Biden,89165
+27163,Washington,Howie Hawkins,477
+27163,Washington,USPRSIA,271
+27163,Washington,Brock Pierce,267
+27163,Washington,Kanye West,342
+27163,Washington,Jo Jorgensen,1895
+27163,Washington,Donald J. Trump,73764
+27163,Washington,USPRSSLP,53
+27163,Washington,USPRSSWP,34
+27163,Washington,Write-in,518
+27165,Watonwan,Joseph R. Biden,1987
+27165,Watonwan,Howie Hawkins,16
+27165,Watonwan,USPRSIA,14
+27165,Watonwan,Brock Pierce,14
+27165,Watonwan,Kanye West,25
+27165,Watonwan,Jo Jorgensen,28
+27165,Watonwan,Donald J. Trump,3103
+27165,Watonwan,USPRSSLP,2
+27165,Watonwan,USPRSSWP,2
+27165,Watonwan,Write-in,10
+27167,Wilkin,Joseph R. Biden,1026
+27167,Wilkin,Howie Hawkins,5
+27167,Wilkin,USPRSIA,3
+27167,Wilkin,Brock Pierce,11
+27167,Wilkin,Kanye West,12
+27167,Wilkin,Jo Jorgensen,41
+27167,Wilkin,Donald J. Trump,2328
+27167,Wilkin,USPRSSLP,0
+27167,Wilkin,USPRSSWP,3
+27167,Wilkin,Write-in,1
+27169,Winona,Joseph R. Biden,13333
+27169,Winona,Howie Hawkins,80
+27169,Winona,USPRSIA,62
+27169,Winona,Brock Pierce,51
+27169,Winona,Kanye West,73
+27169,Winona,Jo Jorgensen,272
+27169,Winona,Donald J. Trump,13227
+27169,Winona,USPRSSLP,6
+27169,Winona,USPRSSWP,4
+27169,Winona,Write-in,65
+27171,Wright,Joseph R. Biden,28430
+27171,Wright,Howie Hawkins,273
+27171,Wright,USPRSIA,138
+27171,Wright,Brock Pierce,172
+27171,Wright,Kanye West,195
+27171,Wright,Jo Jorgensen,992
+27171,Wright,Donald J. Trump,51973
+27171,Wright,USPRSSLP,12
+27171,Wright,USPRSSWP,9
+27171,Wright,Write-in,232
+27173,Yellow Medicine,Joseph R. Biden,1688
+27173,Yellow Medicine,Howie Hawkins,11
+27173,Yellow Medicine,USPRSIA,12
+27173,Yellow Medicine,Brock Pierce,10
+27173,Yellow Medicine,Kanye West,13
+27173,Yellow Medicine,Jo Jorgensen,45
+27173,Yellow Medicine,Donald J. Trump,3734
+27173,Yellow Medicine,USPRSSLP,0
+27173,Yellow Medicine,USPRSSWP,0
+27173,Yellow Medicine,Write-in,15

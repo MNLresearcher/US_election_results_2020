@@ -1,0 +1,142 @@
+import pandas as pd
+
+data = pd.read_csv('fl.csv')
+
+def fips(row):
+    if row['county']=='Alachua':
+        return 12001
+    elif row['county']=='Baker':
+        return 12003
+    elif row['county']=='Bay':
+        return 12005
+    elif row['county']=='Bradford':
+        return 12007
+    elif row['county']=='Brevard':
+        return 12009
+    elif row['county']=='Broward':
+        return 12011
+    elif row['county']=='Calhoun':
+        return 12013
+    elif row['county']=='Charlotte':
+        return 12015
+    elif row['county']=='Citrus':
+        return 12017
+    elif row['county']=='Clay':
+        return 12019
+    elif row['county']=='Collier':
+        return 12021
+    elif row['county']=='Columbia':
+        return 12023
+    elif row['county']=='DeSoto':
+        return 12027
+    elif row['county']=='Dixie':
+        return 12029
+    elif row['county']=='Duval':
+        return 12031
+    elif row['county']=='Escambia':
+        return 12033
+    elif row['county']=='Flagler':
+        return 12035
+    elif row['county']=='Franklin':
+        return 12037
+    elif row['county']=='Gadsden':
+        return 12039
+    elif row['county']=='Gilchrist':
+        return 12041
+    elif row['county']=='Glades':
+        return 12043
+    elif row['county']=='Gulf':
+        return 12045
+    elif row['county']=='Hamilton':
+        return 12047
+    elif row['county']=='Hardee':
+        return 12049
+    elif row['county']=='Hendry':
+        return 12051
+    elif row['county']=='Hernando':
+        return 12053
+    elif row['county']=='Highlands':
+        return 12055
+    elif row['county']=='Hillsborough':
+        return 12057
+    elif row['county']=='Holmes':
+        return 12059
+    elif row['county']=='Indian River':
+        return 12061
+    elif row['county']=='Jackson':
+        return 12063
+    elif row['county']=='Jefferson':
+        return 12065
+    elif row['county']=='Lafayette':
+        return 12067
+    elif row['county']=='Lake':
+        return 12069
+    elif row['county']=='Lee':
+        return 12071
+    elif row['county']=='Leon':
+        return 12073
+    elif row['county']=='Levy':
+        return 12075
+    elif row['county']=='Liberty':
+        return 12077
+    elif row['county']=='Madison':
+        return 12079
+    elif row['county']=='Manatee':
+        return 12081
+    elif row['county']=='Marion':
+        return 12083
+    elif row['county']=='Martin':
+        return 12085
+    elif row['county']=='Monroe':
+        return 12087
+    elif row['county']=='Nassau':
+        return 12089
+    elif row['county']=='Okaloosa':
+        return 12091
+    elif row['county']=='Okeechobee':
+        return 12093
+    elif row['county']=='Orange':
+        return 12095
+    elif row['county']=='Osceola':
+        return 12097
+    elif row['county']=='Palm Beach':
+        return 12099
+    elif row['county']=='Pasco':
+        return 12101
+    elif row['county']=='Pinellas':
+        return 12103
+    elif row['county']=='Polk':
+        return 12105
+    elif row['county']=='Putnam':
+        return 12107
+    elif row['county']=='St. Johns':
+        return 12109
+    elif row['county']=='St. Lucie':
+        return 12111
+    elif row['county']=='Santa Rosa':
+        return 12113
+    elif row['county']=='Sarasota':
+        return 12115
+    elif row['county']=='Seminole':
+        return 12117
+    elif row['county']=='Sumter':
+        return 12119
+    elif row['county']=='Suwannee':
+        return 12121
+    elif row['county']=='Taylor':
+        return 12123
+    elif row['county']=='Union':
+        return 12125
+    elif row['county']=='Volusia':
+        return 12127
+    elif row['county']=='Wakulla':
+        return 12129
+    elif row['county']=='Walton':
+        return 12131
+    elif row['county']=='Washington':
+        return 12133
+    return fips
+
+data['fips'] = data.apply(fips, axis=1)
+
+data.to_csv('fl.csv')

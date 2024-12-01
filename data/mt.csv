@@ -1,0 +1,169 @@
+fips,county,candidate,votes
+30001,Beaverhead,Joseph R. Biden,1608
+30001,Beaverhead,Jo Jorgensen,130
+30001,Beaverhead,Donald J. Trump,3923
+30003,Big Horn,Joseph R. Biden,2491
+30003,Big Horn,Jo Jorgensen,86
+30003,Big Horn,Donald J. Trump,2207
+30005,Blaine,Joseph R. Biden,1589
+30005,Blaine,Jo Jorgensen,59
+30005,Blaine,Donald J. Trump,1469
+30007,Broadwater,Joseph R. Biden,835
+30007,Broadwater,Jo Jorgensen,89
+30007,Broadwater,Donald J. Trump,3173
+30009,Carbon,Joseph R. Biden,2421
+30009,Carbon,Jo Jorgensen,163
+30009,Carbon,Donald J. Trump,4468
+30011,Carter,Joseph R. Biden,74
+30011,Carter,Jo Jorgensen,15
+30011,Carter,Donald J. Trump,775
+30013,Cascade,Joseph R. Biden,15456
+30013,Cascade,Jo Jorgensen,1114
+30013,Cascade,Donald J. Trump,23315
+30015,Chouteau,Joseph R. Biden,991
+30015,Chouteau,Jo Jorgensen,83
+30015,Chouteau,Donald J. Trump,1891
+30017,Custer,Joseph R. Biden,1514
+30017,Custer,Jo Jorgensen,141
+30017,Custer,Donald J. Trump,4205
+30019,Daniels,Joseph R. Biden,195
+30019,Daniels,Jo Jorgensen,20
+30019,Daniels,Donald J. Trump,799
+30021,Dawson,Joseph R. Biden,962
+30021,Dawson,Jo Jorgensen,105
+30021,Dawson,Donald J. Trump,3758
+30023,Deer Lodge,Joseph R. Biden,2562
+30023,Deer Lodge,Jo Jorgensen,143
+30023,Deer Lodge,Donald J. Trump,2186
+30025,Fallon,Joseph R. Biden,172
+30025,Fallon,Jo Jorgensen,28
+30025,Fallon,Donald J. Trump,1375
+30027,Fergus,Joseph R. Biden,1496
+30027,Fergus,Jo Jorgensen,142
+30027,Fergus,Donald J. Trump,4869
+30029,Flathead,Joseph R. Biden,20274
+30029,Flathead,Jo Jorgensen,1341
+30029,Flathead,Donald J. Trump,38321
+30031,Gallatin,Joseph R. Biden,37044
+30031,Gallatin,Jo Jorgensen,2239
+30031,Gallatin,Donald J. Trump,31696
+30033,Garfield,Joseph R. Biden,41
+30033,Garfield,Jo Jorgensen,8
+30033,Garfield,Donald J. Trump,764
+30035,Glacier,Joseph R. Biden,3610
+30035,Glacier,Jo Jorgensen,123
+30035,Glacier,Donald J. Trump,1884
+30037,Golden Valley,Joseph R. Biden,78
+30037,Golden Valley,Jo Jorgensen,11
+30037,Golden Valley,Donald J. Trump,414
+30039,Granite,Joseph R. Biden,638
+30039,Granite,Jo Jorgensen,45
+30039,Granite,Donald J. Trump,1419
+30041,Hill,Joseph R. Biden,2981
+30041,Hill,Jo Jorgensen,244
+30041,Hill,Donald J. Trump,3957
+30043,Jefferson,Joseph R. Biden,2625
+30043,Jefferson,Jo Jorgensen,181
+30043,Jefferson,Donald J. Trump,5345
+30045,Judith Basin,Joseph R. Biden,275
+30045,Judith Basin,Jo Jorgensen,29
+30045,Judith Basin,Donald J. Trump,1040
+30047,Lake,Joseph R. Biden,6916
+30047,Lake,Jo Jorgensen,388
+30047,Lake,Donald J. Trump,9322
+30049,Lewis and Clark,Joseph R. Biden,19743
+30049,Lewis and Clark,Jo Jorgensen,1113
+30049,Lewis and Clark,Donald J. Trump,21409
+30051,Liberty,Joseph R. Biden,249
+30051,Liberty,Jo Jorgensen,13
+30051,Liberty,Donald J. Trump,821
+30053,Lincoln,Joseph R. Biden,2835
+30053,Lincoln,Jo Jorgensen,240
+30053,Lincoln,Donald J. Trump,8672
+30057,Madison,Joseph R. Biden,1771
+30057,Madison,Jo Jorgensen,125
+30057,Madison,Donald J. Trump,4191
+30055,McCone,Joseph R. Biden,155
+30055,McCone,Jo Jorgensen,17
+30055,McCone,Donald J. Trump,956
+30059,Meagher,Joseph R. Biden,258
+30059,Meagher,Jo Jorgensen,19
+30059,Meagher,Donald J. Trump,833
+30061,Mineral,Joseph R. Biden,686
+30061,Mineral,Jo Jorgensen,49
+30061,Mineral,Donald J. Trump,1828
+30063,Missoula,Joseph R. Biden,43357
+30063,Missoula,Jo Jorgensen,1791
+30063,Missoula,Donald J. Trump,26347
+30065,Musselshell,Joseph R. Biden,413
+30065,Musselshell,Jo Jorgensen,45
+30065,Musselshell,Donald J. Trump,2423
+30067,Park,Joseph R. Biden,5280
+30067,Park,Jo Jorgensen,261
+30067,Park,Donald J. Trump,6025
+30069,Petroleum,Joseph R. Biden,39
+30069,Petroleum,Jo Jorgensen,11
+30069,Petroleum,Donald J. Trump,298
+30071,Phillips,Joseph R. Biden,416
+30071,Phillips,Jo Jorgensen,30
+30071,Phillips,Donald J. Trump,1936
+30073,Pondera,Joseph R. Biden,903
+30073,Pondera,Jo Jorgensen,61
+30073,Pondera,Donald J. Trump,2031
+30075,Powder River,Joseph R. Biden,154
+30075,Powder River,Jo Jorgensen,12
+30075,Powder River,Donald J. Trump,970
+30077,Powell,Joseph R. Biden,752
+30077,Powell,Jo Jorgensen,72
+30077,Powell,Donald J. Trump,2355
+30079,Prairie,Joseph R. Biden,126
+30079,Prairie,Jo Jorgensen,15
+30079,Prairie,Donald J. Trump,603
+30081,Ravalli,Joseph R. Biden,8763
+30081,Ravalli,Jo Jorgensen,630
+30081,Ravalli,Donald J. Trump,19114
+30083,Richland,Joseph R. Biden,875
+30083,Richland,Jo Jorgensen,123
+30083,Richland,Donald J. Trump,4800
+30085,Roosevelt,Joseph R. Biden,1910
+30085,Roosevelt,Jo Jorgensen,111
+30085,Roosevelt,Donald J. Trump,1996
+30087,Rosebud,Joseph R. Biden,1199
+30087,Rosebud,Jo Jorgensen,88
+30087,Rosebud,Donald J. Trump,2486
+30089,Sanders,Joseph R. Biden,1820
+30089,Sanders,Jo Jorgensen,142
+30089,Sanders,Donald J. Trump,5660
+30091,Sheridan,Joseph R. Biden,574
+30091,Sheridan,Jo Jorgensen,53
+30091,Sheridan,Donald J. Trump,1403
+30093,Silver Bow,Joseph R. Biden,10392
+30093,Silver Bow,Jo Jorgensen,521
+30093,Silver Bow,Donald J. Trump,7745
+30095,Stillwater,Joseph R. Biden,1156
+30095,Stillwater,Jo Jorgensen,106
+30095,Stillwater,Donald J. Trump,4462
+30097,Sweet Grass,Joseph R. Biden,549
+30097,Sweet Grass,Jo Jorgensen,57
+30097,Sweet Grass,Donald J. Trump,1840
+30099,Teton,Joseph R. Biden,1007
+30099,Teton,Jo Jorgensen,64
+30099,Teton,Donald J. Trump,2608
+30101,Toole,Joseph R. Biden,467
+30101,Toole,Jo Jorgensen,56
+30101,Toole,Donald J. Trump,1596
+30103,Treasure,Joseph R. Biden,78
+30103,Treasure,Jo Jorgensen,9
+30103,Treasure,Donald J. Trump,373
+30105,Valley,Joseph R. Biden,1030
+30105,Valley,Jo Jorgensen,96
+30105,Valley,Donald J. Trump,3135
+30107,Wheatland,Joseph R. Biden,225
+30107,Wheatland,Jo Jorgensen,20
+30107,Wheatland,Donald J. Trump,823
+30109,Wibaux,Joseph R. Biden,77
+30109,Wibaux,Jo Jorgensen,5
+30109,Wibaux,Donald J. Trump,516
+30111,Yellowstone,Joseph R. Biden,30679
+30111,Yellowstone,Jo Jorgensen,2370
+30111,Yellowstone,Donald J. Trump,50772

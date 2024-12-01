@@ -1,0 +1,937 @@
+fips,county,candidate,votes
+55001,Adams,Joseph R. Biden,4329
+55001,Adams,Mark Charles,0
+55001,Adams,President R19 Boddie Stoneham,0
+55001,Adams,Jade Simmons,0
+55001,Adams,SCATTERING,10
+55001,Adams,Donald J. Trump,7362
+55001,Adams,Gloria La Riva,0
+55001,Adams,Jo Jorgensen,85
+55001,Adams,Kanye West,1
+55001,Adams,Brian Carroll,3
+55001,Adams,Don Blankenship,27
+55001,Adams,Kasey Wells,0
+55001,Adams,Howie Hawkins,1
+55003,Ashland,Jade Simmons,0
+55003,Ashland,Joseph R. Biden,4801
+55003,Ashland,Mark Charles,0
+55003,Ashland,SCATTERING,16
+55003,Ashland,President R19 Boddie Stoneham,0
+55003,Ashland,Brian Carroll,11
+55003,Ashland,Kasey Wells,0
+55003,Ashland,Howie Hawkins,6
+55003,Ashland,Don Blankenship,11
+55003,Ashland,Donald J. Trump,3841
+55003,Ashland,Gloria La Riva,0
+55003,Ashland,Kanye West,1
+55003,Ashland,Jo Jorgensen,70
+55005,Barron,SCATTERING,11
+55005,Barron,Don Blankenship,37
+55005,Barron,Kanye West,3
+55005,Barron,Mark Charles,0
+55005,Barron,Kasey Wells,1
+55005,Barron,Gloria La Riva,1
+55005,Barron,Donald J. Trump,15803
+55005,Barron,Brian Carroll,21
+55005,Barron,President R19 Boddie Stoneham,0
+55005,Barron,Joseph R. Biden,9194
+55005,Barron,Jo Jorgensen,262
+55005,Barron,Jade Simmons,0
+55005,Barron,Howie Hawkins,13
+55007,Bayfield,SCATTERING,4
+55007,Bayfield,Gloria La Riva,0
+55007,Bayfield,Kasey Wells,0
+55007,Bayfield,Howie Hawkins,7
+55007,Bayfield,Brian Carroll,13
+55007,Bayfield,Donald J. Trump,4617
+55007,Bayfield,Mark Charles,1
+55007,Bayfield,Joseph R. Biden,6147
+55007,Bayfield,Kanye West,0
+55007,Bayfield,Jo Jorgensen,80
+55007,Bayfield,Don Blankenship,11
+55007,Bayfield,Jade Simmons,0
+55007,Bayfield,President R19 Boddie Stoneham,0
+55009,Brown,Don Blankenship,215
+55009,Brown,Howie Hawkins,33
+55009,Brown,Joseph R. Biden,65511
+55009,Brown,Brian Carroll,206
+55009,Brown,Kanye West,19
+55009,Brown,Jo Jorgensen,1829
+55009,Brown,Donald J. Trump,75871
+55009,Brown,President R19 Boddie Stoneham,0
+55009,Brown,SCATTERING,328
+55009,Brown,Jade Simmons,0
+55009,Brown,Kasey Wells,1
+55009,Brown,Mark Charles,2
+55009,Brown,Gloria La Riva,2
+55011,Buffalo,Donald J. Trump,4834
+55011,Buffalo,Jo Jorgensen,80
+55011,Buffalo,Kanye West,0
+55011,Buffalo,Jade Simmons,0
+55011,Buffalo,Mark Charles,1
+55011,Buffalo,Howie Hawkins,0
+55011,Buffalo,Don Blankenship,20
+55011,Buffalo,President R19 Boddie Stoneham,0
+55011,Buffalo,Gloria La Riva,0
+55011,Buffalo,SCATTERING,11
+55011,Buffalo,Joseph R. Biden,2860
+55011,Buffalo,Brian Carroll,10
+55011,Buffalo,Kasey Wells,0
+55013,Burnett,Kanye West,0
+55013,Burnett,Joseph R. Biden,3569
+55013,Burnett,Mark Charles,1
+55013,Burnett,Don Blankenship,13
+55013,Burnett,Donald J. Trump,6462
+55013,Burnett,Jo Jorgensen,86
+55013,Burnett,Jade Simmons,0
+55013,Burnett,Howie Hawkins,1
+55013,Burnett,Gloria La Riva,0
+55013,Burnett,SCATTERING,0
+55013,Burnett,President R19 Boddie Stoneham,0
+55013,Burnett,Kasey Wells,0
+55013,Burnett,Brian Carroll,9
+55015,Calumet,Jo Jorgensen,363
+55015,Calumet,Don Blankenship,42
+55015,Calumet,Mark Charles,0
+55015,Calumet,Gloria La Riva,0
+55015,Calumet,Kanye West,3
+55015,Calumet,Brian Carroll,75
+55015,Calumet,Howie Hawkins,6
+55015,Calumet,SCATTERING,13
+55015,Calumet,Jade Simmons,0
+55015,Calumet,Donald J. Trump,18156
+55015,Calumet,Joseph R. Biden,12116
+55015,Calumet,Kasey Wells,0
+55015,Calumet,President R19 Boddie Stoneham,0
+55017,Chippewa,SCATTERING,24
+55017,Chippewa,Donald J. Trump,21317
+55017,Chippewa,Gloria La Riva,1
+55017,Chippewa,President R19 Boddie Stoneham,0
+55017,Chippewa,Jo Jorgensen,501
+55017,Chippewa,Joseph R. Biden,13983
+55017,Chippewa,Mark Charles,0
+55017,Chippewa,Jade Simmons,0
+55017,Chippewa,Brian Carroll,45
+55017,Chippewa,Don Blankenship,60
+55017,Chippewa,Kanye West,2
+55017,Chippewa,Kasey Wells,0
+55017,Chippewa,Howie Hawkins,5
+55019,Clark,Mark Charles,0
+55019,Clark,Jo Jorgensen,168
+55019,Clark,Kasey Wells,1
+55019,Clark,Jade Simmons,1
+55019,Clark,President R19 Boddie Stoneham,0
+55019,Clark,Gloria La Riva,0
+55019,Clark,SCATTERING,21
+55019,Clark,Don Blankenship,32
+55019,Clark,Kanye West,0
+55019,Clark,Brian Carroll,147
+55019,Clark,Joseph R. Biden,4524
+55019,Clark,Howie Hawkins,2
+55019,Clark,Donald J. Trump,10002
+55021,Columbia,Donald J. Trump,16927
+55021,Columbia,Joseph R. Biden,16410
+55021,Columbia,Mark Charles,0
+55021,Columbia,Gloria La Riva,0
+55021,Columbia,SCATTERING,0
+55021,Columbia,Don Blankenship,61
+55021,Columbia,Brian Carroll,32
+55021,Columbia,Kanye West,2
+55021,Columbia,Kasey Wells,0
+55021,Columbia,President R19 Boddie Stoneham,0
+55021,Columbia,Jade Simmons,1
+55021,Columbia,Jo Jorgensen,421
+55021,Columbia,Howie Hawkins,15
+55023,Crawford,President R19 Boddie Stoneham,0
+55023,Crawford,Howie Hawkins,0
+55023,Crawford,Kasey Wells,0
+55023,Crawford,Jade Simmons,0
+55023,Crawford,Mark Charles,0
+55023,Crawford,Jo Jorgensen,92
+55023,Crawford,Joseph R. Biden,3953
+55023,Crawford,SCATTERING,0
+55023,Crawford,Donald J. Trump,4620
+55023,Crawford,Brian Carroll,12
+55023,Crawford,Kanye West,0
+55023,Crawford,Gloria La Riva,0
+55023,Crawford,Don Blankenship,18
+55025,Dane,Joseph R. Biden,260185
+55025,Dane,Kanye West,67
+55025,Dane,Jade Simmons,5
+55025,Dane,Jo Jorgensen,3668
+55025,Dane,Gloria La Riva,42
+55025,Dane,Mark Charles,12
+55025,Dane,Donald J. Trump,78800
+55025,Dane,SCATTERING,808
+55025,Dane,Kasey Wells,1
+55025,Dane,Howie Hawkins,216
+55025,Dane,Brian Carroll,583
+55025,Dane,President R19 Boddie Stoneham,0
+55025,Dane,Don Blankenship,404
+55027,Dodge,Howie Hawkins,11
+55027,Dodge,Kasey Wells,1
+55027,Dodge,Kanye West,6
+55027,Dodge,Brian Carroll,81
+55027,Dodge,Jade Simmons,0
+55027,Dodge,Jo Jorgensen,535
+55027,Dodge,Joseph R. Biden,16356
+55027,Dodge,Mark Charles,1
+55027,Dodge,Don Blankenship,90
+55027,Dodge,Gloria La Riva,0
+55027,Dodge,Donald J. Trump,31355
+55027,Dodge,President R19 Boddie Stoneham,0
+55027,Dodge,SCATTERING,0
+55029,Door,Gloria La Riva,0
+55029,Door,Howie Hawkins,10
+55029,Door,Jade Simmons,0
+55029,Door,Kasey Wells,0
+55029,Door,President R19 Boddie Stoneham,0
+55029,Door,Brian Carroll,22
+55029,Door,Kanye West,0
+55029,Door,Jo Jorgensen,231
+55029,Door,Joseph R. Biden,10044
+55029,Door,Mark Charles,0
+55029,Door,Don Blankenship,27
+55029,Door,SCATTERING,31
+55029,Door,Donald J. Trump,9752
+55031,Douglas,Joseph R. Biden,13218
+55031,Douglas,Gloria La Riva,0
+55031,Douglas,Don Blankenship,42
+55031,Douglas,Howie Hawkins,1
+55031,Douglas,Kasey Wells,0
+55031,Douglas,Jade Simmons,0
+55031,Douglas,President R19 Boddie Stoneham,0
+55031,Douglas,Donald J. Trump,10923
+55031,Douglas,Kanye West,0
+55031,Douglas,SCATTERING,73
+55031,Douglas,Mark Charles,0
+55031,Douglas,Jo Jorgensen,379
+55031,Douglas,Brian Carroll,41
+55033,Dunn,Don Blankenship,44
+55033,Dunn,Brian Carroll,28
+55033,Dunn,Jo Jorgensen,368
+55033,Dunn,President R19 Boddie Stoneham,0
+55033,Dunn,Kasey Wells,1
+55033,Dunn,Mark Charles,0
+55033,Dunn,Joseph R. Biden,9897
+55033,Dunn,Gloria La Riva,0
+55033,Dunn,Donald J. Trump,13173
+55033,Dunn,SCATTERING,0
+55033,Dunn,Howie Hawkins,11
+55033,Dunn,Kanye West,2
+55033,Dunn,Jade Simmons,0
+55035,Eau Claire,SCATTERING,166
+55035,Eau Claire,Mark Charles,0
+55035,Eau Claire,President R19 Boddie Stoneham,0
+55035,Eau Claire,Kanye West,10
+55035,Eau Claire,Jo Jorgensen,925
+55035,Eau Claire,Donald J. Trump,25341
+55035,Eau Claire,Don Blankenship,97
+55035,Eau Claire,Jade Simmons,3
+55035,Eau Claire,Kasey Wells,0
+55035,Eau Claire,Gloria La Riva,1
+55035,Eau Claire,Brian Carroll,91
+55035,Eau Claire,Howie Hawkins,21
+55035,Eau Claire,Joseph R. Biden,31620
+55037,Florence,Joseph R. Biden,781
+55037,Florence,Jade Simmons,0
+55037,Florence,Howie Hawkins,0
+55037,Florence,Mark Charles,0
+55037,Florence,SCATTERING,0
+55037,Florence,Donald J. Trump,2133
+55037,Florence,Don Blankenship,4
+55037,Florence,President R19 Boddie Stoneham,0
+55037,Florence,Gloria La Riva,0
+55037,Florence,Jo Jorgensen,22
+55037,Florence,Brian Carroll,0
+55037,Florence,Kanye West,0
+55037,Florence,Kasey Wells,0
+55039,Fond Du Lac,Mark Charles,1
+55039,Fond Du Lac,Brian Carroll,75
+55039,Fond Du Lac,Kasey Wells,0
+55039,Fond Du Lac,Howie Hawkins,17
+55039,Fond Du Lac,Donald J. Trump,35754
+55039,Fond Du Lac,President R19 Boddie Stoneham,0
+55039,Fond Du Lac,Gloria La Riva,1
+55039,Fond Du Lac,SCATTERING,29
+55039,Fond Du Lac,Jade Simmons,2
+55039,Fond Du Lac,Don Blankenship,91
+55039,Fond Du Lac,Kanye West,7
+55039,Fond Du Lac,Joseph R. Biden,20588
+55039,Fond Du Lac,Jo Jorgensen,686
+55041,Forest,Mark Charles,0
+55041,Forest,Howie Hawkins,0
+55041,Forest,Joseph R. Biden,1721
+55041,Forest,Jo Jorgensen,35
+55041,Forest,President R19 Boddie Stoneham,0
+55041,Forest,Jade Simmons,0
+55041,Forest,Don Blankenship,6
+55041,Forest,Kasey Wells,0
+55041,Forest,Gloria La Riva,0
+55041,Forest,Brian Carroll,2
+55041,Forest,SCATTERING,4
+55041,Forest,Kanye West,0
+55041,Forest,Donald J. Trump,3285
+55043,Grant,Kasey Wells,0
+55043,Grant,Jo Jorgensen,350
+55043,Grant,Howie Hawkins,10
+55043,Grant,Brian Carroll,34
+55043,Grant,Don Blankenship,34
+55043,Grant,President R19 Boddie Stoneham,0
+55043,Grant,Mark Charles,0
+55043,Grant,Kanye West,0
+55043,Grant,SCATTERING,40
+55043,Grant,Joseph R. Biden,10998
+55043,Grant,Gloria La Riva,0
+55043,Grant,Donald J. Trump,14142
+55043,Grant,Jade Simmons,0
+55045,Green,Jade Simmons,1
+55045,Green,Don Blankenship,38
+55045,Green,Gloria La Riva,0
+55045,Green,Brian Carroll,27
+55045,Green,Kasey Wells,0
+55045,Green,SCATTERING,34
+55045,Green,President R19 Boddie Stoneham,0
+55045,Green,Kanye West,2
+55045,Green,Howie Hawkins,10
+55045,Green,Donald J. Trump,10169
+55045,Green,Joseph R. Biden,10851
+55045,Green,Jo Jorgensen,271
+55045,Green,Mark Charles,3
+55047,Green Lake,Don Blankenship,15
+55047,Green Lake,Howie Hawkins,1
+55047,Green Lake,Kasey Wells,0
+55047,Green Lake,Donald J. Trump,7168
+55047,Green Lake,Jade Simmons,0
+55047,Green Lake,Kanye West,0
+55047,Green Lake,SCATTERING,22
+55047,Green Lake,Brian Carroll,11
+55047,Green Lake,Joseph R. Biden,3344
+55047,Green Lake,President R19 Boddie Stoneham,0
+55047,Green Lake,Mark Charles,0
+55047,Green Lake,Gloria La Riva,0
+55047,Green Lake,Jo Jorgensen,110
+55049,Iowa,Jo Jorgensen,161
+55049,Iowa,Jade Simmons,0
+55049,Iowa,Mark Charles,0
+55049,Iowa,Don Blankenship,25
+55049,Iowa,President R19 Boddie Stoneham,0
+55049,Iowa,SCATTERING,16
+55049,Iowa,Kasey Wells,0
+55049,Iowa,Howie Hawkins,4
+55049,Iowa,Joseph R. Biden,7828
+55049,Iowa,Brian Carroll,44
+55049,Iowa,Gloria La Riva,0
+55049,Iowa,Kanye West,5
+55049,Iowa,Donald J. Trump,5909
+55051,Iron,Jo Jorgensen,26
+55051,Iron,Mark Charles,0
+55051,Iron,Joseph R. Biden,1533
+55051,Iron,Howie Hawkins,1
+55051,Iron,Don Blankenship,6
+55051,Iron,SCATTERING,5
+55051,Iron,Donald J. Trump,2438
+55051,Iron,President R19 Boddie Stoneham,0
+55051,Iron,Kasey Wells,0
+55051,Iron,Kanye West,0
+55051,Iron,Brian Carroll,1
+55051,Iron,Gloria La Riva,0
+55051,Iron,Jade Simmons,0
+55053,Jackson,Jade Simmons,0
+55053,Jackson,Kanye West,0
+55053,Jackson,Joseph R. Biden,4256
+55053,Jackson,Gloria La Riva,0
+55053,Jackson,Donald J. Trump,5791
+55053,Jackson,Kasey Wells,0
+55053,Jackson,SCATTERING,0
+55053,Jackson,Jo Jorgensen,111
+55053,Jackson,Brian Carroll,8
+55053,Jackson,Mark Charles,0
+55053,Jackson,Howie Hawkins,1
+55053,Jackson,Don Blankenship,17
+55053,Jackson,President R19 Boddie Stoneham,0
+55055,Jefferson,Gloria La Riva,0
+55055,Jefferson,Kasey Wells,0
+55055,Jefferson,Brian Carroll,44
+55055,Jefferson,Joseph R. Biden,19904
+55055,Jefferson,President R19 Boddie Stoneham,0
+55055,Jefferson,Mark Charles,0
+55055,Jefferson,Kanye West,3
+55055,Jefferson,Howie Hawkins,9
+55055,Jefferson,Don Blankenship,69
+55055,Jefferson,Jade Simmons,1
+55055,Jefferson,SCATTERING,107
+55055,Jefferson,Jo Jorgensen,634
+55055,Jefferson,Donald J. Trump,27208
+55057,Juneau,Joseph R. Biden,4746
+55057,Juneau,President R19 Boddie Stoneham,0
+55057,Juneau,Kasey Wells,0
+55057,Juneau,SCATTERING,24
+55057,Juneau,Jade Simmons,0
+55057,Juneau,Kanye West,0
+55057,Juneau,Mark Charles,0
+55057,Juneau,Gloria La Riva,0
+55057,Juneau,Donald J. Trump,8749
+55057,Juneau,Howie Hawkins,2
+55057,Juneau,Don Blankenship,21
+55057,Juneau,Jo Jorgensen,146
+55057,Juneau,Brian Carroll,21
+55059,Kenosha,Howie Hawkins,35
+55059,Kenosha,Mark Charles,0
+55059,Kenosha,SCATTERING,224
+55059,Kenosha,Kasey Wells,0
+55059,Kenosha,Joseph R. Biden,42193
+55059,Kenosha,Jade Simmons,0
+55059,Kenosha,Brian Carroll,120
+55059,Kenosha,President R19 Boddie Stoneham,0
+55059,Kenosha,Jo Jorgensen,1037
+55059,Kenosha,Don Blankenship,147
+55059,Kenosha,Donald J. Trump,44972
+55059,Kenosha,Kanye West,10
+55059,Kenosha,Gloria La Riva,0
+55061,Kewaunee,Mark Charles,1
+55061,Kewaunee,Jo Jorgensen,127
+55061,Kewaunee,Jade Simmons,1
+55061,Kewaunee,Joseph R. Biden,3976
+55061,Kewaunee,Don Blankenship,26
+55061,Kewaunee,Kanye West,2
+55061,Kewaunee,Gloria La Riva,0
+55061,Kewaunee,SCATTERING,18
+55061,Kewaunee,Howie Hawkins,5
+55061,Kewaunee,President R19 Boddie Stoneham,0
+55061,Kewaunee,Brian Carroll,12
+55061,Kewaunee,Donald J. Trump,7927
+55061,Kewaunee,Kasey Wells,0
+55063,La Crosse,Jade Simmons,1
+55063,La Crosse,Kanye West,12
+55063,La Crosse,Don Blankenship,135
+55063,La Crosse,Howie Hawkins,20
+55063,La Crosse,Jo Jorgensen,877
+55063,La Crosse,Gloria La Riva,3
+55063,La Crosse,Brian Carroll,121
+55063,La Crosse,Donald J. Trump,28684
+55063,La Crosse,Joseph R. Biden,37846
+55063,La Crosse,SCATTERING,184
+55063,La Crosse,President R19 Boddie Stoneham,0
+55063,La Crosse,Mark Charles,1
+55063,La Crosse,Kasey Wells,0
+55065,Lafayette,Jo Jorgensen,57
+55065,Lafayette,Gloria La Riva,0
+55065,Lafayette,Mark Charles,0
+55065,Lafayette,Jade Simmons,0
+55065,Lafayette,Don Blankenship,15
+55065,Lafayette,Donald J. Trump,4821
+55065,Lafayette,Kanye West,0
+55065,Lafayette,Howie Hawkins,4
+55065,Lafayette,Joseph R. Biden,3647
+55065,Lafayette,Brian Carroll,9
+55065,Lafayette,President R19 Boddie Stoneham,0
+55065,Lafayette,SCATTERING,2
+55065,Lafayette,Kasey Wells,0
+55067,Langlade,Mark Charles,0
+55067,Langlade,Brian Carroll,13
+55067,Langlade,Kasey Wells,0
+55067,Langlade,Jo Jorgensen,94
+55067,Langlade,Donald J. Trump,7330
+55067,Langlade,Don Blankenship,20
+55067,Langlade,Jade Simmons,1
+55067,Langlade,Kanye West,0
+55067,Langlade,Joseph R. Biden,3704
+55067,Langlade,President R19 Boddie Stoneham,0
+55067,Langlade,SCATTERING,0
+55067,Langlade,Howie Hawkins,3
+55067,Langlade,Gloria La Riva,0
+55069,Lincoln,Don Blankenship,31
+55069,Lincoln,Mark Charles,0
+55069,Lincoln,President R19 Boddie Stoneham,0
+55069,Lincoln,Gloria La Riva,0
+55069,Lincoln,Donald J. Trump,10017
+55069,Lincoln,Kasey Wells,0
+55069,Lincoln,Jo Jorgensen,175
+55069,Lincoln,Howie Hawkins,0
+55069,Lincoln,Jade Simmons,0
+55069,Lincoln,Kanye West,0
+55069,Lincoln,Joseph R. Biden,6261
+55069,Lincoln,SCATTERING,0
+55069,Lincoln,Brian Carroll,13
+55071,Manitowoc,Gloria La Riva,0
+55071,Manitowoc,President R19 Boddie Stoneham,0
+55071,Manitowoc,Howie Hawkins,10
+55071,Manitowoc,Kanye West,5
+55071,Manitowoc,SCATTERING,61
+55071,Manitowoc,Mark Charles,1
+55071,Manitowoc,Jade Simmons,1
+55071,Manitowoc,Kasey Wells,0
+55071,Manitowoc,Jo Jorgensen,553
+55071,Manitowoc,Don Blankenship,75
+55071,Manitowoc,Joseph R. Biden,16818
+55071,Manitowoc,Donald J. Trump,27218
+55071,Manitowoc,Brian Carroll,87
+55073,Marathon,Howie Hawkins,13
+55073,Marathon,Gloria La Riva,2
+55073,Marathon,Joseph R. Biden,30808
+55073,Marathon,SCATTERING,124
+55073,Marathon,Jo Jorgensen,929
+55073,Marathon,Don Blankenship,151
+55073,Marathon,Kasey Wells,0
+55073,Marathon,Brian Carroll,93
+55073,Marathon,Mark Charles,0
+55073,Marathon,Donald J. Trump,44624
+55073,Marathon,Jade Simmons,2
+55073,Marathon,President R19 Boddie Stoneham,0
+55073,Marathon,Kanye West,5
+55075,Marinette,Don Blankenship,33
+55075,Marinette,Donald J. Trump,15304
+55075,Marinette,Kanye West,2
+55075,Marinette,Howie Hawkins,5
+55075,Marinette,Jo Jorgensen,237
+55075,Marinette,Mark Charles,0
+55075,Marinette,Gloria La Riva,0
+55075,Marinette,Brian Carroll,32
+55075,Marinette,Kasey Wells,0
+55075,Marinette,President R19 Boddie Stoneham,0
+55075,Marinette,Joseph R. Biden,7366
+55075,Marinette,SCATTERING,0
+55075,Marinette,Jade Simmons,0
+55077,Marquette,Mark Charles,0
+55077,Marquette,President R19 Boddie Stoneham,0
+55077,Marquette,Donald J. Trump,5719
+55077,Marquette,Jade Simmons,0
+55077,Marquette,Gloria La Riva,1
+55077,Marquette,Jo Jorgensen,78
+55077,Marquette,Kanye West,0
+55077,Marquette,Brian Carroll,4
+55077,Marquette,SCATTERING,12
+55077,Marquette,Joseph R. Biden,3239
+55077,Marquette,Howie Hawkins,2
+55077,Marquette,Kasey Wells,0
+55077,Marquette,Don Blankenship,10
+55078,Menominee,Gloria La Riva,0
+55078,Menominee,Kasey Wells,0
+55078,Menominee,Don Blankenship,3
+55078,Menominee,President R19 Boddie Stoneham,0
+55078,Menominee,Kanye West,0
+55078,Menominee,Jo Jorgensen,6
+55078,Menominee,Donald J. Trump,278
+55078,Menominee,SCATTERING,0
+55078,Menominee,Brian Carroll,0
+55078,Menominee,Joseph R. Biden,1303
+55078,Menominee,Jade Simmons,0
+55078,Menominee,Howie Hawkins,0
+55078,Menominee,Mark Charles,0
+55079,Milwaukee,Brian Carroll,751
+55079,Milwaukee,Jo Jorgensen,4340
+55079,Milwaukee,Kasey Wells,3
+55079,Milwaukee,Howie Hawkins,214
+55079,Milwaukee,Don Blankenship,623
+55079,Milwaukee,Joseph R. Biden,317270
+55079,Milwaukee,SCATTERING,1251
+55079,Milwaukee,Donald J. Trump,134357
+55079,Milwaukee,President R19 Boddie Stoneham,1
+55079,Milwaukee,Kanye West,107
+55079,Milwaukee,Gloria La Riva,37
+55079,Milwaukee,Mark Charles,11
+55079,Milwaukee,Jade Simmons,6
+55081,Monroe,SCATTERING,40
+55081,Monroe,Brian Carroll,30
+55081,Monroe,Don Blankenship,66
+55081,Monroe,President R19 Boddie Stoneham,0
+55081,Monroe,Jo Jorgensen,263
+55081,Monroe,Joseph R. Biden,8433
+55081,Monroe,Kasey Wells,0
+55081,Monroe,Mark Charles,0
+55081,Monroe,Gloria La Riva,0
+55081,Monroe,Donald J. Trump,13775
+55081,Monroe,Howie Hawkins,3
+55081,Monroe,Kanye West,1
+55081,Monroe,Jade Simmons,0
+55083,Oconto,Howie Hawkins,2
+55083,Oconto,Brian Carroll,20
+55083,Oconto,Jo Jorgensen,210
+55083,Oconto,Gloria La Riva,0
+55083,Oconto,Kasey Wells,0
+55083,Oconto,SCATTERING,0
+55083,Oconto,Mark Charles,0
+55083,Oconto,Donald J. Trump,16226
+55083,Oconto,Jade Simmons,0
+55083,Oconto,Kanye West,2
+55083,Oconto,Don Blankenship,40
+55083,Oconto,President R19 Boddie Stoneham,0
+55083,Oconto,Joseph R. Biden,6715
+55085,Oneida,SCATTERING,27
+55085,Oneida,Gloria La Riva,0
+55085,Oneida,President R19 Boddie Stoneham,4
+55085,Oneida,Brian Carroll,17
+55085,Oneida,Jo Jorgensen,283
+55085,Oneida,Mark Charles,0
+55085,Oneida,Joseph R. Biden,10105
+55085,Oneida,Howie Hawkins,3
+55085,Oneida,Donald J. Trump,13671
+55085,Oneida,Kanye West,0
+55085,Oneida,Don Blankenship,43
+55085,Oneida,Jade Simmons,1
+55085,Oneida,Kasey Wells,5
+55087,Outagamie,Jade Simmons,0
+55087,Outagamie,Joseph R. Biden,47667
+55087,Outagamie,Gloria La Riva,0
+55087,Outagamie,Mark Charles,3
+55087,Outagamie,President R19 Boddie Stoneham,0
+55087,Outagamie,Don Blankenship,172
+55087,Outagamie,Jo Jorgensen,1569
+55087,Outagamie,Donald J. Trump,58385
+55087,Outagamie,Kanye West,15
+55087,Outagamie,Kasey Wells,0
+55087,Outagamie,Brian Carroll,177
+55087,Outagamie,SCATTERING,0
+55087,Outagamie,Howie Hawkins,34
+55089,Ozaukee,Don Blankenship,82
+55089,Ozaukee,Jo Jorgensen,647
+55089,Ozaukee,Mark Charles,4
+55089,Ozaukee,Howie Hawkins,19
+55089,Ozaukee,Donald J. Trump,33912
+55089,Ozaukee,Kanye West,6
+55089,Ozaukee,Gloria La Riva,1
+55089,Ozaukee,Joseph R. Biden,26517
+55089,Ozaukee,Brian Carroll,89
+55089,Ozaukee,SCATTERING,209
+55089,Ozaukee,Jade Simmons,0
+55089,Ozaukee,President R19 Boddie Stoneham,0
+55089,Ozaukee,Kasey Wells,0
+55091,Pepin,Kasey Wells,0
+55091,Pepin,Jo Jorgensen,51
+55091,Pepin,Gloria La Riva,0
+55091,Pepin,Don Blankenship,13
+55091,Pepin,President R19 Boddie Stoneham,0
+55091,Pepin,Kanye West,1
+55091,Pepin,Donald J. Trump,2584
+55091,Pepin,Howie Hawkins,2
+55091,Pepin,Brian Carroll,4
+55091,Pepin,Jade Simmons,0
+55091,Pepin,SCATTERING,0
+55091,Pepin,Joseph R. Biden,1489
+55091,Pepin,Mark Charles,0
+55093,Pierce,Mark Charles,0
+55093,Pierce,Jo Jorgensen,383
+55093,Pierce,Gloria La Riva,0
+55093,Pierce,Don Blankenship,57
+55093,Pierce,President R19 Boddie Stoneham,0
+55093,Pierce,Joseph R. Biden,9796
+55093,Pierce,Kasey Wells,0
+55093,Pierce,SCATTERING,39
+55093,Pierce,Howie Hawkins,5
+55093,Pierce,Donald J. Trump,12815
+55093,Pierce,Jade Simmons,0
+55093,Pierce,Kanye West,4
+55093,Pierce,Brian Carroll,218
+55095,Polk,Howie Hawkins,11
+55095,Polk,Brian Carroll,36
+55095,Polk,Kasey Wells,0
+55095,Polk,Kanye West,1
+55095,Polk,Gloria La Riva,0
+55095,Polk,Donald J. Trump,16611
+55095,Polk,Don Blankenship,53
+55095,Polk,President R19 Boddie Stoneham,0
+55095,Polk,SCATTERING,0
+55095,Polk,Mark Charles,0
+55095,Polk,Joseph R. Biden,9370
+55095,Polk,Jo Jorgensen,289
+55095,Polk,Jade Simmons,0
+55097,Portage,Joseph R. Biden,20428
+55097,Portage,Howie Hawkins,31
+55097,Portage,Brian Carroll,67
+55097,Portage,Kasey Wells,0
+55097,Portage,Kanye West,0
+55097,Portage,Gloria La Riva,2
+55097,Portage,Jo Jorgensen,640
+55097,Portage,Donald J. Trump,19299
+55097,Portage,Jade Simmons,1
+55097,Portage,SCATTERING,67
+55097,Portage,Mark Charles,1
+55097,Portage,President R19 Boddie Stoneham,0
+55097,Portage,Don Blankenship,67
+55099,Price,Don Blankenship,14
+55099,Price,President R19 Boddie Stoneham,0
+55099,Price,SCATTERING,0
+55099,Price,Kanye West,1
+55099,Price,Donald J. Trump,5394
+55099,Price,Mark Charles,0
+55099,Price,Joseph R. Biden,3032
+55099,Price,Jade Simmons,0
+55099,Price,Brian Carroll,5
+55099,Price,Kasey Wells,0
+55099,Price,Jo Jorgensen,98
+55099,Price,Gloria La Riva,1
+55099,Price,Howie Hawkins,1
+55101,Racine,Kasey Wells,0
+55101,Racine,Gloria La Riva,2
+55101,Racine,SCATTERING,233
+55101,Racine,President R19 Boddie Stoneham,0
+55101,Racine,Donald J. Trump,54479
+55101,Racine,Joseph R. Biden,50159
+55101,Racine,Don Blankenship,169
+55101,Racine,Jade Simmons,2
+55101,Racine,Mark Charles,2
+55101,Racine,Kanye West,12
+55101,Racine,Brian Carroll,150
+55101,Racine,Jo Jorgensen,1200
+55101,Racine,Howie Hawkins,43
+55103,Richland,Howie Hawkins,0
+55103,Richland,Jo Jorgensen,102
+55103,Richland,Gloria La Riva,0
+55103,Richland,SCATTERING,12
+55103,Richland,President R19 Boddie Stoneham,0
+55103,Richland,Kasey Wells,0
+55103,Richland,Joseph R. Biden,3995
+55103,Richland,Donald J. Trump,4871
+55103,Richland,Don Blankenship,20
+55103,Richland,Kanye West,0
+55103,Richland,Brian Carroll,14
+55103,Richland,Mark Charles,0
+55103,Richland,Jade Simmons,0
+55105,Rock,Kasey Wells,0
+55105,Rock,Don Blankenship,152
+55105,Rock,SCATTERING,177
+55105,Rock,Gloria La Riva,2
+55105,Rock,Mark Charles,0
+55105,Rock,Kanye West,3
+55105,Rock,Joseph R. Biden,46658
+55105,Rock,Jo Jorgensen,1094
+55105,Rock,Brian Carroll,122
+55105,Rock,Donald J. Trump,37138
+55105,Rock,President R19 Boddie Stoneham,0
+55105,Rock,Howie Hawkins,14
+55105,Rock,Jade Simmons,0
+55107,Rusk,SCATTERING,5
+55107,Rusk,Kanye West,2
+55107,Rusk,Joseph R. Biden,2517
+55107,Rusk,Don Blankenship,12
+55107,Rusk,Mark Charles,0
+55107,Rusk,Jade Simmons,0
+55107,Rusk,President R19 Boddie Stoneham,0
+55107,Rusk,Howie Hawkins,0
+55107,Rusk,Kasey Wells,0
+55107,Rusk,Gloria La Riva,0
+55107,Rusk,Donald J. Trump,5257
+55107,Rusk,Jo Jorgensen,85
+55107,Rusk,Brian Carroll,8
+55111,Sauk,Kanye West,7
+55111,Sauk,Mark Charles,0
+55111,Sauk,Kasey Wells,0
+55111,Sauk,Donald J. Trump,17493
+55111,Sauk,Don Blankenship,50
+55111,Sauk,Jade Simmons,0
+55111,Sauk,Jo Jorgensen,441
+55111,Sauk,Brian Carroll,89
+55111,Sauk,Howie Hawkins,15
+55111,Sauk,President R19 Boddie Stoneham,0
+55111,Sauk,SCATTERING,0
+55111,Sauk,Joseph R. Biden,18108
+55111,Sauk,Gloria La Riva,0
+55113,Sawyer,Jade Simmons,0
+55113,Sawyer,Howie Hawkins,1
+55113,Sawyer,Brian Carroll,8
+55113,Sawyer,Donald J. Trump,5909
+55113,Sawyer,President R19 Boddie Stoneham,0
+55113,Sawyer,Gloria La Riva,1
+55113,Sawyer,Don Blankenship,15
+55113,Sawyer,Joseph R. Biden,4498
+55113,Sawyer,Jo Jorgensen,62
+55113,Sawyer,Kanye West,0
+55113,Sawyer,SCATTERING,15
+55113,Sawyer,Kasey Wells,0
+55113,Sawyer,Mark Charles,1
+55115,Shawano,Gloria La Riva,0
+55115,Shawano,Jo Jorgensen,253
+55115,Shawano,Howie Hawkins,3
+55115,Shawano,Brian Carroll,17
+55115,Shawano,Kasey Wells,0
+55115,Shawano,Donald J. Trump,15173
+55115,Shawano,SCATTERING,0
+55115,Shawano,President R19 Boddie Stoneham,0
+55115,Shawano,Don Blankenship,33
+55115,Shawano,Jade Simmons,0
+55115,Shawano,Joseph R. Biden,7131
+55115,Shawano,Kanye West,4
+55115,Shawano,Mark Charles,1
+55117,Sheboygan,Kasey Wells,8
+55117,Sheboygan,Donald J. Trump,37609
+55117,Sheboygan,Brian Carroll,90
+55117,Sheboygan,Kanye West,5
+55117,Sheboygan,Don Blankenship,133
+55117,Sheboygan,President R19 Boddie Stoneham,0
+55117,Sheboygan,SCATTERING,167
+55117,Sheboygan,Mark Charles,0
+55117,Sheboygan,Jo Jorgensen,896
+55117,Sheboygan,Jade Simmons,0
+55117,Sheboygan,Gloria La Riva,0
+55117,Sheboygan,Joseph R. Biden,27101
+55117,Sheboygan,Howie Hawkins,2
+55109,St. Croix,SCATTERING,133
+55109,St. Croix,Donald J. Trump,32199
+55109,St. Croix,President R19 Boddie Stoneham,0
+55109,St. Croix,Jo Jorgensen,878
+55109,St. Croix,Brian Carroll,169
+55109,St. Croix,Gloria La Riva,4
+55109,St. Croix,Kasey Wells,0
+55109,St. Croix,Kanye West,5
+55109,St. Croix,Joseph R. Biden,23190
+55109,St. Croix,Howie Hawkins,13
+55109,St. Croix,Mark Charles,1
+55109,St. Croix,Don Blankenship,115
+55109,St. Croix,Jade Simmons,0
+55119,Taylor,Mark Charles,0
+55119,Taylor,Jo Jorgensen,113
+55119,Taylor,Don Blankenship,31
+55119,Taylor,Howie Hawkins,1
+55119,Taylor,President R19 Boddie Stoneham,0
+55119,Taylor,Jade Simmons,0
+55119,Taylor,Donald J. Trump,7657
+55119,Taylor,Kasey Wells,2
+55119,Taylor,Kanye West,1
+55119,Taylor,SCATTERING,3
+55119,Taylor,Joseph R. Biden,2693
+55119,Taylor,Brian Carroll,185
+55119,Taylor,Gloria La Riva,0
+55121,Trempealeau,Howie Hawkins,3
+55121,Trempealeau,Joseph R. Biden,6285
+55121,Trempealeau,Kasey Wells,0
+55121,Trempealeau,Mark Charles,0
+55121,Trempealeau,Jade Simmons,0
+55121,Trempealeau,Donald J. Trump,8833
+55121,Trempealeau,SCATTERING,21
+55121,Trempealeau,Brian Carroll,21
+55121,Trempealeau,President R19 Boddie Stoneham,0
+55121,Trempealeau,Jo Jorgensen,177
+55121,Trempealeau,Gloria La Riva,0
+55121,Trempealeau,Kanye West,2
+55121,Trempealeau,Don Blankenship,38
+55123,Vernon,Mark Charles,2
+55123,Vernon,Jade Simmons,0
+55123,Vernon,SCATTERING,4
+55123,Vernon,Brian Carroll,24
+55123,Vernon,Kasey Wells,0
+55123,Vernon,Donald J. Trump,8218
+55123,Vernon,Kanye West,1
+55123,Vernon,Don Blankenship,29
+55123,Vernon,Joseph R. Biden,7457
+55123,Vernon,Gloria La Riva,0
+55123,Vernon,Jo Jorgensen,182
+55123,Vernon,President R19 Boddie Stoneham,0
+55123,Vernon,Howie Hawkins,6
+55125,Vilas,Joseph R. Biden,5903
+55125,Vilas,Jo Jorgensen,138
+55125,Vilas,Mark Charles,0
+55125,Vilas,Don Blankenship,22
+55125,Vilas,Gloria La Riva,0
+55125,Vilas,Brian Carroll,14
+55125,Vilas,President R19 Boddie Stoneham,0
+55125,Vilas,SCATTERING,31
+55125,Vilas,Jade Simmons,0
+55125,Vilas,Donald J. Trump,9261
+55125,Vilas,Kasey Wells,0
+55125,Vilas,Kanye West,0
+55125,Vilas,Howie Hawkins,0
+55127,Walworth,Don Blankenship,98
+55127,Walworth,Kasey Wells,0
+55127,Walworth,Mark Charles,0
+55127,Walworth,Kanye West,8
+55127,Walworth,Joseph R. Biden,22789
+55127,Walworth,Howie Hawkins,15
+55127,Walworth,Brian Carroll,75
+55127,Walworth,Jo Jorgensen,641
+55127,Walworth,Gloria La Riva,0
+55127,Walworth,President R19 Boddie Stoneham,0
+55127,Walworth,Jade Simmons,0
+55127,Walworth,Donald J. Trump,33851
+55127,Walworth,SCATTERING,123
+55129,Washburn,Gloria La Riva,0
+55129,Washburn,Howie Hawkins,4
+55129,Washburn,Brian Carroll,13
+55129,Washburn,Donald J. Trump,6334
+55129,Washburn,Mark Charles,0
+55129,Washburn,President R19 Boddie Stoneham,0
+55129,Washburn,Don Blankenship,19
+55129,Washburn,Joseph R. Biden,3867
+55129,Washburn,Kanye West,0
+55129,Washburn,Kasey Wells,0
+55129,Washburn,Jo Jorgensen,123
+55129,Washburn,Jade Simmons,0
+55129,Washburn,SCATTERING,18
+55131,Washington,Donald J. Trump,60237
+55131,Washington,Gloria La Riva,0
+55131,Washington,Jo Jorgensen,941
+55131,Washington,SCATTERING,0
+55131,Washington,Howie Hawkins,28
+55131,Washington,Joseph R. Biden,26650
+55131,Washington,Brian Carroll,78
+55131,Washington,Don Blankenship,125
+55131,Washington,Kanye West,10
+55131,Washington,President R19 Boddie Stoneham,0
+55131,Washington,Jade Simmons,0
+55131,Washington,Mark Charles,0
+55131,Washington,Kasey Wells,1
+55133,Waukesha,Donald J. Trump,159649
+55133,Waukesha,President R19 Boddie Stoneham,0
+55133,Waukesha,SCATTERING,690
+55133,Waukesha,Kasey Wells,0
+55133,Waukesha,Don Blankenship,305
+55133,Waukesha,Howie Hawkins,54
+55133,Waukesha,Gloria La Riva,5
+55133,Waukesha,Jade Simmons,6
+55133,Waukesha,Brian Carroll,331
+55133,Waukesha,Kanye West,26
+55133,Waukesha,Mark Charles,1
+55133,Waukesha,Jo Jorgensen,3023
+55133,Waukesha,Joseph R. Biden,103906
+55135,Waupaca,Kasey Wells,0
+55135,Waupaca,Brian Carroll,29
+55135,Waupaca,Mark Charles,0
+55135,Waupaca,President R19 Boddie Stoneham,0
+55135,Waupaca,SCATTERING,35
+55135,Waupaca,Howie Hawkins,4
+55135,Waupaca,Don Blankenship,48
+55135,Waupaca,Donald J. Trump,18952
+55135,Waupaca,Gloria La Riva,0
+55135,Waupaca,Jo Jorgensen,357
+55135,Waupaca,Jade Simmons,0
+55135,Waupaca,Kanye West,2
+55135,Waupaca,Joseph R. Biden,9703
+55137,Waushara,Kanye West,0
+55137,Waushara,Jade Simmons,0
+55137,Waushara,Brian Carroll,19
+55137,Waushara,Mark Charles,0
+55137,Waushara,Howie Hawkins,0
+55137,Waushara,Donald J. Trump,9016
+55137,Waushara,President R19 Boddie Stoneham,0
+55137,Waushara,SCATTERING,0
+55137,Waushara,Jo Jorgensen,115
+55137,Waushara,Don Blankenship,30
+55137,Waushara,Gloria La Riva,0
+55137,Waushara,Kasey Wells,0
+55137,Waushara,Joseph R. Biden,4388
+55139,Winnebago,Kasey Wells,0
+55139,Winnebago,Mark Charles,0
+55139,Winnebago,SCATTERING,190
+55139,Winnebago,Jade Simmons,0
+55139,Winnebago,Kanye West,12
+55139,Winnebago,Donald J. Trump,47796
+55139,Winnebago,Gloria La Riva,1
+55139,Winnebago,Brian Carroll,138
+55139,Winnebago,Don Blankenship,168
+55139,Winnebago,President R19 Boddie Stoneham,0
+55139,Winnebago,Joseph R. Biden,44060
+55139,Winnebago,Howie Hawkins,38
+55139,Winnebago,Jo Jorgensen,1629
+55141,Wood,Mark Charles,0
+55141,Wood,Jade Simmons,0
+55141,Wood,Brian Carroll,49
+55141,Wood,President R19 Boddie Stoneham,0
+55141,Wood,Howie Hawkins,9
+55141,Wood,Don Blankenship,79
+55141,Wood,Kasey Wells,0
+55141,Wood,Gloria La Riva,0
+55141,Wood,Donald J. Trump,24308
+55141,Wood,Kanye West,4
+55141,Wood,Joseph R. Biden,16365
+55141,Wood,Jo Jorgensen,403
+55141,Wood,SCATTERING,81

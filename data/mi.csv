@@ -1,0 +1,914 @@
+fips,county,candidate,votes
+26001,Alcona,Brian Carroll,1
+26001,Alcona,Don Blankenship,12
+26001,Alcona,Donald J. Trump,4848
+26001,Alcona,Howie Hawkins,11
+26001,Alcona,Jade Simmons,0
+26001,Alcona,Jo Jorgensen,50
+26001,Alcona,Joseph R. Biden,2142
+26001,Alcona,Kasey Wells,0
+26001,Alcona,Rocky De La Fuente,0
+26001,Alcona,Tara Renee Hunter,0
+26001,Alcona,Tom Hoefling,0
+26003,Alger,Brian Carroll,0
+26003,Alger,Don Blankenship,9
+26003,Alger,Donald J. Trump,3014
+26003,Alger,Howie Hawkins,9
+26003,Alger,Jade Simmons,0
+26003,Alger,Jo Jorgensen,41
+26003,Alger,Joseph R. Biden,2053
+26003,Alger,Kasey Wells,0
+26003,Alger,Rocky De La Fuente,2
+26003,Alger,Tara Renee Hunter,0
+26003,Alger,Tom Hoefling,0
+26005,Allegan,Brian Carroll,11
+26005,Allegan,Don Blankenship,118
+26005,Allegan,Donald J. Trump,41393
+26005,Allegan,Howie Hawkins,143
+26005,Allegan,Jade Simmons,1
+26005,Allegan,Jo Jorgensen,943
+26005,Allegan,Joseph R. Biden,24455
+26005,Allegan,Kasey Wells,0
+26005,Allegan,Rocky De La Fuente,37
+26005,Allegan,Tara Renee Hunter,0
+26005,Allegan,Tom Hoefling,0
+26007,Alpena,Brian Carroll,2
+26007,Alpena,Don Blankenship,26
+26007,Alpena,Donald J. Trump,10686
+26007,Alpena,Howie Hawkins,28
+26007,Alpena,Jade Simmons,1
+26007,Alpena,Jo Jorgensen,220
+26007,Alpena,Joseph R. Biden,6000
+26007,Alpena,Kasey Wells,0
+26007,Alpena,Rocky De La Fuente,6
+26007,Alpena,Tara Renee Hunter,0
+26007,Alpena,Tom Hoefling,0
+26009,Antrim,Brian Carroll,0
+26009,Antrim,Don Blankenship,16
+26009,Antrim,Donald J. Trump,9748
+26009,Antrim,Howie Hawkins,28
+26009,Antrim,Jade Simmons,0
+26009,Antrim,Jo Jorgensen,189
+26009,Antrim,Joseph R. Biden,5960
+26009,Antrim,Kasey Wells,0
+26009,Antrim,Rocky De La Fuente,8
+26009,Antrim,Tara Renee Hunter,0
+26009,Antrim,Tom Hoefling,0
+26011,Arenac,Brian Carroll,0
+26011,Arenac,Don Blankenship,17
+26011,Arenac,Donald J. Trump,5928
+26011,Arenac,Howie Hawkins,12
+26011,Arenac,Jade Simmons,0
+26011,Arenac,Jo Jorgensen,97
+26011,Arenac,Joseph R. Biden,2774
+26011,Arenac,Kasey Wells,0
+26011,Arenac,Rocky De La Fuente,3
+26011,Arenac,Tara Renee Hunter,0
+26011,Arenac,Tom Hoefling,0
+26013,Baraga,Brian Carroll,0
+26013,Baraga,Don Blankenship,5
+26013,Baraga,Donald J. Trump,2512
+26013,Baraga,Howie Hawkins,10
+26013,Baraga,Jade Simmons,0
+26013,Baraga,Jo Jorgensen,31
+26013,Baraga,Joseph R. Biden,1478
+26013,Baraga,Kasey Wells,0
+26013,Baraga,Rocky De La Fuente,0
+26013,Baraga,Tara Renee Hunter,0
+26013,Baraga,Tom Hoefling,2
+26015,Barry,Brian Carroll,0
+26015,Barry,Don Blankenship,59
+26015,Barry,Donald J. Trump,23471
+26015,Barry,Howie Hawkins,83
+26015,Barry,Jade Simmons,0
+26015,Barry,Jo Jorgensen,479
+26015,Barry,Joseph R. Biden,11797
+26015,Barry,Kasey Wells,0
+26015,Barry,Rocky De La Fuente,16
+26015,Barry,Tara Renee Hunter,0
+26015,Barry,Tom Hoefling,0
+26017,Bay,Brian Carroll,0
+26017,Bay,Don Blankenship,102
+26017,Bay,Donald J. Trump,33125
+26017,Bay,Howie Hawkins,155
+26017,Bay,Jade Simmons,0
+26017,Bay,Jo Jorgensen,688
+26017,Bay,Joseph R. Biden,26151
+26017,Bay,Kasey Wells,0
+26017,Bay,Rocky De La Fuente,32
+26017,Bay,Tara Renee Hunter,0
+26017,Bay,Tom Hoefling,2
+26019,Benzie,Brian Carroll,2
+26019,Benzie,Don Blankenship,13
+26019,Benzie,Donald J. Trump,6601
+26019,Benzie,Howie Hawkins,29
+26019,Benzie,Jade Simmons,0
+26019,Benzie,Jo Jorgensen,128
+26019,Benzie,Joseph R. Biden,5480
+26019,Benzie,Kasey Wells,0
+26019,Benzie,Rocky De La Fuente,9
+26019,Benzie,Tara Renee Hunter,0
+26019,Benzie,Tom Hoefling,0
+26021,Berrien,Brian Carroll,11
+26021,Berrien,Don Blankenship,140
+26021,Berrien,Donald J. Trump,43519
+26021,Berrien,Howie Hawkins,173
+26021,Berrien,Jade Simmons,1
+26021,Berrien,Jo Jorgensen,1062
+26021,Berrien,Joseph R. Biden,37438
+26021,Berrien,Kasey Wells,0
+26021,Berrien,Rocky De La Fuente,47
+26021,Berrien,Tara Renee Hunter,0
+26021,Berrien,Tom Hoefling,0
+26023,Branch,Brian Carroll,0
+26023,Branch,Don Blankenship,38
+26023,Branch,Donald J. Trump,14064
+26023,Branch,Howie Hawkins,47
+26023,Branch,Jade Simmons,0
+26023,Branch,Jo Jorgensen,216
+26023,Branch,Joseph R. Biden,6159
+26023,Branch,Kasey Wells,0
+26023,Branch,Rocky De La Fuente,12
+26023,Branch,Tara Renee Hunter,0
+26023,Branch,Tom Hoefling,0
+26025,Calhoun,Brian Carroll,4
+26025,Calhoun,Don Blankenship,117
+26025,Calhoun,Donald J. Trump,36221
+26025,Calhoun,Howie Hawkins,137
+26025,Calhoun,Jade Simmons,0
+26025,Calhoun,Jo Jorgensen,890
+26025,Calhoun,Joseph R. Biden,28877
+26025,Calhoun,Kasey Wells,0
+26025,Calhoun,Rocky De La Fuente,34
+26025,Calhoun,Tara Renee Hunter,0
+26025,Calhoun,Tom Hoefling,1
+26027,Cass,Brian Carroll,2
+26027,Cass,Don Blankenship,40
+26027,Cass,Donald J. Trump,16699
+26027,Cass,Howie Hawkins,45
+26027,Cass,Jade Simmons,0
+26027,Cass,Jo Jorgensen,286
+26027,Cass,Joseph R. Biden,9130
+26027,Cass,Kasey Wells,0
+26027,Cass,Rocky De La Fuente,13
+26027,Cass,Tara Renee Hunter,0
+26027,Cass,Tom Hoefling,1
+26029,Charlevoix,Brian Carroll,0
+26029,Charlevoix,Don Blankenship,13
+26029,Charlevoix,Donald J. Trump,9841
+26029,Charlevoix,Howie Hawkins,43
+26029,Charlevoix,Jade Simmons,0
+26029,Charlevoix,Jo Jorgensen,160
+26029,Charlevoix,Joseph R. Biden,6939
+26029,Charlevoix,Kasey Wells,0
+26029,Charlevoix,Rocky De La Fuente,4
+26029,Charlevoix,Tara Renee Hunter,0
+26029,Charlevoix,Tom Hoefling,0
+26031,Cheboygan,Brian Carroll,0
+26031,Cheboygan,Don Blankenship,18
+26031,Cheboygan,Donald J. Trump,10186
+26031,Cheboygan,Howie Hawkins,23
+26031,Cheboygan,Jade Simmons,0
+26031,Cheboygan,Jo Jorgensen,196
+26031,Cheboygan,Joseph R. Biden,5437
+26031,Cheboygan,Kasey Wells,0
+26031,Cheboygan,Rocky De La Fuente,8
+26031,Cheboygan,Tara Renee Hunter,0
+26031,Cheboygan,Tom Hoefling,0
+26033,Chippewa,Brian Carroll,1
+26033,Chippewa,Don Blankenship,26
+26033,Chippewa,Donald J. Trump,10681
+26033,Chippewa,Howie Hawkins,39
+26033,Chippewa,Jade Simmons,1
+26033,Chippewa,Jo Jorgensen,233
+26033,Chippewa,Joseph R. Biden,6648
+26033,Chippewa,Kasey Wells,0
+26033,Chippewa,Rocky De La Fuente,13
+26033,Chippewa,Tara Renee Hunter,0
+26033,Chippewa,Tom Hoefling,0
+26035,Clare,Brian Carroll,0
+26035,Clare,Don Blankenship,20
+26035,Clare,Donald J. Trump,10824
+26035,Clare,Howie Hawkins,34
+26035,Clare,Jade Simmons,0
+26035,Clare,Jo Jorgensen,161
+26035,Clare,Joseph R. Biden,5182
+26035,Clare,Kasey Wells,0
+26035,Clare,Rocky De La Fuente,3
+26035,Clare,Tara Renee Hunter,0
+26035,Clare,Tom Hoefling,0
+26037,Clinton,Brian Carroll,13
+26037,Clinton,Don Blankenship,63
+26037,Clinton,Donald J. Trump,24784
+26037,Clinton,Howie Hawkins,90
+26037,Clinton,Jade Simmons,2
+26037,Clinton,Jo Jorgensen,654
+26037,Clinton,Joseph R. Biden,21044
+26037,Clinton,Kasey Wells,1
+26037,Clinton,Rocky De La Fuente,27
+26037,Clinton,Tara Renee Hunter,0
+26037,Clinton,Tom Hoefling,1
+26039,Crawford,Brian Carroll,0
+26039,Crawford,Don Blankenship,4
+26039,Crawford,Donald J. Trump,5087
+26039,Crawford,Howie Hawkins,24
+26039,Crawford,Jade Simmons,0
+26039,Crawford,Jo Jorgensen,69
+26039,Crawford,Joseph R. Biden,2672
+26039,Crawford,Kasey Wells,0
+26039,Crawford,Rocky De La Fuente,5
+26039,Crawford,Tara Renee Hunter,0
+26039,Crawford,Tom Hoefling,0
+26041,Delta,Brian Carroll,0
+26041,Delta,Don Blankenship,33
+26041,Delta,Donald J. Trump,13207
+26041,Delta,Howie Hawkins,42
+26041,Delta,Jade Simmons,0
+26041,Delta,Jo Jorgensen,249
+26041,Delta,Joseph R. Biden,7606
+26041,Delta,Kasey Wells,0
+26041,Delta,Rocky De La Fuente,14
+26041,Delta,Tara Renee Hunter,0
+26041,Delta,Tom Hoefling,0
+26043,Dickinson,Brian Carroll,0
+26043,Dickinson,Don Blankenship,15
+26043,Dickinson,Donald J. Trump,9617
+26043,Dickinson,Howie Hawkins,15
+26043,Dickinson,Jade Simmons,0
+26043,Dickinson,Jo Jorgensen,187
+26043,Dickinson,Joseph R. Biden,4744
+26043,Dickinson,Kasey Wells,0
+26043,Dickinson,Rocky De La Fuente,11
+26043,Dickinson,Tara Renee Hunter,0
+26043,Dickinson,Tom Hoefling,0
+26045,Eaton,Brian Carroll,21
+26045,Eaton,Don Blankenship,110
+26045,Eaton,Donald J. Trump,31489
+26045,Eaton,Howie Hawkins,157
+26045,Eaton,Jade Simmons,2
+26045,Eaton,Jo Jorgensen,876
+26045,Eaton,Joseph R. Biden,29651
+26045,Eaton,Kasey Wells,0
+26045,Eaton,Rocky De La Fuente,30
+26045,Eaton,Tara Renee Hunter,0
+26045,Eaton,Tom Hoefling,0
+26047,Emmet,Brian Carroll,1
+26047,Emmet,Don Blankenship,26
+26047,Emmet,Donald J. Trump,12135
+26047,Emmet,Howie Hawkins,59
+26047,Emmet,Jade Simmons,0
+26047,Emmet,Jo Jorgensen,284
+26047,Emmet,Joseph R. Biden,9662
+26047,Emmet,Kasey Wells,0
+26047,Emmet,Rocky De La Fuente,10
+26047,Emmet,Tara Renee Hunter,0
+26047,Emmet,Tom Hoefling,0
+26049,Genesee,Brian Carroll,39
+26049,Genesee,Don Blankenship,323
+26049,Genesee,Donald J. Trump,98714
+26049,Genesee,Howie Hawkins,549
+26049,Genesee,Jade Simmons,1
+26049,Genesee,Jo Jorgensen,2234
+26049,Genesee,Joseph R. Biden,119390
+26049,Genesee,Kasey Wells,0
+26049,Genesee,Rocky De La Fuente,106
+26049,Genesee,Tara Renee Hunter,0
+26049,Genesee,Tom Hoefling,4
+26051,Gladwin,Brian Carroll,0
+26051,Gladwin,Don Blankenship,18
+26051,Gladwin,Donald J. Trump,9893
+26051,Gladwin,Howie Hawkins,25
+26051,Gladwin,Jade Simmons,0
+26051,Gladwin,Jo Jorgensen,142
+26051,Gladwin,Joseph R. Biden,4524
+26051,Gladwin,Kasey Wells,0
+26051,Gladwin,Rocky De La Fuente,1
+26051,Gladwin,Tara Renee Hunter,0
+26051,Gladwin,Tom Hoefling,0
+26053,Gogebic,Brian Carroll,0
+26053,Gogebic,Don Blankenship,4
+26053,Gogebic,Donald J. Trump,4600
+26053,Gogebic,Howie Hawkins,21
+26053,Gogebic,Jade Simmons,0
+26053,Gogebic,Jo Jorgensen,67
+26053,Gogebic,Joseph R. Biden,3570
+26053,Gogebic,Kasey Wells,0
+26053,Gogebic,Rocky De La Fuente,4
+26053,Gogebic,Tara Renee Hunter,0
+26053,Gogebic,Tom Hoefling,0
+26055,Grand Traverse,Brian Carroll,9
+26055,Grand Traverse,Don Blankenship,64
+26055,Grand Traverse,Donald J. Trump,30502
+26055,Grand Traverse,Howie Hawkins,151
+26055,Grand Traverse,Jade Simmons,0
+26055,Grand Traverse,Jo Jorgensen,796
+26055,Grand Traverse,Joseph R. Biden,28683
+26055,Grand Traverse,Kasey Wells,0
+26055,Grand Traverse,Rocky De La Fuente,31
+26055,Grand Traverse,Tara Renee Hunter,0
+26055,Grand Traverse,Tom Hoefling,0
+26057,Gratiot,Brian Carroll,1
+26057,Gratiot,Don Blankenship,31
+26057,Gratiot,Donald J. Trump,12102
+26057,Gratiot,Howie Hawkins,49
+26057,Gratiot,Jade Simmons,0
+26057,Gratiot,Jo Jorgensen,240
+26057,Gratiot,Joseph R. Biden,6693
+26057,Gratiot,Kasey Wells,0
+26057,Gratiot,Rocky De La Fuente,11
+26057,Gratiot,Tara Renee Hunter,0
+26057,Gratiot,Tom Hoefling,0
+26059,Hillsdale,Brian Carroll,14
+26059,Hillsdale,Don Blankenship,38
+26059,Hillsdale,Donald J. Trump,17037
+26059,Hillsdale,Howie Hawkins,56
+26059,Hillsdale,Jade Simmons,0
+26059,Hillsdale,Jo Jorgensen,261
+26059,Hillsdale,Joseph R. Biden,5883
+26059,Hillsdale,Kasey Wells,0
+26059,Hillsdale,Rocky De La Fuente,13
+26059,Hillsdale,Tara Renee Hunter,0
+26059,Hillsdale,Tom Hoefling,0
+26061,Houghton,Brian Carroll,0
+26061,Houghton,Don Blankenship,28
+26061,Houghton,Donald J. Trump,10378
+26061,Houghton,Howie Hawkins,49
+26061,Houghton,Jade Simmons,0
+26061,Houghton,Jo Jorgensen,285
+26061,Houghton,Joseph R. Biden,7750
+26061,Houghton,Kasey Wells,0
+26061,Houghton,Rocky De La Fuente,11
+26061,Houghton,Tara Renee Hunter,0
+26061,Houghton,Tom Hoefling,0
+26063,Huron,Brian Carroll,0
+26063,Huron,Don Blankenship,24
+26063,Huron,Donald J. Trump,12731
+26063,Huron,Howie Hawkins,32
+26063,Huron,Jade Simmons,0
+26063,Huron,Jo Jorgensen,145
+26063,Huron,Joseph R. Biden,5490
+26063,Huron,Kasey Wells,0
+26063,Huron,Rocky De La Fuente,15
+26063,Huron,Tara Renee Hunter,0
+26063,Huron,Tom Hoefling,0
+26065,Ingham,Brian Carroll,43
+26065,Ingham,Don Blankenship,221
+26065,Ingham,Donald J. Trump,47639
+26065,Ingham,Howie Hawkins,456
+26065,Ingham,Jade Simmons,2
+26065,Ingham,Jo Jorgensen,1873
+26065,Ingham,Joseph R. Biden,94212
+26065,Ingham,Kasey Wells,0
+26065,Ingham,Rocky De La Fuente,104
+26065,Ingham,Tara Renee Hunter,0
+26065,Ingham,Tom Hoefling,0
+26067,Ionia,Brian Carroll,4
+26067,Ionia,Don Blankenship,55
+26067,Ionia,Donald J. Trump,20657
+26067,Ionia,Howie Hawkins,79
+26067,Ionia,Jade Simmons,0
+26067,Ionia,Jo Jorgensen,490
+26067,Ionia,Joseph R. Biden,10901
+26067,Ionia,Kasey Wells,0
+26067,Ionia,Rocky De La Fuente,23
+26067,Ionia,Tara Renee Hunter,0
+26067,Ionia,Tom Hoefling,0
+26069,Iosco,Brian Carroll,4
+26069,Iosco,Don Blankenship,31
+26069,Iosco,Donald J. Trump,9759
+26069,Iosco,Howie Hawkins,33
+26069,Iosco,Jade Simmons,0
+26069,Iosco,Jo Jorgensen,152
+26069,Iosco,Joseph R. Biden,5373
+26069,Iosco,Kasey Wells,0
+26069,Iosco,Rocky De La Fuente,11
+26069,Iosco,Tara Renee Hunter,0
+26069,Iosco,Tom Hoefling,0
+26071,Iron,Brian Carroll,0
+26071,Iron,Don Blankenship,8
+26071,Iron,Donald J. Trump,4216
+26071,Iron,Howie Hawkins,14
+26071,Iron,Jade Simmons,0
+26071,Iron,Jo Jorgensen,54
+26071,Iron,Joseph R. Biden,2493
+26071,Iron,Kasey Wells,0
+26071,Iron,Rocky De La Fuente,4
+26071,Iron,Tara Renee Hunter,0
+26071,Iron,Tom Hoefling,0
+26073,Isabella,Brian Carroll,0
+26073,Isabella,Don Blankenship,37
+26073,Isabella,Donald J. Trump,14851
+26073,Isabella,Howie Hawkins,102
+26073,Isabella,Jade Simmons,0
+26073,Isabella,Jo Jorgensen,365
+26073,Isabella,Joseph R. Biden,14090
+26073,Isabella,Kasey Wells,0
+26073,Isabella,Rocky De La Fuente,20
+26073,Isabella,Tara Renee Hunter,0
+26073,Isabella,Tom Hoefling,0
+26075,Jackson,Brian Carroll,9
+26075,Jackson,Don Blankenship,108
+26075,Jackson,Donald J. Trump,47372
+26075,Jackson,Howie Hawkins,213
+26075,Jackson,Jade Simmons,1
+26075,Jackson,Jo Jorgensen,1113
+26075,Jackson,Joseph R. Biden,31995
+26075,Jackson,Kasey Wells,0
+26075,Jackson,Rocky De La Fuente,44
+26075,Jackson,Tara Renee Hunter,0
+26075,Jackson,Tom Hoefling,6
+26077,Kalamazoo,Brian Carroll,0
+26077,Kalamazoo,Don Blankenship,219
+26077,Kalamazoo,Donald J. Trump,56823
+26077,Kalamazoo,Howie Hawkins,494
+26077,Kalamazoo,Jade Simmons,0
+26077,Kalamazoo,Jo Jorgensen,2064
+26077,Kalamazoo,Joseph R. Biden,83686
+26077,Kalamazoo,Kasey Wells,0
+26077,Kalamazoo,Rocky De La Fuente,90
+26077,Kalamazoo,Tara Renee Hunter,0
+26077,Kalamazoo,Tom Hoefling,0
+26079,Kalkaska,Brian Carroll,1
+26079,Kalkaska,Don Blankenship,21
+26079,Kalkaska,Donald J. Trump,7436
+26079,Kalkaska,Howie Hawkins,24
+26079,Kalkaska,Jade Simmons,0
+26079,Kalkaska,Jo Jorgensen,142
+26079,Kalkaska,Joseph R. Biden,3002
+26079,Kalkaska,Kasey Wells,0
+26079,Kalkaska,Rocky De La Fuente,5
+26079,Kalkaska,Tara Renee Hunter,0
+26079,Kalkaska,Tom Hoefling,0
+26081,Kent,Brian Carroll,192
+26081,Kent,Don Blankenship,490
+26081,Kent,Donald J. Trump,165741
+26081,Kent,Howie Hawkins,957
+26081,Kent,Jade Simmons,13
+26081,Kent,Jo Jorgensen,5495
+26081,Kent,Joseph R. Biden,187915
+26081,Kent,Kasey Wells,1
+26081,Kent,Rocky De La Fuente,241
+26081,Kent,Tara Renee Hunter,1
+26081,Kent,Tom Hoefling,2
+26083,Keweenaw,Brian Carroll,0
+26083,Keweenaw,Don Blankenship,2
+26083,Keweenaw,Donald J. Trump,862
+26083,Keweenaw,Howie Hawkins,4
+26083,Keweenaw,Jade Simmons,0
+26083,Keweenaw,Jo Jorgensen,17
+26083,Keweenaw,Joseph R. Biden,672
+26083,Keweenaw,Kasey Wells,0
+26083,Keweenaw,Rocky De La Fuente,0
+26083,Keweenaw,Tara Renee Hunter,0
+26083,Keweenaw,Tom Hoefling,0
+26085,Lake,Brian Carroll,0
+26085,Lake,Don Blankenship,9
+26085,Lake,Donald J. Trump,3946
+26085,Lake,Howie Hawkins,12
+26085,Lake,Jade Simmons,0
+26085,Lake,Jo Jorgensen,65
+26085,Lake,Joseph R. Biden,2288
+26085,Lake,Kasey Wells,0
+26085,Lake,Rocky De La Fuente,3
+26085,Lake,Tara Renee Hunter,0
+26085,Lake,Tom Hoefling,0
+26087,Lapeer,Brian Carroll,8
+26087,Lapeer,Don Blankenship,78
+26087,Lapeer,Donald J. Trump,35486
+26087,Lapeer,Howie Hawkins,113
+26087,Lapeer,Jade Simmons,0
+26087,Lapeer,Jo Jorgensen,573
+26087,Lapeer,Joseph R. Biden,16367
+26087,Lapeer,Kasey Wells,0
+26087,Lapeer,Rocky De La Fuente,27
+26087,Lapeer,Tara Renee Hunter,0
+26087,Lapeer,Tom Hoefling,2
+26089,Leelanau,Brian Carroll,2
+26089,Leelanau,Don Blankenship,9
+26089,Leelanau,Donald J. Trump,7916
+26089,Leelanau,Howie Hawkins,40
+26089,Leelanau,Jade Simmons,0
+26089,Leelanau,Jo Jorgensen,134
+26089,Leelanau,Joseph R. Biden,8795
+26089,Leelanau,Kasey Wells,0
+26089,Leelanau,Rocky De La Fuente,4
+26089,Leelanau,Tara Renee Hunter,0
+26089,Leelanau,Tom Hoefling,0
+26091,Lenawee,Brian Carroll,0
+26091,Lenawee,Don Blankenship,84
+26091,Lenawee,Donald J. Trump,31541
+26091,Lenawee,Howie Hawkins,119
+26091,Lenawee,Jade Simmons,1
+26091,Lenawee,Jo Jorgensen,690
+26091,Lenawee,Joseph R. Biden,20918
+26091,Lenawee,Kasey Wells,0
+26091,Lenawee,Rocky De La Fuente,22
+26091,Lenawee,Tara Renee Hunter,0
+26091,Lenawee,Tom Hoefling,0
+26093,Livingston,Brian Carroll,27
+26093,Livingston,Don Blankenship,133
+26093,Livingston,Donald J. Trump,76982
+26093,Livingston,Howie Hawkins,263
+26093,Livingston,Jade Simmons,3
+26093,Livingston,Jo Jorgensen,1511
+26093,Livingston,Joseph R. Biden,48220
+26093,Livingston,Kasey Wells,0
+26093,Livingston,Rocky De La Fuente,57
+26093,Livingston,Tara Renee Hunter,0
+26093,Livingston,Tom Hoefling,1
+26095,Luce,Brian Carroll,0
+26095,Luce,Don Blankenship,11
+26095,Luce,Donald J. Trump,2109
+26095,Luce,Howie Hawkins,8
+26095,Luce,Jade Simmons,0
+26095,Luce,Jo Jorgensen,27
+26095,Luce,Joseph R. Biden,842
+26095,Luce,Kasey Wells,0
+26095,Luce,Rocky De La Fuente,4
+26095,Luce,Tara Renee Hunter,0
+26095,Luce,Tom Hoefling,0
+26097,Mackinac,Brian Carroll,0
+26097,Mackinac,Don Blankenship,8
+26097,Mackinac,Donald J. Trump,4304
+26097,Mackinac,Howie Hawkins,13
+26097,Mackinac,Jade Simmons,0
+26097,Mackinac,Jo Jorgensen,56
+26097,Mackinac,Joseph R. Biden,2632
+26097,Mackinac,Kasey Wells,0
+26097,Mackinac,Rocky De La Fuente,2
+26097,Mackinac,Tara Renee Hunter,0
+26097,Mackinac,Tom Hoefling,0
+26099,Macomb,Brian Carroll,28
+26099,Macomb,Don Blankenship,551
+26099,Macomb,Donald J. Trump,263863
+26099,Macomb,Howie Hawkins,1149
+26099,Macomb,Jade Simmons,7
+26099,Macomb,Jo Jorgensen,4462
+26099,Macomb,Joseph R. Biden,223952
+26099,Macomb,Kasey Wells,2
+26099,Macomb,Rocky De La Fuente,242
+26099,Macomb,Tara Renee Hunter,0
+26099,Macomb,Tom Hoefling,0
+26101,Manistee,Brian Carroll,1
+26101,Manistee,Don Blankenship,28
+26101,Manistee,Donald J. Trump,8321
+26101,Manistee,Howie Hawkins,34
+26101,Manistee,Jade Simmons,0
+26101,Manistee,Jo Jorgensen,154
+26101,Manistee,Joseph R. Biden,6107
+26101,Manistee,Kasey Wells,0
+26101,Manistee,Rocky De La Fuente,10
+26101,Manistee,Tara Renee Hunter,0
+26101,Manistee,Tom Hoefling,0
+26103,Marquette,Brian Carroll,4
+26103,Marquette,Don Blankenship,43
+26103,Marquette,Donald J. Trump,16286
+26103,Marquette,Howie Hawkins,131
+26103,Marquette,Jade Simmons,0
+26103,Marquette,Jo Jorgensen,511
+26103,Marquette,Joseph R. Biden,20465
+26103,Marquette,Kasey Wells,0
+26103,Marquette,Rocky De La Fuente,22
+26103,Marquette,Tara Renee Hunter,0
+26103,Marquette,Tom Hoefling,0
+26105,Mason,Brian Carroll,5
+26105,Mason,Don Blankenship,21
+26105,Mason,Donald J. Trump,10207
+26105,Mason,Howie Hawkins,57
+26105,Mason,Jade Simmons,0
+26105,Mason,Jo Jorgensen,143
+26105,Mason,Joseph R. Biden,6802
+26105,Mason,Kasey Wells,0
+26105,Mason,Rocky De La Fuente,19
+26105,Mason,Tara Renee Hunter,0
+26105,Mason,Tom Hoefling,0
+26107,Mecosta,Brian Carroll,3
+26107,Mecosta,Don Blankenship,37
+26107,Mecosta,Donald J. Trump,13267
+26107,Mecosta,Howie Hawkins,51
+26107,Mecosta,Jade Simmons,0
+26107,Mecosta,Jo Jorgensen,303
+26107,Mecosta,Joseph R. Biden,7375
+26107,Mecosta,Kasey Wells,0
+26107,Mecosta,Rocky De La Fuente,13
+26107,Mecosta,Tara Renee Hunter,0
+26107,Mecosta,Tom Hoefling,0
+26109,Menominee,Brian Carroll,1
+26109,Menominee,Don Blankenship,22
+26109,Menominee,Donald J. Trump,8117
+26109,Menominee,Howie Hawkins,24
+26109,Menominee,Jade Simmons,0
+26109,Menominee,Jo Jorgensen,125
+26109,Menominee,Joseph R. Biden,4316
+26109,Menominee,Kasey Wells,0
+26109,Menominee,Rocky De La Fuente,2
+26109,Menominee,Tara Renee Hunter,0
+26109,Menominee,Tom Hoefling,0
+26111,Midland,Brian Carroll,11
+26111,Midland,Don Blankenship,67
+26111,Midland,Donald J. Trump,27675
+26111,Midland,Howie Hawkins,116
+26111,Midland,Jade Simmons,4
+26111,Midland,Jo Jorgensen,701
+26111,Midland,Joseph R. Biden,20493
+26111,Midland,Kasey Wells,0
+26111,Midland,Rocky De La Fuente,21
+26111,Midland,Tara Renee Hunter,0
+26111,Midland,Tom Hoefling,0
+26113,Missaukee,Brian Carroll,1
+26113,Missaukee,Don Blankenship,10
+26113,Missaukee,Donald J. Trump,6648
+26113,Missaukee,Howie Hawkins,16
+26113,Missaukee,Jade Simmons,0
+26113,Missaukee,Jo Jorgensen,111
+26113,Missaukee,Joseph R. Biden,1967
+26113,Missaukee,Kasey Wells,0
+26113,Missaukee,Rocky De La Fuente,2
+26113,Missaukee,Tara Renee Hunter,0
+26113,Missaukee,Tom Hoefling,0
+26115,Monroe,Brian Carroll,0
+26115,Monroe,Don Blankenship,143
+26115,Monroe,Donald J. Trump,52710
+26115,Monroe,Howie Hawkins,193
+26115,Monroe,Jade Simmons,0
+26115,Monroe,Jo Jorgensen,1086
+26115,Monroe,Joseph R. Biden,32975
+26115,Monroe,Kasey Wells,0
+26115,Monroe,Rocky De La Fuente,41
+26115,Monroe,Tara Renee Hunter,0
+26115,Monroe,Tom Hoefling,0
+26117,Montcalm,Brian Carroll,14
+26117,Montcalm,Don Blankenship,67
+26117,Montcalm,Donald J. Trump,21815
+26117,Montcalm,Howie Hawkins,56
+26117,Montcalm,Jade Simmons,0
+26117,Montcalm,Jo Jorgensen,428
+26117,Montcalm,Joseph R. Biden,9703
+26117,Montcalm,Kasey Wells,0
+26117,Montcalm,Rocky De La Fuente,17
+26117,Montcalm,Tara Renee Hunter,0
+26117,Montcalm,Tom Hoefling,0
+26119,Montmorency,Brian Carroll,0
+26119,Montmorency,Don Blankenship,38
+26119,Montmorency,Donald J. Trump,4171
+26119,Montmorency,Howie Hawkins,11
+26119,Montmorency,Jade Simmons,0
+26119,Montmorency,Jo Jorgensen,11
+26119,Montmorency,Joseph R. Biden,1628
+26119,Montmorency,Kasey Wells,0
+26119,Montmorency,Rocky De La Fuente,0
+26119,Montmorency,Tara Renee Hunter,0
+26119,Montmorency,Tom Hoefling,0
+26121,Muskegon,Brian Carroll,9
+26121,Muskegon,Don Blankenship,134
+26121,Muskegon,Donald J. Trump,45133
+26121,Muskegon,Howie Hawkins,269
+26121,Muskegon,Jade Simmons,0
+26121,Muskegon,Jo Jorgensen,1219
+26121,Muskegon,Joseph R. Biden,45643
+26121,Muskegon,Kasey Wells,0
+26121,Muskegon,Rocky De La Fuente,37
+26121,Muskegon,Tara Renee Hunter,0
+26121,Muskegon,Tom Hoefling,0
+26123,Newaygo,Brian Carroll,5
+26123,Newaygo,Don Blankenship,28
+26123,Newaygo,Donald J. Trump,18857
+26123,Newaygo,Howie Hawkins,56
+26123,Newaygo,Jade Simmons,0
+26123,Newaygo,Jo Jorgensen,331
+26123,Newaygo,Joseph R. Biden,7873
+26123,Newaygo,Kasey Wells,0
+26123,Newaygo,Rocky De La Fuente,11
+26123,Newaygo,Tara Renee Hunter,0
+26123,Newaygo,Tom Hoefling,0
+26125,Oakland,Brian Carroll,127
+26125,Oakland,Don Blankenship,731
+26125,Oakland,Donald J. Trump,325971
+26125,Oakland,Howie Hawkins,1746
+26125,Oakland,Jade Simmons,11
+26125,Oakland,Jo Jorgensen,7282
+26125,Oakland,Joseph R. Biden,434148
+26125,Oakland,Kasey Wells,1
+26125,Oakland,Rocky De La Fuente,331
+26125,Oakland,Tara Renee Hunter,0
+26125,Oakland,Tom Hoefling,3
+26127,Oceana,Brian Carroll,0
+26127,Oceana,Don Blankenship,27
+26127,Oceana,Donald J. Trump,8892
+26127,Oceana,Howie Hawkins,25
+26127,Oceana,Jade Simmons,0
+26127,Oceana,Jo Jorgensen,166
+26127,Oceana,Joseph R. Biden,4944
+26127,Oceana,Kasey Wells,0
+26127,Oceana,Rocky De La Fuente,8
+26127,Oceana,Tara Renee Hunter,0
+26127,Oceana,Tom Hoefling,0
+26129,Ogemaw,Brian Carroll,0
+26129,Ogemaw,Don Blankenship,11
+26129,Ogemaw,Donald J. Trump,8253
+26129,Ogemaw,Howie Hawkins,26
+26129,Ogemaw,Jade Simmons,0
+26129,Ogemaw,Jo Jorgensen,134
+26129,Ogemaw,Joseph R. Biden,3475
+26129,Ogemaw,Kasey Wells,0
+26129,Ogemaw,Rocky De La Fuente,8
+26129,Ogemaw,Tara Renee Hunter,0
+26129,Ogemaw,Tom Hoefling,0
+26131,Ontonagon,Brian Carroll,0
+26131,Ontonagon,Don Blankenship,8
+26131,Ontonagon,Donald J. Trump,2358
+26131,Ontonagon,Howie Hawkins,13
+26131,Ontonagon,Jade Simmons,0
+26131,Ontonagon,Jo Jorgensen,30
+26131,Ontonagon,Joseph R. Biden,1391
+26131,Ontonagon,Kasey Wells,0
+26131,Ontonagon,Rocky De La Fuente,4
+26131,Ontonagon,Tara Renee Hunter,0
+26131,Ontonagon,Tom Hoefling,0
+26133,Osceola,Brian Carroll,0
+26133,Osceola,Don Blankenship,21
+26133,Osceola,Donald J. Trump,8928
+26133,Osceola,Howie Hawkins,28
+26133,Osceola,Jade Simmons,0
+26133,Osceola,Jo Jorgensen,135
+26133,Osceola,Joseph R. Biden,3214
+26133,Osceola,Kasey Wells,0
+26133,Osceola,Rocky De La Fuente,3
+26133,Osceola,Tara Renee Hunter,0
+26133,Osceola,Tom Hoefling,0
+26135,Oscoda,Brian Carroll,0
+26135,Oscoda,Don Blankenship,12
+26135,Oscoda,Donald J. Trump,3466
+26135,Oscoda,Howie Hawkins,11
+26135,Oscoda,Jade Simmons,0
+26135,Oscoda,Jo Jorgensen,39
+26135,Oscoda,Joseph R. Biden,1342
+26135,Oscoda,Kasey Wells,0
+26135,Oscoda,Rocky De La Fuente,4
+26135,Oscoda,Tara Renee Hunter,0
+26135,Oscoda,Tom Hoefling,0
+26137,Otsego,Brian Carroll,1
+26137,Otsego,Don Blankenship,23
+26137,Otsego,Donald J. Trump,9779
+26137,Otsego,Howie Hawkins,26
+26137,Otsego,Jade Simmons,0
+26137,Otsego,Jo Jorgensen,177
+26137,Otsego,Joseph R. Biden,4743
+26137,Otsego,Kasey Wells,0
+26137,Otsego,Rocky De La Fuente,8
+26137,Otsego,Tara Renee Hunter,0
+26137,Otsego,Tom Hoefling,0
+26139,Ottawa,Brian Carroll,76
+26139,Ottawa,Don Blankenship,215
+26139,Ottawa,Donald J. Trump,100913
+26139,Ottawa,Howie Hawkins,367
+26139,Ottawa,Jade Simmons,7
+26139,Ottawa,Jo Jorgensen,2315
+26139,Ottawa,Joseph R. Biden,64705
+26139,Ottawa,Kasey Wells,0
+26139,Ottawa,Rocky De La Fuente,112
+26139,Ottawa,Tara Renee Hunter,0
+26139,Ottawa,Tom Hoefling,3
+26141,Presque Isle,Brian Carroll,2
+26141,Presque Isle,Don Blankenship,10
+26141,Presque Isle,Donald J. Trump,5342
+26141,Presque Isle,Howie Hawkins,5
+26141,Presque Isle,Jade Simmons,0
+26141,Presque Isle,Jo Jorgensen,70
+26141,Presque Isle,Joseph R. Biden,2911
+26141,Presque Isle,Kasey Wells,0
+26141,Presque Isle,Rocky De La Fuente,4
+26141,Presque Isle,Tara Renee Hunter,0
+26141,Presque Isle,Tom Hoefling,0
+26143,Roscommon,Brian Carroll,0
+26143,Roscommon,Don Blankenship,29
+26143,Roscommon,Donald J. Trump,9670
+26143,Roscommon,Howie Hawkins,25
+26143,Roscommon,Jade Simmons,0
+26143,Roscommon,Jo Jorgensen,121
+26143,Roscommon,Joseph R. Biden,5166
+26143,Roscommon,Kasey Wells,0
+26143,Roscommon,Rocky De La Fuente,7
+26143,Roscommon,Tara Renee Hunter,0
+26143,Roscommon,Tom Hoefling,0
+26145,Saginaw,Brian Carroll,0
+26145,Saginaw,Don Blankenship,160
+26145,Saginaw,Donald J. Trump,50785
+26145,Saginaw,Howie Hawkins,231
+26145,Saginaw,Jade Simmons,2
+26145,Saginaw,Jo Jorgensen,1007
+26145,Saginaw,Joseph R. Biden,51088
+26145,Saginaw,Kasey Wells,0
+26145,Saginaw,Rocky De La Fuente,76
+26145,Saginaw,Tara Renee Hunter,0
+26145,Saginaw,Tom Hoefling,0
+26147,St. Clair,Brian Carroll,0
+26147,St. Clair,Don Blankenship,134
+26147,St. Clair,Donald J. Trump,59191
+26147,St. Clair,Howie Hawkins,213
+26147,St. Clair,Jade Simmons,0
+26147,St. Clair,Jo Jorgensen,1109
+26147,St. Clair,Joseph R. Biden,31363
+26147,St. Clair,Kasey Wells,0
+26147,St. Clair,Rocky De La Fuente,59
+26147,St. Clair,Tara Renee Hunter,0
+26147,St. Clair,Tom Hoefling,0
+26149,St. Joseph,Brian Carroll,0
+26149,St. Joseph,Don Blankenship,49
+26149,St. Joseph,Donald J. Trump,18127
+26149,St. Joseph,Howie Hawkins,63
+26149,St. Joseph,Jade Simmons,1
+26149,St. Joseph,Jo Jorgensen,416
+26149,St. Joseph,Joseph R. Biden,9262
+26149,St. Joseph,Kasey Wells,0
+26149,St. Joseph,Rocky De La Fuente,18
+26149,St. Joseph,Tara Renee Hunter,0
+26149,St. Joseph,Tom Hoefling,0
+26151,Sanilac,Brian Carroll,0
+26151,Sanilac,Don Blankenship,22
+26151,Sanilac,Donald J. Trump,16190
+26151,Sanilac,Howie Hawkins,40
+26151,Sanilac,Jade Simmons,0
+26151,Sanilac,Jo Jorgensen,213
+26151,Sanilac,Joseph R. Biden,5966
+26151,Sanilac,Kasey Wells,0
+26151,Sanilac,Rocky De La Fuente,11
+26151,Sanilac,Tara Renee Hunter,0
+26151,Sanilac,Tom Hoefling,0
+26153,Schoolcraft,Brian Carroll,0
+26153,Schoolcraft,Don Blankenship,10
+26153,Schoolcraft,Donald J. Trump,3090
+26153,Schoolcraft,Howie Hawkins,12
+26153,Schoolcraft,Jade Simmons,0
+26153,Schoolcraft,Jo Jorgensen,40
+26153,Schoolcraft,Joseph R. Biden,1589
+26153,Schoolcraft,Kasey Wells,0
+26153,Schoolcraft,Rocky De La Fuente,4
+26153,Schoolcraft,Tara Renee Hunter,0
+26153,Schoolcraft,Tom Hoefling,0
+26155,Shiwassee,Brian Carroll,3
+26155,Shiwassee,Don Blankenship,82
+26155,Shiwassee,Donald J. Trump,23149
+26155,Shiwassee,Howie Hawkins,98
+26155,Shiwassee,Jade Simmons,1
+26155,Shiwassee,Jo Jorgensen,524
+26155,Shiwassee,Joseph R. Biden,15347
+26155,Shiwassee,Kasey Wells,0
+26155,Shiwassee,Rocky De La Fuente,20
+26155,Shiwassee,Tara Renee Hunter,0
+26155,Shiwassee,Tom Hoefling,0
+26157,Tuscola,Brian Carroll,2
+26157,Tuscola,Don Blankenship,41
+26157,Tuscola,Donald J. Trump,20297
+26157,Tuscola,Howie Hawkins,54
+26157,Tuscola,Jade Simmons,1
+26157,Tuscola,Jo Jorgensen,327
+26157,Tuscola,Joseph R. Biden,8712
+26157,Tuscola,Kasey Wells,0
+26157,Tuscola,Rocky De La Fuente,11
+26157,Tuscola,Tara Renee Hunter,0
+26157,Tuscola,Tom Hoefling,0
+26159,Van Buren,Brian Carroll,2
+26159,Van Buren,Don Blankenship,60
+26159,Van Buren,Donald J. Trump,21590
+26159,Van Buren,Howie Hawkins,91
+26159,Van Buren,Jade Simmons,1
+26159,Van Buren,Jo Jorgensen,504
+26159,Van Buren,Joseph R. Biden,16797
+26159,Van Buren,Kasey Wells,0
+26159,Van Buren,Rocky De La Fuente,14
+26159,Van Buren,Tara Renee Hunter,0
+26159,Van Buren,Tom Hoefling,0
+26161,Washtenaw,Brian Carroll,128
+26161,Washtenaw,Don Blankenship,195
+26161,Washtenaw,Donald J. Trump,56241
+26161,Washtenaw,Howie Hawkins,651
+26161,Washtenaw,Jade Simmons,10
+26161,Washtenaw,Jo Jorgensen,1956
+26161,Washtenaw,Joseph R. Biden,157136
+26161,Washtenaw,Kasey Wells,0
+26161,Washtenaw,Rocky De La Fuente,101
+26161,Washtenaw,Tara Renee Hunter,0
+26161,Washtenaw,Tom Hoefling,0
+26163,Wayne,Brian Carroll,70
+26163,Wayne,Don Blankenship,1088
+26163,Wayne,Donald J. Trump,264553
+26163,Wayne,Howie Hawkins,2463
+26163,Wayne,Jade Simmons,13
+26163,Wayne,Jo Jorgensen,6567
+26163,Wayne,Joseph R. Biden,597170
+26163,Wayne,Kasey Wells,0
+26163,Wayne,Rocky De La Fuente,542
+26163,Wayne,Tara Renee Hunter,0
+26163,Wayne,Tom Hoefling,3
+26165,Wexford,Brian Carroll,0
+26165,Wexford,Don Blankenship,20
+26165,Wexford,Donald J. Trump,12102
+26165,Wexford,Howie Hawkins,42
+26165,Wexford,Jade Simmons,0
+26165,Wexford,Jo Jorgensen,259
+26165,Wexford,Joseph R. Biden,5838
+26165,Wexford,Kasey Wells,0
+26165,Wexford,Rocky De La Fuente,4
+26165,Wexford,Tara Renee Hunter,0
+26165,Wexford,Tom Hoefling,0

@@ -1,0 +1,274 @@
+fips,county,candidate,votes
+53001,Adams,Alyson Kennedy,5
+53001,Adams,Donald J. Trump,3907
+53001,Adams,Gloria La Riva,10
+53001,Adams,Howie Hawkins,18
+53001,Adams,Jo Jorgensen,82
+53001,Adams,Joseph R. Biden,1814
+53001,Adams,Write-in,26
+53003,Asotin,Alyson Kennedy,6
+53003,Asotin,Donald J. Trump,7319
+53003,Asotin,Gloria La Riva,9
+53003,Asotin,Howie Hawkins,36
+53003,Asotin,Jo Jorgensen,260
+53003,Asotin,Joseph R. Biden,4250
+53003,Asotin,Write-in,71
+53005,Benton,Alyson Kennedy,57
+53005,Benton,Donald J. Trump,60365
+53005,Benton,Gloria La Riva,119
+53005,Benton,Howie Hawkins,354
+53005,Benton,Jo Jorgensen,2706
+53005,Benton,Joseph R. Biden,38706
+53005,Benton,Write-in,726
+53007,Chelan,Alyson Kennedy,21
+53007,Chelan,Donald J. Trump,22746
+53007,Chelan,Gloria La Riva,44
+53007,Chelan,Howie Hawkins,156
+53007,Chelan,Jo Jorgensen,709
+53007,Chelan,Joseph R. Biden,19349
+53007,Chelan,Write-in,281
+53009,Clallam,Alyson Kennedy,44
+53009,Clallam,Donald J. Trump,23062
+53009,Clallam,Gloria La Riva,63
+53009,Clallam,Howie Hawkins,241
+53009,Clallam,Jo Jorgensen,894
+53009,Clallam,Joseph R. Biden,24721
+53009,Clallam,Write-in,239
+53011,Clark,Alyson Kennedy,140
+53011,Clark,Donald J. Trump,126303
+53011,Clark,Gloria La Riva,238
+53011,Clark,Howie Hawkins,1126
+53011,Clark,Jo Jorgensen,5320
+53011,Clark,Joseph R. Biden,140324
+53011,Clark,Write-in,1952
+53013,Columbia,Alyson Kennedy,3
+53013,Columbia,Donald J. Trump,1754
+53013,Columbia,Gloria La Riva,1
+53013,Columbia,Howie Hawkins,5
+53013,Columbia,Jo Jorgensen,51
+53013,Columbia,Joseph R. Biden,668
+53013,Columbia,Write-in,13
+53015,Cowlitz,Alyson Kennedy,45
+53015,Cowlitz,Donald J. Trump,34424
+53015,Cowlitz,Gloria La Riva,45
+53015,Cowlitz,Howie Hawkins,243
+53015,Cowlitz,Jo Jorgensen,1274
+53015,Cowlitz,Joseph R. Biden,23938
+53015,Cowlitz,Write-in,311
+53017,Douglas,Alyson Kennedy,12
+53017,Douglas,Donald J. Trump,12955
+53017,Douglas,Gloria La Riva,13
+53017,Douglas,Howie Hawkins,57
+53017,Douglas,Jo Jorgensen,335
+53017,Douglas,Joseph R. Biden,7811
+53017,Douglas,Write-in,125
+53019,Ferry,Alyson Kennedy,3
+53019,Ferry,Donald J. Trump,2771
+53019,Ferry,Gloria La Riva,5
+53019,Ferry,Howie Hawkins,10
+53019,Ferry,Jo Jorgensen,76
+53019,Ferry,Joseph R. Biden,1486
+53019,Ferry,Write-in,16
+53021,Franklin,Alyson Kennedy,22
+53021,Franklin,Donald J. Trump,18039
+53021,Franklin,Gloria La Riva,32
+53021,Franklin,Howie Hawkins,110
+53021,Franklin,Jo Jorgensen,683
+53021,Franklin,Joseph R. Biden,13340
+53021,Franklin,Write-in,178
+53023,Garfield,Alyson Kennedy,1
+53023,Garfield,Donald J. Trump,1069
+53023,Garfield,Gloria La Riva,1
+53023,Garfield,Howie Hawkins,2
+53023,Garfield,Jo Jorgensen,42
+53023,Garfield,Joseph R. Biden,366
+53023,Garfield,Write-in,8
+53025,Grant,Alyson Kennedy,26
+53025,Grant,Donald J. Trump,24764
+53025,Grant,Gloria La Riva,44
+53025,Grant,Howie Hawkins,112
+53025,Grant,Jo Jorgensen,710
+53025,Grant,Joseph R. Biden,11819
+53025,Grant,Write-in,205
+53027,Grays Harbor,Alyson Kennedy,31
+53027,Grays Harbor,Donald J. Trump,19877
+53027,Grays Harbor,Gloria La Riva,30
+53027,Grays Harbor,Howie Hawkins,200
+53027,Grays Harbor,Jo Jorgensen,764
+53027,Grays Harbor,Joseph R. Biden,17354
+53027,Grays Harbor,Write-in,185
+53029,Island,Alyson Kennedy,25
+53029,Island,Donald J. Trump,22746
+53029,Island,Gloria La Riva,51
+53029,Island,Howie Hawkins,216
+53029,Island,Jo Jorgensen,1288
+53029,Island,Joseph R. Biden,29213
+53029,Island,Write-in,386
+53031,Jefferson,Alyson Kennedy,13
+53031,Jefferson,Donald J. Trump,6931
+53031,Jefferson,Gloria La Riva,34
+53031,Jefferson,Howie Hawkins,146
+53031,Jefferson,Jo Jorgensen,330
+53031,Jefferson,Joseph R. Biden,17204
+53031,Jefferson,Write-in,134
+53033,King,Alyson Kennedy,673
+53033,King,Donald J. Trump,269167
+53033,King,Gloria La Riva,1610
+53033,King,Howie Hawkins,5662
+53033,King,Jo Jorgensen,18148
+53033,King,Joseph R. Biden,907310
+53033,King,Write-in,7937
+53035,Kitsap,Alyson Kennedy,106
+53035,Kitsap,Donald J. Trump,61563
+53035,Kitsap,Gloria La Riva,143
+53035,Kitsap,Howie Hawkins,723
+53035,Kitsap,Jo Jorgensen,4813
+53035,Kitsap,Joseph R. Biden,90277
+53035,Kitsap,Write-in,1047
+53037,Kittitas,Alyson Kennedy,9
+53037,Kittitas,Donald J. Trump,14105
+53037,Kittitas,Gloria La Riva,22
+53037,Kittitas,Howie Hawkins,101
+53037,Kittitas,Jo Jorgensen,540
+53037,Kittitas,Joseph R. Biden,11421
+53037,Kittitas,Write-in,166
+53039,Klickitat,Alyson Kennedy,11
+53039,Klickitat,Donald J. Trump,7237
+53039,Klickitat,Gloria La Riva,13
+53039,Klickitat,Howie Hawkins,50
+53039,Klickitat,Jo Jorgensen,211
+53039,Klickitat,Joseph R. Biden,5959
+53039,Klickitat,Write-in,79
+53041,Lewis,Alyson Kennedy,20
+53041,Lewis,Donald J. Trump,29391
+53041,Lewis,Gloria La Riva,42
+53041,Lewis,Howie Hawkins,177
+53041,Lewis,Jo Jorgensen,927
+53041,Lewis,Joseph R. Biden,14520
+53041,Lewis,Write-in,232
+53043,Lincoln,Alyson Kennedy,1
+53043,Lincoln,Donald J. Trump,5150
+53043,Lincoln,Gloria La Riva,3
+53043,Lincoln,Howie Hawkins,15
+53043,Lincoln,Jo Jorgensen,111
+53043,Lincoln,Joseph R. Biden,1713
+53043,Lincoln,Write-in,40
+53045,Mason,Alyson Kennedy,25
+53045,Mason,Donald J. Trump,18710
+53045,Mason,Gloria La Riva,45
+53045,Mason,Howie Hawkins,175
+53045,Mason,Jo Jorgensen,888
+53045,Mason,Joseph R. Biden,17269
+53045,Mason,Write-in,191
+53047,Okanogan,Alyson Kennedy,17
+53047,Okanogan,Donald J. Trump,11840
+53047,Okanogan,Gloria La Riva,24
+53047,Okanogan,Howie Hawkins,81
+53047,Okanogan,Jo Jorgensen,290
+53047,Okanogan,Joseph R. Biden,8900
+53047,Okanogan,Write-in,130
+53049,Pacific,Alyson Kennedy,10
+53049,Pacific,Donald J. Trump,6953
+53049,Pacific,Gloria La Riva,13
+53049,Pacific,Howie Hawkins,46
+53049,Pacific,Jo Jorgensen,201
+53049,Pacific,Joseph R. Biden,6794
+53049,Pacific,Write-in,47
+53051,Pend Oreille,Alyson Kennedy,5
+53051,Pend Oreille,Donald J. Trump,5728
+53051,Pend Oreille,Gloria La Riva,9
+53051,Pend Oreille,Howie Hawkins,31
+53051,Pend Oreille,Jo Jorgensen,147
+53051,Pend Oreille,Joseph R. Biden,2593
+53051,Pend Oreille,Write-in,40
+53053,Pierce,Alyson Kennedy,318
+53053,Pierce,Donald J. Trump,197730
+53053,Pierce,Gloria La Riva,539
+53053,Pierce,Howie Hawkins,2126
+53053,Pierce,Jo Jorgensen,10495
+53053,Pierce,Joseph R. Biden,249506
+53053,Pierce,Write-in,3367
+53055,San Juan,Alyson Kennedy,9
+53055,San Juan,Donald J. Trump,3057
+53055,San Juan,Gloria La Riva,16
+53055,San Juan,Howie Hawkins,73
+53055,San Juan,Jo Jorgensen,210
+53055,San Juan,Joseph R. Biden,9725
+53055,San Juan,Write-in,107
+53057,Skagit,Alyson Kennedy,54
+53057,Skagit,Donald J. Trump,32762
+53057,Skagit,Gloria La Riva,90
+53057,Skagit,Howie Hawkins,287
+53057,Skagit,Jo Jorgensen,1492
+53057,Skagit,Joseph R. Biden,38252
+53057,Skagit,Write-in,486
+53059,Skamania,Alyson Kennedy,5
+53059,Skamania,Donald J. Trump,3885
+53059,Skamania,Gloria La Riva,5
+53059,Skamania,Howie Hawkins,28
+53059,Skamania,Jo Jorgensen,153
+53059,Skamania,Joseph R. Biden,3192
+53059,Skamania,Write-in,44
+53061,Snohomish,Alyson Kennedy,248
+53061,Snohomish,Donald J. Trump,166428
+53061,Snohomish,Gloria La Riva,485
+53061,Snohomish,Howie Hawkins,2003
+53061,Snohomish,Jo Jorgensen,9690
+53061,Snohomish,Joseph R. Biden,256728
+53061,Snohomish,Write-in,3214
+53063,Spokane,Alyson Kennedy,199
+53063,Spokane,Donald J. Trump,148576
+53063,Spokane,Gloria La Riva,310
+53063,Spokane,Howie Hawkins,1297
+53063,Spokane,Jo Jorgensen,7147
+53063,Spokane,Joseph R. Biden,135765
+53063,Spokane,Write-in,2136
+53065,Stevens,Alyson Kennedy,14
+53065,Stevens,Donald J. Trump,19808
+53065,Stevens,Gloria La Riva,18
+53065,Stevens,Howie Hawkins,77
+53065,Stevens,Jo Jorgensen,527
+53065,Stevens,Joseph R. Biden,7839
+53065,Stevens,Write-in,147
+53067,Thurston,Alyson Kennedy,111
+53067,Thurston,Donald J. Trump,65277
+53067,Thurston,Gloria La Riva,282
+53067,Thurston,Howie Hawkins,979
+53067,Thurston,Jo Jorgensen,3708
+53067,Thurston,Joseph R. Biden,96608
+53067,Thurston,Write-in,1169
+53069,Wahkiakum,Alyson Kennedy,2
+53069,Wahkiakum,Donald J. Trump,1741
+53069,Wahkiakum,Gloria La Riva,0
+53069,Wahkiakum,Howie Hawkins,19
+53069,Wahkiakum,Jo Jorgensen,45
+53069,Wahkiakum,Joseph R. Biden,1165
+53069,Wahkiakum,Write-in,9
+53071,Walla Walla,Alyson Kennedy,14
+53071,Walla Walla,Donald J. Trump,16400
+53071,Walla Walla,Gloria La Riva,50
+53071,Walla Walla,Howie Hawkins,132
+53071,Walla Walla,Jo Jorgensen,769
+53071,Walla Walla,Joseph R. Biden,13690
+53071,Walla Walla,Write-in,206
+53073,Whatcom,Alyson Kennedy,89
+53073,Whatcom,Donald J. Trump,50489
+53073,Whatcom,Gloria La Riva,206
+53073,Whatcom,Howie Hawkins,726
+53073,Whatcom,Jo Jorgensen,2490
+53073,Whatcom,Joseph R. Biden,83660
+53073,Whatcom,Write-in,960
+53075,Whitman,Alyson Kennedy,14
+53075,Whitman,Donald J. Trump,9067
+53075,Whitman,Gloria La Riva,22
+53075,Whitman,Howie Hawkins,128
+53075,Whitman,Jo Jorgensen,549
+53075,Whitman,Joseph R. Biden,11184
+53075,Whitman,Write-in,162
+53077,Yakima,Alyson Kennedy,79
+53077,Yakima,Donald J. Trump,50555
+53077,Yakima,Gloria La Riva,154
+53077,Yakima,Howie Hawkins,321
+53077,Yakima,Jo Jorgensen,1425
+53077,Yakima,Joseph R. Biden,43179
+53077,Yakima,Write-in,480

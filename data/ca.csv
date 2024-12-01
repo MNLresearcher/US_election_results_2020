@@ -1,0 +1,639 @@
+fips,county,candidate,votes
+06001,Alameda,Joseph R. Biden,617659
+06001,Alameda,Gloria La Riva,2538
+06001,Alameda,Brian Carroll,127
+06001,Alameda,Brock Pierce,8
+06001,Alameda,Rocky De La Fuente,2399
+06001,Alameda,Donald J. Trump,136309
+06001,Alameda,Jo Jorgensen,6295
+06001,Alameda,Mark Charles,25
+06001,Alameda,Jesse Ventura,29
+06001,Alameda,Howie Hawkins,4664
+06001,Alameda,Joseph Kishore,17
+06003,Alpine,Brian Carroll,0
+06003,Alpine,Donald J. Trump,244
+06003,Alpine,Howie Hawkins,4
+06003,Alpine,Jesse Ventura,0
+06003,Alpine,Gloria La Riva,2
+06003,Alpine,Mark Charles,0
+06003,Alpine,Jo Jorgensen,15
+06003,Alpine,Rocky De La Fuente,0
+06003,Alpine,Brock Pierce,0
+06003,Alpine,Joseph R. Biden,476
+06003,Alpine,Joseph Kishore,0
+06005,Amador,Jesse Ventura,1
+06005,Amador,Rocky De La Fuente,64
+06005,Amador,Brian Carroll,1
+06005,Amador,Gloria La Riva,41
+06005,Amador,Donald J. Trump,13585
+06005,Amador,Brock Pierce,0
+06005,Amador,Joseph R. Biden,8153
+06005,Amador,Jo Jorgensen,349
+06005,Amador,Mark Charles,0
+06005,Amador,Howie Hawkins,110
+06005,Amador,Joseph Kishore,0
+06007,Butte,Joseph R. Biden,50426
+06007,Butte,Jo Jorgensen,1774
+06007,Butte,Rocky De La Fuente,324
+06007,Butte,Jesse Ventura,4
+06007,Butte,Joseph Kishore,0
+06007,Butte,Howie Hawkins,507
+06007,Butte,Brian Carroll,15
+06007,Butte,Mark Charles,2
+06007,Butte,Donald J. Trump,48730
+06007,Butte,Gloria La Riva,281
+06007,Butte,Brock Pierce,3
+06009,Calaveras,Jesse Ventura,0
+06009,Calaveras,Brock Pierce,0
+06009,Calaveras,Mark Charles,0
+06009,Calaveras,Jo Jorgensen,359
+06009,Calaveras,Donald J. Trump,16518
+06009,Calaveras,Rocky De La Fuente,72
+06009,Calaveras,Brian Carroll,0
+06009,Calaveras,Howie Hawkins,125
+06009,Calaveras,Joseph R. Biden,10046
+06009,Calaveras,Joseph Kishore,0
+06009,Calaveras,Gloria La Riva,44
+06011,Colusa,Howie Hawkins,25
+06011,Colusa,Donald J. Trump,4559
+06011,Colusa,Joseph Kishore,0
+06011,Colusa,Gloria La Riva,27
+06011,Colusa,Jo Jorgensen,81
+06011,Colusa,Brian Carroll,0
+06011,Colusa,Brock Pierce,0
+06011,Colusa,Joseph R. Biden,3239
+06011,Colusa,Rocky De La Fuente,30
+06011,Colusa,Jesse Ventura,0
+06011,Colusa,Mark Charles,0
+06013,Contra Costa,Joseph Kishore,2
+06013,Contra Costa,Joseph R. Biden,416386
+06013,Contra Costa,Howie Hawkins,2618
+06013,Contra Costa,Jesse Ventura,10
+06013,Contra Costa,Jo Jorgensen,6116
+06013,Contra Costa,Donald J. Trump,152877
+06013,Contra Costa,Gloria La Riva,1284
+06013,Contra Costa,Brian Carroll,57
+06013,Contra Costa,Rocky De La Fuente,1949
+06013,Contra Costa,Mark Charles,14
+06013,Contra Costa,Brock Pierce,3
+06015,Del Norte,Mark Charles,0
+06015,Del Norte,Brock Pierce,0
+06015,Del Norte,Joseph Kishore,0
+06015,Del Norte,Howie Hawkins,78
+06015,Del Norte,Rocky De La Fuente,53
+06015,Del Norte,Jo Jorgensen,150
+06015,Del Norte,Gloria La Riva,33
+06015,Del Norte,Donald J. Trump,6461
+06015,Del Norte,Jesse Ventura,0
+06015,Del Norte,Brian Carroll,1
+06015,Del Norte,Joseph R. Biden,4677
+06017,El Dorado,Donald J. Trump,61838
+06017,El Dorado,Gloria La Riva,108
+06017,El Dorado,Mark Charles,1
+06017,El Dorado,Jesse Ventura,5
+06017,El Dorado,Jo Jorgensen,1871
+06017,El Dorado,Joseph R. Biden,51621
+06017,El Dorado,Joseph Kishore,0
+06017,El Dorado,Howie Hawkins,460
+06017,El Dorado,Brian Carroll,15
+06017,El Dorado,Brock Pierce,0
+06017,El Dorado,Rocky De La Fuente,240
+06019,Fresno,Jesse Ventura,10
+06019,Fresno,Howie Hawkins,1474
+06019,Fresno,Brian Carroll,64
+06019,Fresno,Brock Pierce,2
+06019,Fresno,Joseph Kishore,0
+06019,Fresno,Jo Jorgensen,4031
+06019,Fresno,Gloria La Riva,668
+06019,Fresno,Joseph R. Biden,193025
+06019,Fresno,Donald J. Trump,164464
+06019,Fresno,Mark Charles,32
+06019,Fresno,Rocky De La Fuente,1147
+06021,Glenn,Joseph R. Biden,3995
+06021,Glenn,Donald J. Trump,7063
+06021,Glenn,Jesse Ventura,0
+06021,Glenn,Joseph Kishore,0
+06021,Glenn,Howie Hawkins,34
+06021,Glenn,Rocky De La Fuente,39
+06021,Glenn,Brian Carroll,5
+06021,Glenn,Jo Jorgensen,128
+06021,Glenn,Gloria La Riva,33
+06021,Glenn,Mark Charles,0
+06021,Glenn,Brock Pierce,0
+06023,Humboldt,Joseph R. Biden,44768
+06023,Humboldt,Gloria La Riva,282
+06023,Humboldt,Joseph Kishore,0
+06023,Humboldt,Howie Hawkins,625
+06023,Humboldt,Rocky De La Fuente,251
+06023,Humboldt,Brian Carroll,7
+06023,Humboldt,Jo Jorgensen,1132
+06023,Humboldt,Donald J. Trump,21770
+06023,Humboldt,Mark Charles,6
+06023,Humboldt,Brock Pierce,0
+06023,Humboldt,Jesse Ventura,2
+06025,Imperial,Brian Carroll,25
+06025,Imperial,Jo Jorgensen,390
+06025,Imperial,Donald J. Trump,20847
+06025,Imperial,Mark Charles,0
+06025,Imperial,Joseph R. Biden,34678
+06025,Imperial,Gloria La Riva,278
+06025,Imperial,Brock Pierce,0
+06025,Imperial,Joseph Kishore,0
+06025,Imperial,Howie Hawkins,234
+06025,Imperial,Rocky De La Fuente,291
+06025,Imperial,Jesse Ventura,0
+06027,Inyo,Rocky De La Fuente,32
+06027,Inyo,Jo Jorgensen,128
+06027,Inyo,Donald J. Trump,4620
+06027,Inyo,Howie Hawkins,45
+06027,Inyo,Brian Carroll,1
+06027,Inyo,Mark Charles,2
+06027,Inyo,Joseph R. Biden,4634
+06027,Inyo,Gloria La Riva,22
+06027,Inyo,Joseph Kishore,0
+06027,Inyo,Jesse Ventura,0
+06027,Inyo,Brock Pierce,0
+06029,Kern,Brian Carroll,35
+06029,Kern,Howie Hawkins,1074
+06029,Kern,Gloria La Riva,1096
+06029,Kern,Jo Jorgensen,3942
+06029,Kern,Mark Charles,20
+06029,Kern,Joseph Kishore,0
+06029,Kern,Donald J. Trump,164484
+06029,Kern,Brock Pierce,2
+06029,Kern,Jesse Ventura,9
+06029,Kern,Rocky De La Fuente,1264
+06029,Kern,Joseph R. Biden,133366
+06031,Kings,Joseph Kishore,0
+06031,Kings,Jo Jorgensen,604
+06031,Kings,Brock Pierce,1
+06031,Kings,Brian Carroll,0
+06031,Kings,Mark Charles,1
+06031,Kings,Jesse Ventura,1
+06031,Kings,Howie Hawkins,125
+06031,Kings,Rocky De La Fuente,180
+06031,Kings,Joseph R. Biden,18699
+06031,Kings,Donald J. Trump,24072
+06031,Kings,Gloria La Riva,178
+06033,Lake,Joseph R. Biden,14941
+06033,Lake,Jesse Ventura,2
+06033,Lake,Gloria La Riva,66
+06033,Lake,Rocky De La Fuente,89
+06033,Lake,Mark Charles,5
+06033,Lake,Brian Carroll,2
+06033,Lake,Howie Hawkins,207
+06033,Lake,Brock Pierce,2
+06033,Lake,Jo Jorgensen,374
+06033,Lake,Joseph Kishore,1
+06033,Lake,Donald J. Trump,13123
+06035,Lassen,Brian Carroll,0
+06035,Lassen,Jo Jorgensen,141
+06035,Lassen,Joseph Kishore,0
+06035,Lassen,Donald J. Trump,8970
+06035,Lassen,Brock Pierce,0
+06035,Lassen,Mark Charles,0
+06035,Lassen,Jesse Ventura,2
+06035,Lassen,Joseph R. Biden,2799
+06035,Lassen,Howie Hawkins,31
+06035,Lassen,Rocky De La Fuente,26
+06035,Lassen,Gloria La Riva,18
+06037,Los Angeles,Donald J. Trump,1145530
+06037,Los Angeles,Joseph R. Biden,3028885
+06037,Los Angeles,Jo Jorgensen,35452
+06037,Los Angeles,Brian Carroll,485
+06037,Los Angeles,Howie Hawkins,21660
+06037,Los Angeles,Joseph Kishore,30
+06037,Los Angeles,Rocky De La Fuente,15999
+06037,Los Angeles,Mark Charles,127
+06037,Los Angeles,Brock Pierce,72
+06037,Los Angeles,Gloria La Riva,15917
+06037,Los Angeles,Jesse Ventura,208
+06039,Madera,Howie Hawkins,217
+06039,Madera,Jo Jorgensen,621
+06039,Madera,Brock Pierce,0
+06039,Madera,Joseph R. Biden,23168
+06039,Madera,Rocky De La Fuente,173
+06039,Madera,Jesse Ventura,2
+06039,Madera,Joseph Kishore,0
+06039,Madera,Donald J. Trump,29378
+06039,Madera,Gloria La Riva,165
+06039,Madera,Mark Charles,0
+06039,Madera,Brian Carroll,8
+06041,Marin,Donald J. Trump,24612
+06041,Marin,Joseph R. Biden,128288
+06041,Marin,Howie Hawkins,724
+06041,Marin,Jo Jorgensen,1536
+06041,Marin,Mark Charles,6
+06041,Marin,Jesse Ventura,9
+06041,Marin,Gloria La Riva,261
+06041,Marin,Joseph Kishore,0
+06041,Marin,Rocky De La Fuente,380
+06041,Marin,Brock Pierce,3
+06041,Marin,Brian Carroll,11
+06043,Mariposa,Brock Pierce,0
+06043,Mariposa,Joseph R. Biden,4088
+06043,Mariposa,Jesse Ventura,0
+06043,Mariposa,Gloria La Riva,22
+06043,Mariposa,Donald J. Trump,5950
+06043,Mariposa,Brian Carroll,0
+06043,Mariposa,Joseph Kishore,0
+06043,Mariposa,Howie Hawkins,39
+06043,Mariposa,Mark Charles,0
+06043,Mariposa,Jo Jorgensen,155
+06043,Mariposa,Rocky De La Fuente,26
+06045,Mendocino,Jo Jorgensen,591
+06045,Mendocino,Jesse Ventura,3
+06045,Mendocino,Brian Carroll,0
+06045,Mendocino,Joseph R. Biden,28782
+06045,Mendocino,Gloria La Riva,179
+06045,Mendocino,Joseph Kishore,0
+06045,Mendocino,Rocky De La Fuente,123
+06045,Mendocino,Howie Hawkins,394
+06045,Mendocino,Donald J. Trump,13267
+06045,Mendocino,Mark Charles,1
+06045,Mendocino,Brock Pierce,0
+06047,Merced,Donald J. Trump,39397
+06047,Merced,Joseph Kishore,0
+06047,Merced,Rocky De La Fuente,391
+06047,Merced,Joseph R. Biden,48991
+06047,Merced,Gloria La Riva,433
+06047,Merced,Jesse Ventura,3
+06047,Merced,Mark Charles,0
+06047,Merced,Brock Pierce,0
+06047,Merced,Howie Hawkins,388
+06047,Merced,Jo Jorgensen,941
+06047,Merced,Brian Carroll,10
+06049,Modoc,Howie Hawkins,15
+06049,Modoc,Jesse Ventura,1
+06049,Modoc,Gloria La Riva,12
+06049,Modoc,Mark Charles,2
+06049,Modoc,Jo Jorgensen,39
+06049,Modoc,Donald J. Trump,3109
+06049,Modoc,Brian Carroll,2
+06049,Modoc,Brock Pierce,0
+06049,Modoc,Joseph Kishore,0
+06049,Modoc,Rocky De La Fuente,13
+06049,Modoc,Joseph R. Biden,1150
+06051,Mono,Brian Carroll,0
+06051,Mono,Rocky De La Fuente,25
+06051,Mono,Joseph R. Biden,4013
+06051,Mono,Joseph Kishore,0
+06051,Mono,Jesse Ventura,1
+06051,Mono,Donald J. Trump,2513
+06051,Mono,Gloria La Riva,18
+06051,Mono,Howie Hawkins,42
+06051,Mono,Brock Pierce,0
+06051,Mono,Mark Charles,0
+06051,Mono,Jo Jorgensen,126
+06053,Monterey,Howie Hawkins,749
+06053,Monterey,Joseph Kishore,2
+06053,Monterey,Brian Carroll,27
+06053,Monterey,Jo Jorgensen,1820
+06053,Monterey,Joseph R. Biden,113953
+06053,Monterey,Rocky De La Fuente,566
+06053,Monterey,Gloria La Riva,496
+06053,Monterey,Donald J. Trump,46299
+06053,Monterey,Brock Pierce,0
+06053,Monterey,Jesse Ventura,6
+06053,Monterey,Mark Charles,5
+06055,Napa,Rocky De La Fuente,241
+06055,Napa,Jo Jorgensen,914
+06055,Napa,Mark Charles,0
+06055,Napa,Brock Pierce,2
+06055,Napa,Joseph Kishore,0
+06055,Napa,Donald J. Trump,20676
+06055,Napa,Joseph R. Biden,49817
+06055,Napa,Brian Carroll,22
+06055,Napa,Howie Hawkins,310
+06055,Napa,Gloria La Riva,164
+06055,Napa,Jesse Ventura,4
+06057,Nevada,Brock Pierce,3
+06057,Nevada,Jesse Ventura,1
+06057,Nevada,Mark Charles,2
+06057,Nevada,Joseph Kishore,0
+06057,Nevada,Brian Carroll,6
+06057,Nevada,Gloria La Riva,147
+06057,Nevada,Joseph R. Biden,36359
+06057,Nevada,Rocky De La Fuente,189
+06057,Nevada,Howie Hawkins,345
+06057,Nevada,Jo Jorgensen,919
+06057,Nevada,Donald J. Trump,26779
+06059,Orange,Brian Carroll,297
+06059,Orange,Joseph R. Biden,814009
+06059,Orange,Mark Charles,44
+06059,Orange,Donald J. Trump,676498
+06059,Orange,Brock Pierce,12
+06059,Orange,Howie Hawkins,5819
+06059,Orange,Gloria La Riva,3432
+06059,Orange,Jo Jorgensen,17325
+06059,Orange,Joseph Kishore,5
+06059,Orange,Jesse Ventura,30
+06059,Orange,Rocky De La Fuente,4642
+06061,Placer,Joseph R. Biden,106869
+06061,Placer,Donald J. Trump,122488
+06061,Placer,Brian Carroll,41
+06061,Placer,Brock Pierce,1
+06061,Placer,Rocky De La Fuente,593
+06061,Placer,Joseph Kishore,0
+06061,Placer,Howie Hawkins,779
+06061,Placer,Gloria La Riva,340
+06061,Placer,Jesse Ventura,10
+06061,Placer,Jo Jorgensen,3948
+06061,Placer,Mark Charles,15
+06063,Plumas,Howie Hawkins,39
+06063,Plumas,Donald J. Trump,6445
+06063,Plumas,Jo Jorgensen,153
+06063,Plumas,Mark Charles,0
+06063,Plumas,Brian Carroll,3
+06063,Plumas,Joseph Kishore,0
+06063,Plumas,Jesse Ventura,0
+06063,Plumas,Joseph R. Biden,4561
+06063,Plumas,Gloria La Riva,27
+06063,Plumas,Rocky De La Fuente,31
+06063,Plumas,Brock Pierce,1
+06065,Riverside,Brock Pierce,4
+06065,Riverside,Jesse Ventura,10
+06065,Riverside,Howie Hawkins,3372
+06065,Riverside,Gloria La Riva,2789
+06065,Riverside,Rocky De La Fuente,3392
+06065,Riverside,Joseph Kishore,1
+06065,Riverside,Brian Carroll,122
+06065,Riverside,Mark Charles,12
+06065,Riverside,Donald J. Trump,449144
+06065,Riverside,Joseph R. Biden,528340
+06065,Riverside,Jo Jorgensen,9970
+06067,Sacramento,Donald J. Trump,259405
+06067,Sacramento,Brian Carroll,95
+06067,Sacramento,Jo Jorgensen,9770
+06067,Sacramento,Mark Charles,22
+06067,Sacramento,Jesse Ventura,19
+06067,Sacramento,Gloria La Riva,2423
+06067,Sacramento,Howie Hawkins,3254
+06067,Sacramento,Brock Pierce,13
+06067,Sacramento,Rocky De La Fuente,2630
+06067,Sacramento,Joseph Kishore,1
+06067,Sacramento,Joseph R. Biden,440808
+06069,San Benito,Donald J. Trump,10590
+06069,San Benito,Gloria La Riva,83
+06069,San Benito,Rocky De La Fuente,84
+06069,San Benito,Brian Carroll,6
+06069,San Benito,Jesse Ventura,1
+06069,San Benito,Joseph R. Biden,17628
+06069,San Benito,Joseph Kishore,0
+06069,San Benito,Mark Charles,2
+06069,San Benito,Howie Hawkins,91
+06069,San Benito,Jo Jorgensen,345
+06069,San Benito,Brock Pierce,0
+06071,San Bernardino,Joseph Kishore,3
+06071,San Bernardino,Mark Charles,20
+06071,San Bernardino,Rocky De La Fuente,3355
+06071,San Bernardino,Howie Hawkins,3619
+06071,San Bernardino,Donald J. Trump,366257
+06071,San Bernardino,Jesse Ventura,33
+06071,San Bernardino,Gloria La Riva,3050
+06071,San Bernardino,Joseph R. Biden,455859
+06071,San Bernardino,Brian Carroll,141
+06071,San Bernardino,Brock Pierce,2
+06071,San Bernardino,Jo Jorgensen,8791
+06073,San Diego,Joseph Kishore,30
+06073,San Diego,Gloria La Riva,2869
+06073,San Diego,Rocky De La Fuente,5302
+06073,San Diego,Joseph R. Biden,964650
+06073,San Diego,Donald J. Trump,600094
+06073,San Diego,Jo Jorgensen,21386
+06073,San Diego,Howie Hawkins,7421
+06073,San Diego,Brock Pierce,16
+06073,San Diego,Brian Carroll,275
+06073,San Diego,Jesse Ventura,49
+06073,San Diego,Mark Charles,51
+06075,San Francisco,Jesse Ventura,18
+06075,San Francisco,Joseph Kishore,5
+06075,San Francisco,Jo Jorgensen,3299
+06075,San Francisco,Gloria La Riva,1543
+06075,San Francisco,Mark Charles,17
+06075,San Francisco,Brock Pierce,7
+06075,San Francisco,Rocky De La Fuente,1262
+06075,San Francisco,Joseph R. Biden,378156
+06075,San Francisco,Howie Hawkins,2781
+06075,San Francisco,Brian Carroll,48
+06075,San Francisco,Donald J. Trump,56417
+06077,San Joaquin,Gloria La Riva,964
+06077,San Joaquin,Mark Charles,8
+06077,San Joaquin,Joseph Kishore,
+06077,San Joaquin,Joseph R. Biden,161137
+06077,San Joaquin,Jo Jorgensen,2929
+06077,San Joaquin,Jesse Ventura,7
+06077,San Joaquin,Howie Hawkins,1064
+06077,San Joaquin,Donald J. Trump,121098
+06077,San Joaquin,Brock Pierce,
+06077,San Joaquin,Rocky De La Fuente,1251
+06077,San Joaquin,Brian Carroll,34
+06079,San Luis Obispo,Gloria La Riva,278
+06079,San Luis Obispo,Brock Pierce,0
+06079,San Luis Obispo,Joseph R. Biden,88310
+06079,San Luis Obispo,Rocky De La Fuente,455
+06079,San Luis Obispo,Brian Carroll,22
+06079,San Luis Obispo,Donald J. Trump,67436
+06079,San Luis Obispo,Howie Hawkins,794
+06079,San Luis Obispo,Jo Jorgensen,2408
+06079,San Luis Obispo,Jesse Ventura,3
+06079,San Luis Obispo,Joseph Kishore,1
+06079,San Luis Obispo,Mark Charles,7
+06081,San Mateo,Joseph R. Biden,291496
+06081,San Mateo,Mark Charles,4
+06081,San Mateo,Brian Carroll,59
+06081,San Mateo,Howie Hawkins,1595
+06081,San Mateo,Donald J. Trump,75584
+06081,San Mateo,Gloria La Riva,797
+06081,San Mateo,Brock Pierce,3
+06081,San Mateo,Jesse Ventura,12
+06081,San Mateo,Jo Jorgensen,3554
+06081,San Mateo,Rocky De La Fuente,1145
+06081,San Mateo,Joseph Kishore,2
+06083,Santa Barbara,Gloria La Riva,520
+06083,Santa Barbara,Joseph R. Biden,129963
+06083,Santa Barbara,Brian Carroll,35
+06083,Santa Barbara,Rocky De La Fuente,714
+06083,Santa Barbara,Mark Charles,7
+06083,Santa Barbara,Donald J. Trump,65736
+06083,Santa Barbara,Brock Pierce,0
+06083,Santa Barbara,Jesse Ventura,7
+06083,Santa Barbara,Howie Hawkins,939
+06083,Santa Barbara,Jo Jorgensen,2416
+06083,Santa Barbara,Joseph Kishore,2
+06085,Santa Clara,Rocky De La Fuente,2623
+06085,Santa Clara,Donald J. Trump,214612
+06085,Santa Clara,Howie Hawkins,4040
+06085,Santa Clara,Jo Jorgensen,9131
+06085,Santa Clara,Mark Charles,24
+06085,Santa Clara,Gloria La Riva,2149
+06085,Santa Clara,Brian Carroll,151
+06085,Santa Clara,Jesse Ventura,29
+06085,Santa Clara,Brock Pierce,7
+06085,Santa Clara,Joseph R. Biden,617967
+06085,Santa Clara,Joseph Kishore,8
+06087,Santa Cruz,Jesse Ventura,9
+06087,Santa Cruz,Joseph Kishore,3
+06087,Santa Cruz,Donald J. Trump,26937
+06087,Santa Cruz,Brock Pierce,4
+06087,Santa Cruz,Joseph R. Biden,114246
+06087,Santa Cruz,Rocky De La Fuente,434
+06087,Santa Cruz,Howie Hawkins,1062
+06087,Santa Cruz,Brian Carroll,17
+06087,Santa Cruz,Jo Jorgensen,1704
+06087,Santa Cruz,Mark Charles,8
+06087,Santa Cruz,Gloria La Riva,413
+06089,Shasta,Rocky De La Fuente,281
+06089,Shasta,Mark Charles,6
+06089,Shasta,Brian Carroll,14
+06089,Shasta,Jo Jorgensen,1277
+06089,Shasta,Jesse Ventura,6
+06089,Shasta,Joseph Kishore,0
+06089,Shasta,Howie Hawkins,368
+06089,Shasta,Brock Pierce,4
+06089,Shasta,Joseph R. Biden,30000
+06089,Shasta,Gloria La Riva,185
+06089,Shasta,Donald J. Trump,60789
+06091,Sierra,Howie Hawkins,13
+06091,Sierra,Rocky De La Fuente,12
+06091,Sierra,Donald J. Trump,1142
+06091,Sierra,Mark Charles,1
+06091,Sierra,Gloria La Riva,6
+06091,Sierra,Joseph R. Biden,730
+06091,Sierra,Brock Pierce,0
+06091,Sierra,Jo Jorgensen,27
+06091,Sierra,Jesse Ventura,0
+06091,Sierra,Brian Carroll,0
+06091,Sierra,Joseph Kishore,0
+06093,Siskiyou,Joseph R. Biden,9593
+06093,Siskiyou,Howie Hawkins,116
+06093,Siskiyou,Joseph Kishore,0
+06093,Siskiyou,Brian Carroll,16
+06093,Siskiyou,Donald J. Trump,13290
+06093,Siskiyou,Gloria La Riva,54
+06093,Siskiyou,Mark Charles,3
+06093,Siskiyou,Rocky De La Fuente,79
+06093,Siskiyou,Jo Jorgensen,318
+06093,Siskiyou,Brock Pierce,2
+06093,Siskiyou,Jesse Ventura,1
+06095,Solano,Rocky De La Fuente,825
+06095,Solano,Howie Hawkins,958
+06095,Solano,Brock Pierce,1
+06095,Solano,Donald J. Trump,69306
+06095,Solano,Joseph Kishore,1
+06095,Solano,Joseph R. Biden,131639
+06095,Solano,Jo Jorgensen,2475
+06095,Solano,Brian Carroll,37
+06095,Solano,Mark Charles,3
+06095,Solano,Gloria La Riva,628
+06095,Solano,Jesse Ventura,4
+06097,Sonoma,Howie Hawkins,1499
+06097,Sonoma,Joseph R. Biden,199938
+06097,Sonoma,Brian Carroll,32
+06097,Sonoma,Brock Pierce,1
+06097,Sonoma,Jo Jorgensen,3418
+06097,Sonoma,Donald J. Trump,61825
+06097,Sonoma,Joseph Kishore,1
+06097,Sonoma,Rocky De La Fuente,832
+06097,Sonoma,Jesse Ventura,15
+06097,Sonoma,Gloria La Riva,740
+06097,Sonoma,Mark Charles,16
+06099,Stanislaus,Brian Carroll,62
+06099,Stanislaus,Jo Jorgensen,2494
+06099,Stanislaus,Gloria La Riva,728
+06099,Stanislaus,Joseph R. Biden,105841
+06099,Stanislaus,Donald J. Trump,104145
+06099,Stanislaus,Jesse Ventura,9
+06099,Stanislaus,Rocky De La Fuente,926
+06099,Stanislaus,Howie Hawkins,742
+06099,Stanislaus,Brock Pierce,0
+06099,Stanislaus,Joseph Kishore,0
+06099,Stanislaus,Mark Charles,7
+06101,Sutter,Mark Charles,0
+06101,Sutter,Rocky De La Fuente,126
+06101,Sutter,Jo Jorgensen,521
+06101,Sutter,Brock Pierce,0
+06101,Sutter,Joseph Kishore,0
+06101,Sutter,Gloria La Riva,115
+06101,Sutter,Brian Carroll,3
+06101,Sutter,Donald J. Trump,24375
+06101,Sutter,Howie Hawkins,136
+06101,Sutter,Joseph R. Biden,17367
+06101,Sutter,Jesse Ventura,1
+06103,Tehama,Brock Pierce,0
+06103,Tehama,Jo Jorgensen,403
+06103,Tehama,Howie Hawkins,90
+06103,Tehama,Rocky De La Fuente,111
+06103,Tehama,Donald J. Trump,19141
+06103,Tehama,Joseph Kishore,0
+06103,Tehama,Joseph R. Biden,8911
+06103,Tehama,Gloria La Riva,65
+06103,Tehama,Jesse Ventura,1
+06103,Tehama,Brian Carroll,7
+06103,Tehama,Mark Charles,2
+06105,Trinity,Jo Jorgensen,117
+06105,Trinity,Joseph R. Biden,2851
+06105,Trinity,Gloria La Riva,25
+06105,Trinity,Brian Carroll,0
+06105,Trinity,Brock Pierce,0
+06105,Trinity,Jesse Ventura,1
+06105,Trinity,Rocky De La Fuente,27
+06105,Trinity,Joseph Kishore,0
+06105,Trinity,Donald J. Trump,3188
+06105,Trinity,Howie Hawkins,50
+06105,Trinity,Mark Charles,0
+06107,Tulare,Jesse Ventura,2
+06107,Tulare,Brock Pierce,1
+06107,Tulare,Joseph Kishore,0
+06107,Tulare,Donald J. Trump,77579
+06107,Tulare,Howie Hawkins,483
+06107,Tulare,Mark Charles,4
+06107,Tulare,Brian Carroll,46
+06107,Tulare,Joseph R. Biden,66105
+06107,Tulare,Rocky De La Fuente,632
+06107,Tulare,Jo Jorgensen,1498
+06107,Tulare,Gloria La Riva,535
+06109,Tuolumne,Mark Charles,2
+06109,Tuolumne,Joseph Kishore,0
+06109,Tuolumne,Jo Jorgensen,439
+06109,Tuolumne,Gloria La Riva,59
+06109,Tuolumne,Brock Pierce,0
+06109,Tuolumne,Jesse Ventura,1
+06109,Tuolumne,Joseph R. Biden,11978
+06109,Tuolumne,Howie Hawkins,145
+06109,Tuolumne,Brian Carroll,4
+06109,Tuolumne,Rocky De La Fuente,91
+06109,Tuolumne,Donald J. Trump,17689
+06111,Ventura,Brian Carroll,84
+06111,Ventura,Donald J. Trump,162207
+06111,Ventura,Gloria La Riva,990
+06111,Ventura,Joseph Kishore,5
+06111,Ventura,Joseph R. Biden,251388
+06111,Ventura,Jesse Ventura,17
+06111,Ventura,Howie Hawkins,1766
+06111,Ventura,Brock Pierce,5
+06111,Ventura,Jo Jorgensen,5069
+06111,Ventura,Rocky De La Fuente,1278
+06111,Ventura,Mark Charles,16
+06113,Yolo,Jo Jorgensen,1206
+06113,Yolo,Rocky De La Fuente,298
+06113,Yolo,Brock Pierce,0
+06113,Yolo,Jesse Ventura,2
+06113,Yolo,Gloria La Riva,323
+06113,Yolo,Joseph Kishore,1
+06113,Yolo,Donald J. Trump,27292
+06113,Yolo,Howie Hawkins,547
+06113,Yolo,Mark Charles,3
+06113,Yolo,Joseph R. Biden,67598
+06113,Yolo,Brian Carroll,24
+06115,Yuba,Gloria La Riva,94
+06115,Yuba,Howie Hawkins,124
+06115,Yuba,Brock Pierce,0
+06115,Yuba,Rocky De La Fuente,153
+06115,Yuba,Mark Charles,4
+06115,Yuba,Jo Jorgensen,510
+06115,Yuba,Donald J. Trump,17676
+06115,Yuba,Joseph Kishore,0
+06115,Yuba,Joseph R. Biden,11230
+06115,Yuba,Brian Carroll,4
+06115,Yuba,Jesse Ventura,1

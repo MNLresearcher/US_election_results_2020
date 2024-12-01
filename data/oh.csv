@@ -1,0 +1,881 @@
+fips,county,candidate,votes
+39001,Adams,Joseph R. Biden,2.156
+39001,Adams,President R19 Boddie Stoneham,0.0
+39001,Adams,Brian Carroll,0.0
+39001,Adams,Donald J. Trump,9.87
+39001,Adams,Jo Jorgensen,92.0
+39001,Adams,Kasey Wells,0.0
+39001,Adams,Dario Hunter,0.0
+39001,Adams,Howie Hawkins,27.0
+39001,Adams,Tom Hoefling,0.0
+39001,Adams,Jade Simmons,0.0
+39003,Allen,Dario Hunter,0.0
+39003,Allen,President R19 Boddie Stoneham,0.0
+39003,Allen,Tom Hoefling,0.0
+39003,Allen,Howie Hawkins,138.0
+39003,Allen,Joseph R. Biden,14.149
+39003,Allen,Jade Simmons,0.0
+39003,Allen,Brian Carroll,13.0
+39003,Allen,Kasey Wells,0.0
+39003,Allen,Jo Jorgensen,590.0
+39003,Allen,Donald J. Trump,33.116
+39005,Ashland,Howie Hawkins,105.0
+39005,Ashland,President R19 Boddie Stoneham,0.0
+39005,Ashland,Kasey Wells,0.0
+39005,Ashland,Jade Simmons,0.0
+39005,Ashland,Jo Jorgensen,345.0
+39005,Ashland,Dario Hunter,0.0
+39005,Ashland,Brian Carroll,7.0
+39005,Ashland,Joseph R. Biden,6.541
+39005,Ashland,Tom Hoefling,0.0
+39005,Ashland,Donald J. Trump,19.407
+39007,Ashtabula,Donald J. Trump,26.89
+39007,Ashtabula,Joseph R. Biden,16.497
+39007,Ashtabula,Brian Carroll,5.0
+39007,Ashtabula,Dario Hunter,0.0
+39007,Ashtabula,Jo Jorgensen,559.0
+39007,Ashtabula,Kasey Wells,0.0
+39007,Ashtabula,President R19 Boddie Stoneham,0.0
+39007,Ashtabula,Howie Hawkins,196.0
+39007,Ashtabula,Tom Hoefling,0.0
+39007,Ashtabula,Jade Simmons,0.0
+39009,Athens,Jo Jorgensen,299.0
+39009,Athens,President R19 Boddie Stoneham,0.0
+39009,Athens,Joseph R. Biden,14.772
+39009,Athens,Donald J. Trump,10.862
+39009,Athens,Jade Simmons,2.0
+39009,Athens,Kasey Wells,0.0
+39009,Athens,Brian Carroll,9.0
+39009,Athens,Tom Hoefling,0.0
+39009,Athens,Dario Hunter,0.0
+39009,Athens,Howie Hawkins,115.0
+39011,Auglaize,Brian Carroll,3.0
+39011,Auglaize,Donald J. Trump,20.798
+39011,Auglaize,Jo Jorgensen,260.0
+39011,Auglaize,Jade Simmons,1.0
+39011,Auglaize,President R19 Boddie Stoneham,0.0
+39011,Auglaize,Joseph R. Biden,4.651
+39011,Auglaize,Dario Hunter,0.0
+39011,Auglaize,Kasey Wells,0.0
+39011,Auglaize,Howie Hawkins,64.0
+39011,Auglaize,Tom Hoefling,0.0
+39013,Belmont,Dario Hunter,0.0
+39013,Belmont,Brian Carroll,6.0
+39013,Belmont,Jade Simmons,0.0
+39013,Belmont,Joseph R. Biden,9.138
+39013,Belmont,President R19 Boddie Stoneham,0.0
+39013,Belmont,Kasey Wells,0.0
+39013,Belmont,Donald J. Trump,23.56
+39013,Belmont,Jo Jorgensen,285.0
+39013,Belmont,Howie Hawkins,98.0
+39013,Belmont,Tom Hoefling,1.0
+39015,Brown,Kasey Wells,0.0
+39015,Brown,Jo Jorgensen,182.0
+39015,Brown,President R19 Boddie Stoneham,0.0
+39015,Brown,Joseph R. Biden,4.38
+39015,Brown,Jade Simmons,0.0
+39015,Brown,Donald J. Trump,16.48
+39015,Brown,Dario Hunter,0.0
+39015,Brown,Howie Hawkins,54.0
+39015,Brown,Brian Carroll,0.0
+39015,Brown,Tom Hoefling,0.0
+39017,Butler,Tom Hoefling,6.0
+39017,Butler,Joseph R. Biden,69.613
+39017,Butler,Dario Hunter,0.0
+39017,Butler,Kasey Wells,0.0
+39017,Butler,Brian Carroll,51.0
+39017,Butler,Jo Jorgensen,2.177
+39017,Butler,President R19 Boddie Stoneham,0.0
+39017,Butler,Donald J. Trump,114.392
+39017,Butler,Howie Hawkins,493.0
+39017,Butler,Jade Simmons,5.0
+39019,Carroll,Jade Simmons,0.0
+39019,Carroll,President R19 Boddie Stoneham,0.0
+39019,Carroll,Donald J. Trump,10.745
+39019,Carroll,Joseph R. Biden,3.251
+39019,Carroll,Jo Jorgensen,156.0
+39019,Carroll,Tom Hoefling,3.0
+39019,Carroll,Brian Carroll,1.0
+39019,Carroll,Howie Hawkins,56.0
+39019,Carroll,Dario Hunter,0.0
+39019,Carroll,Kasey Wells,0.0
+39021,Champaign,Kasey Wells,0.0
+39021,Champaign,Joseph R. Biden,5.062
+39021,Champaign,Tom Hoefling,0.0
+39021,Champaign,Howie Hawkins,55.0
+39021,Champaign,Dario Hunter,1.0
+39021,Champaign,Brian Carroll,5.0
+39021,Champaign,President R19 Boddie Stoneham,0.0
+39021,Champaign,Donald J. Trump,14.589
+39021,Champaign,Jade Simmons,0.0
+39021,Champaign,Jo Jorgensen,260.0
+39023,Clark,Kasey Wells,3.0
+39023,Clark,Brian Carroll,13.0
+39023,Clark,Howie Hawkins,245.0
+39023,Clark,Tom Hoefling,1.0
+39023,Clark,Dario Hunter,7.0
+39023,Clark,Jade Simmons,5.0
+39023,Clark,Jo Jorgensen,829.0
+39023,Clark,President R19 Boddie Stoneham,1.0
+39023,Clark,Joseph R. Biden,24.076
+39023,Clark,Donald J. Trump,39.032
+39025,Clermont,Kasey Wells,0.0
+39025,Clermont,President R19 Boddie Stoneham,0.0
+39025,Clermont,Howie Hawkins,271.0
+39025,Clermont,Tom Hoefling,6.0
+39025,Clermont,Donald J. Trump,74.57
+39025,Clermont,Jade Simmons,5.0
+39025,Clermont,Joseph R. Biden,34.092
+39025,Clermont,Dario Hunter,0.0
+39025,Clermont,Brian Carroll,23.0
+39025,Clermont,Jo Jorgensen,1.513
+39027,Clinton,Dario Hunter,0.0
+39027,Clinton,Donald J. Trump,15.488
+39027,Clinton,Howie Hawkins,67.0
+39027,Clinton,President R19 Boddie Stoneham,0.0
+39027,Clinton,Kasey Wells,0.0
+39027,Clinton,Brian Carroll,4.0
+39027,Clinton,Jade Simmons,0.0
+39027,Clinton,Joseph R. Biden,4.697
+39027,Clinton,Jo Jorgensen,270.0
+39027,Clinton,Tom Hoefling,1.0
+39029,Columbiana,Dario Hunter,0.0
+39029,Columbiana,Jo Jorgensen,607.0
+39029,Columbiana,Joseph R. Biden,13.359
+39029,Columbiana,President R19 Boddie Stoneham,0.0
+39029,Columbiana,Howie Hawkins,162.0
+39029,Columbiana,Jade Simmons,0.0
+39029,Columbiana,Tom Hoefling,0.0
+39029,Columbiana,Donald J. Trump,35.726
+39029,Columbiana,Kasey Wells,0.0
+39029,Columbiana,Brian Carroll,6.0
+39031,Coshocton,Howie Hawkins,62.0
+39031,Coshocton,Tom Hoefling,0.0
+39031,Coshocton,Jo Jorgensen,227.0
+39031,Coshocton,Donald J. Trump,12.325
+39031,Coshocton,Dario Hunter,0.0
+39031,Coshocton,Brian Carroll,0.0
+39031,Coshocton,President R19 Boddie Stoneham,0.0
+39031,Coshocton,Kasey Wells,0.0
+39031,Coshocton,Jade Simmons,0.0
+39031,Coshocton,Joseph R. Biden,4.125
+39033,Crawford,Kasey Wells,0.0
+39033,Crawford,Brian Carroll,3.0
+39033,Crawford,Tom Hoefling,0.0
+39033,Crawford,President R19 Boddie Stoneham,0.0
+39033,Crawford,Jade Simmons,0.0
+39033,Crawford,Joseph R. Biden,4.916
+39033,Crawford,Dario Hunter,0.0
+39033,Crawford,Howie Hawkins,53.0
+39033,Crawford,Donald J. Trump,15.436
+39033,Crawford,Jo Jorgensen,278.0
+39035,Cuyahoga,Kasey Wells,1.0
+39035,Cuyahoga,Dario Hunter,3.0
+39035,Cuyahoga,Howie Hawkins,2.031
+39035,Cuyahoga,Jo Jorgensen,4.593
+39035,Cuyahoga,Brian Carroll,145.0
+39035,Cuyahoga,Tom Hoefling,4.0
+39035,Cuyahoga,President R19 Boddie Stoneham,0.0
+39035,Cuyahoga,Jade Simmons,18.0
+39035,Cuyahoga,Joseph R. Biden,416.176
+39035,Cuyahoga,Donald J. Trump,202.699
+39037,Darke,Howie Hawkins,62.0
+39037,Darke,Tom Hoefling,0.0
+39037,Darke,Dario Hunter,0.0
+39037,Darke,Jade Simmons,1.0
+39037,Darke,Joseph R. Biden,4.731
+39037,Darke,Jo Jorgensen,331.0
+39037,Darke,Brian Carroll,5.0
+39037,Darke,Kasey Wells,0.0
+39037,Darke,Donald J. Trump,22.004
+39037,Darke,President R19 Boddie Stoneham,0.0
+39039,Defiance,Donald J. Trump,13.038
+39039,Defiance,Brian Carroll,10.0
+39039,Defiance,Jade Simmons,0.0
+39039,Defiance,Howie Hawkins,78.0
+39039,Defiance,Tom Hoefling,2.0
+39039,Defiance,Dario Hunter,0.0
+39039,Defiance,President R19 Boddie Stoneham,0.0
+39039,Defiance,Joseph R. Biden,5.981
+39039,Defiance,Kasey Wells,0.0
+39039,Defiance,Jo Jorgensen,272.0
+39041,Delaware,Jo Jorgensen,1.63
+39041,Delaware,Dario Hunter,0.0
+39041,Delaware,Tom Hoefling,5.0
+39041,Delaware,Jade Simmons,9.0
+39041,Delaware,President R19 Boddie Stoneham,0.0
+39041,Delaware,Brian Carroll,42.0
+39041,Delaware,Joseph R. Biden,57.735
+39041,Delaware,Howie Hawkins,293.0
+39041,Delaware,Donald J. Trump,66.356
+39041,Delaware,Kasey Wells,0.0
+39043,Erie,Joseph R. Biden,17.493
+39043,Erie,Howie Hawkins,153.0
+39043,Erie,Donald J. Trump,22.16
+39043,Erie,President R19 Boddie Stoneham,0.0
+39043,Erie,Kasey Wells,0.0
+39043,Erie,Jade Simmons,0.0
+39043,Erie,Jo Jorgensen,522.0
+39043,Erie,Tom Hoefling,0.0
+39043,Erie,Brian Carroll,6.0
+39043,Erie,Dario Hunter,1.0
+39045,Fairfield,Joseph R. Biden,31.224
+39045,Fairfield,Dario Hunter,0.0
+39045,Fairfield,Kasey Wells,0.0
+39045,Fairfield,Brian Carroll,28.0
+39045,Fairfield,Jade Simmons,3.0
+39045,Fairfield,Jo Jorgensen,1.033
+39045,Fairfield,Howie Hawkins,223.0
+39045,Fairfield,President R19 Boddie Stoneham,0.0
+39045,Fairfield,Tom Hoefling,3.0
+39045,Fairfield,Donald J. Trump,50.797
+39047,Fayette,Donald J. Trump,9.473
+39047,Fayette,Kasey Wells,0.0
+39047,Fayette,Howie Hawkins,32.0
+39047,Fayette,Joseph R. Biden,2.975
+39047,Fayette,Tom Hoefling,0.0
+39047,Fayette,Dario Hunter,0.0
+39047,Fayette,Brian Carroll,0.0
+39047,Fayette,Jade Simmons,0.0
+39047,Fayette,Jo Jorgensen,132.0
+39047,Fayette,President R19 Boddie Stoneham,0.0
+39049,Franklin,Joseph R. Biden,409.144
+39049,Franklin,Kasey Wells,2.0
+39049,Franklin,Brian Carroll,240.0
+39049,Franklin,Jade Simmons,48.0
+39049,Franklin,Jo Jorgensen,7.718
+39049,Franklin,Dario Hunter,3.0
+39049,Franklin,Donald J. Trump,211.237
+39049,Franklin,Tom Hoefling,15.0
+39049,Franklin,Howie Hawkins,2.169
+39049,Franklin,President R19 Boddie Stoneham,1.0
+39051,Fulton,Dario Hunter,0.0
+39051,Fulton,Kasey Wells,0.0
+39051,Fulton,Tom Hoefling,0.0
+39051,Fulton,Brian Carroll,5.0
+39051,Fulton,Howie Hawkins,71.0
+39051,Fulton,Donald J. Trump,15.731
+39051,Fulton,Joseph R. Biden,6.664
+39051,Fulton,Jo Jorgensen,299.0
+39051,Fulton,President R19 Boddie Stoneham,0.0
+39051,Fulton,Jade Simmons,0.0
+39053,Gallia,Howie Hawkins,32.0
+39053,Gallia,President R19 Boddie Stoneham,0.0
+39053,Gallia,Tom Hoefling,0.0
+39053,Gallia,Jade Simmons,0.0
+39053,Gallia,Jo Jorgensen,132.0
+39053,Gallia,Joseph R. Biden,2.99
+39053,Gallia,Kasey Wells,0.0
+39053,Gallia,Dario Hunter,0.0
+39053,Gallia,Brian Carroll,0.0
+39053,Gallia,Donald J. Trump,10.645
+39055,Geauga,Jade Simmons,0.0
+39055,Geauga,Dario Hunter,0.0
+39055,Geauga,Tom Hoefling,1.0
+39055,Geauga,Joseph R. Biden,21.201
+39055,Geauga,Brian Carroll,10.0
+39055,Geauga,President R19 Boddie Stoneham,0.0
+39055,Geauga,Kasey Wells,0.0
+39055,Geauga,Jo Jorgensen,534.0
+39055,Geauga,Howie Hawkins,132.0
+39055,Geauga,Donald J. Trump,34.143
+39057,Greene,Jade Simmons,5.0
+39057,Greene,Dario Hunter,0.0
+39057,Greene,Tom Hoefling,5.0
+39057,Greene,Howie Hawkins,264.0
+39057,Greene,President R19 Boddie Stoneham,0.0
+39057,Greene,Brian Carroll,41.0
+39057,Greene,Joseph R. Biden,34.798
+39057,Greene,Jo Jorgensen,1.458
+39057,Greene,Donald J. Trump,52.072
+39057,Greene,Kasey Wells,0.0
+39059,Guernsey,Kasey Wells,0.0
+39059,Guernsey,Joseph R. Biden,4.577
+39059,Guernsey,Tom Hoefling,0.0
+39059,Guernsey,Jo Jorgensen,177.0
+39059,Guernsey,Dario Hunter,0.0
+39059,Guernsey,President R19 Boddie Stoneham,0.0
+39059,Guernsey,Howie Hawkins,67.0
+39059,Guernsey,Donald J. Trump,13.407
+39059,Guernsey,Brian Carroll,2.0
+39059,Guernsey,Jade Simmons,0.0
+39061,Hamilton,Howie Hawkins,1.389
+39061,Hamilton,Kasey Wells,2.0
+39061,Hamilton,Donald J. Trump,177.886
+39061,Hamilton,President R19 Boddie Stoneham,0.0
+39061,Hamilton,Tom Hoefling,5.0
+39061,Hamilton,Brian Carroll,150.0
+39061,Hamilton,Jade Simmons,19.0
+39061,Hamilton,Joseph R. Biden,246.266
+39061,Hamilton,Dario Hunter,1.0
+39061,Hamilton,Jo Jorgensen,5.211
+39063,Hancock,Dario Hunter,0.0
+39063,Hancock,Kasey Wells,0.0
+39063,Hancock,President R19 Boddie Stoneham,0.0
+39063,Hancock,Howie Hawkins,110.0
+39063,Hancock,Joseph R. Biden,11.757
+39063,Hancock,Jo Jorgensen,580.0
+39063,Hancock,Donald J. Trump,26.31
+39063,Hancock,Jade Simmons,3.0
+39063,Hancock,Tom Hoefling,0.0
+39063,Hancock,Brian Carroll,11.0
+39065,Hardin,Tom Hoefling,0.0
+39065,Hardin,President R19 Boddie Stoneham,0.0
+39065,Hardin,Jo Jorgensen,192.0
+39065,Hardin,Kasey Wells,0.0
+39065,Hardin,Jade Simmons,0.0
+39065,Hardin,Brian Carroll,0.0
+39065,Hardin,Dario Hunter,0.0
+39065,Hardin,Donald J. Trump,9.949
+39065,Hardin,Joseph R. Biden,3.062
+39065,Hardin,Howie Hawkins,44.0
+39067,Harrison,Dario Hunter,0.0
+39067,Harrison,Donald J. Trump,5.792
+39067,Harrison,Jo Jorgensen,59.0
+39067,Harrison,Jade Simmons,0.0
+39067,Harrison,Kasey Wells,0.0
+39067,Harrison,Tom Hoefling,0.0
+39067,Harrison,Joseph R. Biden,1.768
+39067,Harrison,Howie Hawkins,36.0
+39067,Harrison,Brian Carroll,0.0
+39067,Harrison,President R19 Boddie Stoneham,0.0
+39069,Henry,Kasey Wells,0.0
+39069,Henry,Jade Simmons,0.0
+39069,Henry,Dario Hunter,0.0
+39069,Henry,Donald J. Trump,10.479
+39069,Henry,Joseph R. Biden,4.062
+39069,Henry,President R19 Boddie Stoneham,0.0
+39069,Henry,Jo Jorgensen,175.0
+39069,Henry,Tom Hoefling,0.0
+39069,Henry,Brian Carroll,4.0
+39069,Henry,Howie Hawkins,44.0
+39071,Highland,Jo Jorgensen,146.0
+39071,Highland,Jade Simmons,3.0
+39071,Highland,Brian Carroll,1.0
+39071,Highland,Joseph R. Biden,3.799
+39071,Highland,Howie Hawkins,49.0
+39071,Highland,Kasey Wells,0.0
+39071,Highland,Donald J. Trump,15.678
+39071,Highland,Tom Hoefling,0.0
+39071,Highland,President R19 Boddie Stoneham,0.0
+39071,Highland,Dario Hunter,0.0
+39073,Hocking,Jade Simmons,0.0
+39073,Hocking,Donald J. Trump,9.737
+39073,Hocking,Joseph R. Biden,3.88
+39073,Hocking,Jo Jorgensen,162.0
+39073,Hocking,President R19 Boddie Stoneham,0.0
+39073,Hocking,Tom Hoefling,0.0
+39073,Hocking,Howie Hawkins,40.0
+39073,Hocking,Dario Hunter,0.0
+39073,Hocking,Kasey Wells,0.0
+39073,Hocking,Brian Carroll,5.0
+39075,Holmes,Tom Hoefling,2.0
+39075,Holmes,Joseph R. Biden,1.994
+39075,Holmes,Brian Carroll,4.0
+39075,Holmes,Dario Hunter,0.0
+39075,Holmes,Jade Simmons,0.0
+39075,Holmes,Kasey Wells,0.0
+39075,Holmes,President R19 Boddie Stoneham,0.0
+39075,Holmes,Donald J. Trump,10.796
+39075,Holmes,Jo Jorgensen,125.0
+39075,Holmes,Howie Hawkins,26.0
+39077,Huron,Dario Hunter,0.0
+39077,Huron,Joseph R. Biden,7.759
+39077,Huron,Tom Hoefling,0.0
+39077,Huron,Donald J. Trump,18.956
+39077,Huron,President R19 Boddie Stoneham,0.0
+39077,Huron,Jade Simmons,0.0
+39077,Huron,Kasey Wells,0.0
+39077,Huron,Howie Hawkins,83.0
+39077,Huron,Jo Jorgensen,387.0
+39077,Huron,Brian Carroll,5.0
+39079,Jackson,Dario Hunter,0.0
+39079,Jackson,President R19 Boddie Stoneham,0.0
+39079,Jackson,Kasey Wells,0.0
+39079,Jackson,Jo Jorgensen,144.0
+39079,Jackson,Jade Simmons,0.0
+39079,Jackson,Joseph R. Biden,3.311
+39079,Jackson,Donald J. Trump,11.309
+39079,Jackson,Brian Carroll,0.0
+39079,Jackson,Howie Hawkins,30.0
+39079,Jackson,Tom Hoefling,0.0
+39081,Jefferson,Brian Carroll,56.0
+39081,Jefferson,Jade Simmons,1.0
+39081,Jefferson,Donald J. Trump,22.828
+39081,Jefferson,Howie Hawkins,100.0
+39081,Jefferson,Dario Hunter,0.0
+39081,Jefferson,Joseph R. Biden,10.018
+39081,Jefferson,President R19 Boddie Stoneham,0.0
+39081,Jefferson,Jo Jorgensen,357.0
+39081,Jefferson,Tom Hoefling,2.0
+39081,Jefferson,Kasey Wells,0.0
+39083,Knox,President R19 Boddie Stoneham,0.0
+39083,Knox,Jo Jorgensen,374.0
+39083,Knox,Dario Hunter,0.0
+39083,Knox,Howie Hawkins,86.0
+39083,Knox,Kasey Wells,0.0
+39083,Knox,Jade Simmons,0.0
+39083,Knox,Donald J. Trump,22.34
+39083,Knox,Tom Hoefling,0.0
+39083,Knox,Joseph R. Biden,8.589
+39083,Knox,Brian Carroll,9.0
+39085,Lake,Kasey Wells,0.0
+39085,Lake,Jo Jorgensen,1.284
+39085,Lake,Donald J. Trump,73.278
+39085,Lake,Joseph R. Biden,55.514
+39085,Lake,Jade Simmons,1.0
+39085,Lake,Tom Hoefling,1.0
+39085,Lake,Howie Hawkins,408.0
+39085,Lake,President R19 Boddie Stoneham,0.0
+39085,Lake,Dario Hunter,3.0
+39085,Lake,Brian Carroll,20.0
+39087,Lawrence,Jade Simmons,0.0
+39087,Lawrence,Donald J. Trump,20.306
+39087,Lawrence,Tom Hoefling,0.0
+39087,Lawrence,President R19 Boddie Stoneham,0.0
+39087,Lawrence,Joseph R. Biden,7.489
+39087,Lawrence,Kasey Wells,0.0
+39087,Lawrence,Dario Hunter,1.0
+39087,Lawrence,Brian Carroll,3.0
+39087,Lawrence,Howie Hawkins,69.0
+39087,Lawrence,Jo Jorgensen,259.0
+39089,Licking,Jo Jorgensen,1.279
+39089,Licking,Dario Hunter,0.0
+39089,Licking,Jade Simmons,7.0
+39089,Licking,Brian Carroll,33.0
+39089,Licking,President R19 Boddie Stoneham,0.0
+39089,Licking,Howie Hawkins,312.0
+39089,Licking,Donald J. Trump,59.514
+39089,Licking,Joseph R. Biden,33.055
+39089,Licking,Tom Hoefling,10.0
+39089,Licking,Kasey Wells,0.0
+39091,Logan,President R19 Boddie Stoneham,0.0
+39091,Logan,Joseph R. Biden,5.055
+39091,Logan,Jo Jorgensen,272.0
+39091,Logan,Brian Carroll,7.0
+39091,Logan,Dario Hunter,0.0
+39091,Logan,Jade Simmons,0.0
+39091,Logan,Howie Hawkins,69.0
+39091,Logan,Donald J. Trump,17.964
+39091,Logan,Kasey Wells,0.0
+39091,Logan,Tom Hoefling,1.0
+39093,Lorain,Kasey Wells,0.0
+39093,Lorain,Jade Simmons,6.0
+39093,Lorain,Donald J. Trump,79.52
+39093,Lorain,Dario Hunter,1.0
+39093,Lorain,President R19 Boddie Stoneham,0.0
+39093,Lorain,Jo Jorgensen,1.677
+39093,Lorain,Howie Hawkins,534.0
+39093,Lorain,Brian Carroll,24.0
+39093,Lorain,Joseph R. Biden,75.667
+39093,Lorain,Tom Hoefling,8.0
+39095,Lucas,Jo Jorgensen,2.605
+39095,Lucas,Dario Hunter,0.0
+39095,Lucas,Kasey Wells,0.0
+39095,Lucas,Brian Carroll,43.0
+39095,Lucas,Jade Simmons,19.0
+39095,Lucas,Joseph R. Biden,115.411
+39095,Lucas,Tom Hoefling,2.0
+39095,Lucas,Donald J. Trump,81.763
+39095,Lucas,Howie Hawkins,780.0
+39095,Lucas,President R19 Boddie Stoneham,0.0
+39097,Madison,Dario Hunter,0.0
+39097,Madison,Jade Simmons,0.0
+39097,Madison,Tom Hoefling,0.0
+39097,Madison,Donald J. Trump,13.835
+39097,Madison,Joseph R. Biden,5.698
+39097,Madison,Brian Carroll,7.0
+39097,Madison,Howie Hawkins,46.0
+39097,Madison,Jo Jorgensen,269.0
+39097,Madison,Kasey Wells,0.0
+39097,Madison,President R19 Boddie Stoneham,0.0
+39099,Mahoning,President R19 Boddie Stoneham,0.0
+39099,Mahoning,Howie Hawkins,436.0
+39099,Mahoning,Tom Hoefling,0.0
+39099,Mahoning,Joseph R. Biden,57.641
+39099,Mahoning,Dario Hunter,2.0
+39099,Mahoning,Jo Jorgensen,966.0
+39099,Mahoning,Jade Simmons,0.0
+39099,Mahoning,Brian Carroll,18.0
+39099,Mahoning,Kasey Wells,0.0
+39099,Mahoning,Donald J. Trump,59.903
+39101,Marion,Brian Carroll,0.0
+39101,Marion,Howie Hawkins,112.0
+39101,Marion,President R19 Boddie Stoneham,0.0
+39101,Marion,Tom Hoefling,0.0
+39101,Marion,Donald J. Trump,19.023
+39101,Marion,Kasey Wells,0.0
+39101,Marion,Dario Hunter,0.0
+39101,Marion,Jade Simmons,0.0
+39101,Marion,Joseph R. Biden,8.269
+39101,Marion,Jo Jorgensen,414.0
+39103,Medina,Jo Jorgensen,1.144
+39103,Medina,Kasey Wells,1.0
+39103,Medina,Tom Hoefling,0.0
+39103,Medina,Joseph R. Biden,39.8
+39103,Medina,Howie Hawkins,266.0
+39103,Medina,President R19 Boddie Stoneham,0.0
+39103,Medina,Donald J. Trump,64.598
+39103,Medina,Dario Hunter,0.0
+39103,Medina,Brian Carroll,16.0
+39103,Medina,Jade Simmons,0.0
+39105,Meigs,Joseph R. Biden,2.492
+39105,Meigs,President R19 Boddie Stoneham,0.0
+39105,Meigs,Jo Jorgensen,111.0
+39105,Meigs,Howie Hawkins,32.0
+39105,Meigs,Kasey Wells,0.0
+39105,Meigs,Tom Hoefling,0.0
+39105,Meigs,Jade Simmons,0.0
+39105,Meigs,Donald J. Trump,8.316
+39105,Meigs,Brian Carroll,0.0
+39105,Meigs,Dario Hunter,0.0
+39107,Mercer,Jo Jorgensen,204.0
+39107,Mercer,Donald J. Trump,19.452
+39107,Mercer,Joseph R. Biden,4.03
+39107,Mercer,Tom Hoefling,0.0
+39107,Mercer,Jade Simmons,0.0
+39107,Mercer,Dario Hunter,0.0
+39107,Mercer,President R19 Boddie Stoneham,0.0
+39107,Mercer,Howie Hawkins,67.0
+39107,Mercer,Kasey Wells,0.0
+39107,Mercer,Brian Carroll,8.0
+39109,Miami,Brian Carroll,15.0
+39109,Miami,Donald J. Trump,41.371
+39109,Miami,Howie Hawkins,139.0
+39109,Miami,Joseph R. Biden,15.663
+39109,Miami,Dario Hunter,0.0
+39109,Miami,Jo Jorgensen,782.0
+39109,Miami,Tom Hoefling,1.0
+39109,Miami,President R19 Boddie Stoneham,0.0
+39109,Miami,Jade Simmons,1.0
+39109,Miami,Kasey Wells,0.0
+39111,Monroe,Howie Hawkins,26.0
+39111,Monroe,Jo Jorgensen,54.0
+39111,Monroe,Kasey Wells,0.0
+39111,Monroe,Jade Simmons,0.0
+39111,Monroe,Donald J. Trump,5.463
+39111,Monroe,President R19 Boddie Stoneham,0.0
+39111,Monroe,Joseph R. Biden,1.605
+39111,Monroe,Tom Hoefling,0.0
+39111,Monroe,Brian Carroll,0.0
+39111,Monroe,Dario Hunter,0.0
+39113,Montgomery,Kasey Wells,2.0
+39113,Montgomery,Brian Carroll,85.0
+39113,Montgomery,Howie Hawkins,884.0
+39113,Montgomery,Tom Hoefling,2.0
+39113,Montgomery,Donald J. Trump,129.034
+39113,Montgomery,Joseph R. Biden,135.064
+39113,Montgomery,Jo Jorgensen,3.418
+39113,Montgomery,Dario Hunter,0.0
+39113,Montgomery,Jade Simmons,16.0
+39113,Montgomery,President R19 Boddie Stoneham,0.0
+39115,Morgan,Howie Hawkins,17.0
+39115,Morgan,Brian Carroll,0.0
+39115,Morgan,Jade Simmons,0.0
+39115,Morgan,President R19 Boddie Stoneham,0.0
+39115,Morgan,Tom Hoefling,0.0
+39115,Morgan,Joseph R. Biden,1.725
+39115,Morgan,Jo Jorgensen,64.0
+39115,Morgan,Kasey Wells,0.0
+39115,Morgan,Donald J. Trump,5.041
+39115,Morgan,Dario Hunter,0.0
+39117,Morrow,Joseph R. Biden,4.048
+39117,Morrow,Jo Jorgensen,257.0
+39117,Morrow,Jade Simmons,1.0
+39117,Morrow,Dario Hunter,0.0
+39117,Morrow,Tom Hoefling,2.0
+39117,Morrow,President R19 Boddie Stoneham,0.0
+39117,Morrow,Howie Hawkins,70.0
+39117,Morrow,Donald J. Trump,14.077
+39117,Morrow,Brian Carroll,2.0
+39117,Morrow,Kasey Wells,0.0
+39119,Muskingum,Howie Hawkins,163.0
+39119,Muskingum,Donald J. Trump,27.867
+39119,Muskingum,Brian Carroll,4.0
+39119,Muskingum,Tom Hoefling,0.0
+39119,Muskingum,Kasey Wells,0.0
+39119,Muskingum,Jade Simmons,1.0
+39119,Muskingum,Joseph R. Biden,11.971
+39119,Muskingum,Dario Hunter,0.0
+39119,Muskingum,Jo Jorgensen,459.0
+39119,Muskingum,President R19 Boddie Stoneham,0.0
+39121,Noble,Dario Hunter,0.0
+39121,Noble,Tom Hoefling,0.0
+39121,Noble,Howie Hawkins,13.0
+39121,Noble,Donald J. Trump,5.135
+39121,Noble,Jade Simmons,0.0
+39121,Noble,Kasey Wells,0.0
+39121,Noble,Brian Carroll,0.0
+39121,Noble,Joseph R. Biden,1.17
+39121,Noble,President R19 Boddie Stoneham,0.0
+39121,Noble,Jo Jorgensen,25.0
+39123,Ottawa,Tom Hoefling,0.0
+39123,Ottawa,Jo Jorgensen,292.0
+39123,Ottawa,Brian Carroll,5.0
+39123,Ottawa,Joseph R. Biden,9.008
+39123,Ottawa,Dario Hunter,0.0
+39123,Ottawa,Jade Simmons,0.0
+39123,Ottawa,Kasey Wells,0.0
+39123,Ottawa,President R19 Boddie Stoneham,0.0
+39123,Ottawa,Howie Hawkins,74.0
+39123,Ottawa,Donald J. Trump,14.628
+39125,Paulding,Howie Hawkins,38.0
+39125,Paulding,Jade Simmons,0.0
+39125,Paulding,Joseph R. Biden,2.213
+39125,Paulding,Donald J. Trump,7.086
+39125,Paulding,Brian Carroll,5.0
+39125,Paulding,Jo Jorgensen,124.0
+39125,Paulding,President R19 Boddie Stoneham,0.0
+39125,Paulding,Kasey Wells,0.0
+39125,Paulding,Tom Hoefling,0.0
+39125,Paulding,Dario Hunter,1.0
+39127,Perry,Donald J. Trump,12.357
+39127,Perry,Jo Jorgensen,170.0
+39127,Perry,Tom Hoefling,0.0
+39127,Perry,President R19 Boddie Stoneham,0.0
+39127,Perry,Howie Hawkins,47.0
+39127,Perry,Kasey Wells,0.0
+39127,Perry,Jade Simmons,0.0
+39127,Perry,Dario Hunter,1.0
+39127,Perry,Brian Carroll,2.0
+39127,Perry,Joseph R. Biden,4.098
+39129,Pickaway,Donald J. Trump,20.593
+39129,Pickaway,President R19 Boddie Stoneham,1.0
+39129,Pickaway,Jo Jorgensen,295.0
+39129,Pickaway,Dario Hunter,0.0
+39129,Pickaway,Brian Carroll,8.0
+39129,Pickaway,Jade Simmons,1.0
+39129,Pickaway,Kasey Wells,1.0
+39129,Pickaway,Joseph R. Biden,7.304
+39129,Pickaway,Tom Hoefling,3.0
+39129,Pickaway,Howie Hawkins,65.0
+39131,Pike,Kasey Wells,0.0
+39131,Pike,Dario Hunter,0.0
+39131,Pike,Joseph R. Biden,3.11
+39131,Pike,Jade Simmons,0.0
+39131,Pike,Brian Carroll,0.0
+39131,Pike,Donald J. Trump,9.157
+39131,Pike,Jo Jorgensen,123.0
+39131,Pike,Tom Hoefling,0.0
+39131,Pike,Howie Hawkins,22.0
+39131,Pike,President R19 Boddie Stoneham,0.0
+39133,Portage,Joseph R. Biden,35.661
+39133,Portage,Jade Simmons,1.0
+39133,Portage,Donald J. Trump,45.99
+39133,Portage,Howie Hawkins,295.0
+39133,Portage,Tom Hoefling,2.0
+39133,Portage,Kasey Wells,0.0
+39133,Portage,Jo Jorgensen,906.0
+39133,Portage,President R19 Boddie Stoneham,0.0
+39133,Portage,Brian Carroll,17.0
+39133,Portage,Dario Hunter,0.0
+39135,Preble,President R19 Boddie Stoneham,0.0
+39135,Preble,Jade Simmons,0.0
+39135,Preble,Jo Jorgensen,243.0
+39135,Preble,Kasey Wells,0.0
+39135,Preble,Joseph R. Biden,4.493
+39135,Preble,Dario Hunter,0.0
+39135,Preble,Donald J. Trump,17.022
+39135,Preble,Brian Carroll,0.0
+39135,Preble,Tom Hoefling,0.0
+39135,Preble,Howie Hawkins,51.0
+39137,Putnam,President R19 Boddie Stoneham,0.0
+39137,Putnam,Brian Carroll,6.0
+39137,Putnam,Tom Hoefling,0.0
+39137,Putnam,Howie Hawkins,61.0
+39137,Putnam,Jo Jorgensen,247.0
+39137,Putnam,Dario Hunter,0.0
+39137,Putnam,Donald J. Trump,16.412
+39137,Putnam,Joseph R. Biden,3.195
+39137,Putnam,Kasey Wells,0.0
+39137,Putnam,Jade Simmons,0.0
+39139,Richland,Howie Hawkins,168.0
+39139,Richland,Joseph R. Biden,17.64
+39139,Richland,Jo Jorgensen,680.0
+39139,Richland,Kasey Wells,0.0
+39139,Richland,Tom Hoefling,2.0
+39139,Richland,Brian Carroll,12.0
+39139,Richland,Dario Hunter,0.0
+39139,Richland,President R19 Boddie Stoneham,0.0
+39139,Richland,Jade Simmons,1.0
+39139,Richland,Donald J. Trump,41.472
+39141,Ross,Jo Jorgensen,345.0
+39141,Ross,Kasey Wells,0.0
+39141,Ross,Brian Carroll,3.0
+39141,Ross,President R19 Boddie Stoneham,0.0
+39141,Ross,Tom Hoefling,0.0
+39141,Ross,Dario Hunter,0.0
+39141,Ross,Joseph R. Biden,10.557
+39141,Ross,Howie Hawkins,116.0
+39141,Ross,Jade Simmons,0.0
+39141,Ross,Donald J. Trump,22.278
+39143,Sandusky,Howie Hawkins,132.0
+39143,Sandusky,Kasey Wells,0.0
+39143,Sandusky,President R19 Boddie Stoneham,0.0
+39143,Sandusky,Dario Hunter,0.0
+39143,Sandusky,Jade Simmons,2.0
+39143,Sandusky,Jo Jorgensen,448.0
+39143,Sandusky,Brian Carroll,0.0
+39143,Sandusky,Donald J. Trump,18.896
+39143,Sandusky,Tom Hoefling,0.0
+39143,Sandusky,Joseph R. Biden,10.596
+39145,Scioto,Dario Hunter,0.0
+39145,Scioto,Brian Carroll,5.0
+39145,Scioto,Tom Hoefling,0.0
+39145,Scioto,Joseph R. Biden,9.08
+39145,Scioto,Kasey Wells,0.0
+39145,Scioto,Jade Simmons,0.0
+39145,Scioto,Howie Hawkins,91.0
+39145,Scioto,Donald J. Trump,22.609
+39145,Scioto,President R19 Boddie Stoneham,0.0
+39145,Scioto,Jo Jorgensen,262.0
+39147,Seneca,Dario Hunter,0.0
+39147,Seneca,Donald J. Trump,17.086
+39147,Seneca,Brian Carroll,4.0
+39147,Seneca,Joseph R. Biden,8.266
+39147,Seneca,Jo Jorgensen,357.0
+39147,Seneca,Jade Simmons,0.0
+39147,Seneca,Tom Hoefling,3.0
+39147,Seneca,Kasey Wells,0.0
+39147,Seneca,President R19 Boddie Stoneham,0.0
+39147,Seneca,Howie Hawkins,94.0
+39149,Shelby,Jade Simmons,0.0
+39149,Shelby,Tom Hoefling,2.0
+39149,Shelby,Jo Jorgensen,290.0
+39149,Shelby,President R19 Boddie Stoneham,0.0
+39149,Shelby,Howie Hawkins,71.0
+39149,Shelby,Brian Carroll,8.0
+39149,Shelby,Joseph R. Biden,4.465
+39149,Shelby,Donald J. Trump,20.422
+39149,Shelby,Dario Hunter,0.0
+39149,Shelby,Kasey Wells,0.0
+39151,Stark,Howie Hawkins,683.0
+39151,Stark,Donald J. Trump,111.097
+39151,Stark,Jade Simmons,5.0
+39151,Stark,Dario Hunter,0.0
+39151,Stark,Joseph R. Biden,75.904
+39151,Stark,President R19 Boddie Stoneham,0.0
+39151,Stark,Brian Carroll,26.0
+39151,Stark,Jo Jorgensen,2.163
+39151,Stark,Kasey Wells,0.0
+39151,Stark,Tom Hoefling,1.0
+39153,Summit,President R19 Boddie Stoneham,0.0
+39153,Summit,Jo Jorgensen,3.003
+39153,Summit,Howie Hawkins,888.0
+39153,Summit,Tom Hoefling,3.0
+39153,Summit,Jade Simmons,10.0
+39153,Summit,Donald J. Trump,124.833
+39153,Summit,Brian Carroll,66.0
+39153,Summit,Dario Hunter,2.0
+39153,Summit,Joseph R. Biden,151.668
+39153,Summit,Kasey Wells,0.0
+39155,Trumbull,Donald J. Trump,55.194
+39155,Trumbull,Kasey Wells,0.0
+39155,Trumbull,Tom Hoefling,3.0
+39155,Trumbull,Joseph R. Biden,44.519
+39155,Trumbull,Dario Hunter,0.0
+39155,Trumbull,Howie Hawkins,356.0
+39155,Trumbull,Jo Jorgensen,913.0
+39155,Trumbull,Jade Simmons,1.0
+39155,Trumbull,Brian Carroll,15.0
+39155,Trumbull,President R19 Boddie Stoneham,0.0
+39157,Tuscarawas,Howie Hawkins,161.0
+39157,Tuscarawas,Dario Hunter,0.0
+39157,Tuscarawas,Jo Jorgensen,494.0
+39157,Tuscarawas,Tom Hoefling,0.0
+39157,Tuscarawas,Kasey Wells,2.0
+39157,Tuscarawas,President R19 Boddie Stoneham,0.0
+39157,Tuscarawas,Brian Carroll,11.0
+39157,Tuscarawas,Jade Simmons,0.0
+39157,Tuscarawas,Donald J. Trump,30.458
+39157,Tuscarawas,Joseph R. Biden,12.889
+39159,Union,Joseph R. Biden,11.141
+39159,Union,Jade Simmons,0.0
+39159,Union,Jo Jorgensen,535.0
+39159,Union,Dario Hunter,0.0
+39159,Union,Brian Carroll,0.0
+39159,Union,Donald J. Trump,21.669
+39159,Union,President R19 Boddie Stoneham,0.0
+39159,Union,Kasey Wells,0.0
+39159,Union,Tom Hoefling,0.0
+39159,Union,Howie Hawkins,100.0
+39161,Van Wert,Dario Hunter,0.0
+39161,Van Wert,Howie Hawkins,42.0
+39161,Van Wert,Joseph R. Biden,3.067
+39161,Van Wert,Brian Carroll,3.0
+39161,Van Wert,Tom Hoefling,1.0
+39161,Van Wert,Donald J. Trump,11.65
+39161,Van Wert,Jade Simmons,1.0
+39161,Van Wert,Jo Jorgensen,201.0
+39161,Van Wert,Kasey Wells,0.0
+39161,Van Wert,President R19 Boddie Stoneham,0.0
+39163,Vinton,Joseph R. Biden,1.331
+39163,Vinton,Donald J. Trump,4.632
+39163,Vinton,Tom Hoefling,0.0
+39163,Vinton,Howie Hawkins,17.0
+39163,Vinton,President R19 Boddie Stoneham,0.0
+39163,Vinton,Jo Jorgensen,47.0
+39163,Vinton,Dario Hunter,0.0
+39163,Vinton,Jade Simmons,1.0
+39163,Vinton,Brian Carroll,1.0
+39163,Vinton,Kasey Wells,1.0
+39165,Warren,President R19 Boddie Stoneham,0.0
+39165,Warren,Howie Hawkins,291.0
+39165,Warren,Brian Carroll,4.0
+39165,Warren,Joseph R. Biden,46.069
+39165,Warren,Tom Hoefling,0.0
+39165,Warren,Jo Jorgensen,1.747
+39165,Warren,Donald J. Trump,87.988
+39165,Warren,Kasey Wells,0.0
+39165,Warren,Jade Simmons,1.0
+39165,Warren,Dario Hunter,0.0
+39167,Washington,Jo Jorgensen,372.0
+39167,Washington,Dario Hunter,0.0
+39167,Washington,Brian Carroll,0.0
+39167,Washington,President R19 Boddie Stoneham,0.0
+39167,Washington,Jade Simmons,0.0
+39167,Washington,Donald J. Trump,22.307
+39167,Washington,Tom Hoefling,0.0
+39167,Washington,Howie Hawkins,109.0
+39167,Washington,Joseph R. Biden,9.243
+39167,Washington,Kasey Wells,0.0
+39169,Wayne,Kasey Wells,0.0
+39169,Wayne,President R19 Boddie Stoneham,0.0
+39169,Wayne,Joseph R. Biden,16.66
+39169,Wayne,Brian Carroll,19.0
+39169,Wayne,Jade Simmons,3.0
+39169,Wayne,Donald J. Trump,36.759
+39169,Wayne,Tom Hoefling,4.0
+39169,Wayne,Howie Hawkins,173.0
+39169,Wayne,Dario Hunter,0.0
+39169,Wayne,Jo Jorgensen,665.0
+39171,Williams,Donald J. Trump,13.452
+39171,Williams,Kasey Wells,0.0
+39171,Williams,Dario Hunter,0.0
+39171,Williams,President R19 Boddie Stoneham,0.0
+39171,Williams,Joseph R. Biden,4.842
+39171,Williams,Brian Carroll,2.0
+39171,Williams,Jade Simmons,0.0
+39171,Williams,Tom Hoefling,0.0
+39171,Williams,Howie Hawkins,70.0
+39171,Williams,Jo Jorgensen,285.0
+39173,Wood,Howie Hawkins,211.0
+39173,Wood,President R19 Boddie Stoneham,0.0
+39173,Wood,Donald J. Trump,35.757
+39173,Wood,Jo Jorgensen,992.0
+39173,Wood,Dario Hunter,0.0
+39173,Wood,Brian Carroll,14.0
+39173,Wood,Kasey Wells,1.0
+39173,Wood,Tom Hoefling,1.0
+39173,Wood,Joseph R. Biden,30.617
+39173,Wood,Jade Simmons,4.0
+39175,Wyandot,Tom Hoefling,0.0
+39175,Wyandot,Jade Simmons,1.0
+39175,Wyandot,Jo Jorgensen,155.0
+39175,Wyandot,Dario Hunter,0.0
+39175,Wyandot,Howie Hawkins,38.0
+39175,Wyandot,Brian Carroll,1.0
+39175,Wyandot,President R19 Boddie Stoneham,0.0
+39175,Wyandot,Joseph R. Biden,2.733
+39175,Wyandot,Donald J. Trump,8.462
+39175,Wyandot,Kasey Wells,0.0

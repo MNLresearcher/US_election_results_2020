@@ -1,0 +1,304 @@
+fips,county,candidate,votes
+20001,Allen,Donald J. Trump,4218
+20001,Allen,Jo Jorgensen,104
+20001,Allen,Joseph R. Biden,1570
+20003,Anderson,Donald J. Trump,2929
+20003,Anderson,Jo Jorgensen,81
+20003,Anderson,Joseph R. Biden,782
+20005,Atchison,Donald J. Trump,4906
+20005,Atchison,Jo Jorgensen,175
+20005,Atchison,Joseph R. Biden,2359
+20007,Barber,Donald J. Trump,2014
+20007,Barber,Jo Jorgensen,37
+20007,Barber,Joseph R. Biden,291
+20009,Barton,Donald J. Trump,8608
+20009,Barton,Jo Jorgensen,182
+20009,Barton,Joseph R. Biden,2340
+20011,Bourbon,Donald J. Trump,5023
+20011,Bourbon,Jo Jorgensen,112
+20011,Bourbon,Joseph R. Biden,1541
+20013,Brown,Donald J. Trump,3262
+20013,Brown,Jo Jorgensen,105
+20013,Brown,Joseph R. Biden,1104
+20015,Butler,Donald J. Trump,22634
+20015,Butler,Jo Jorgensen,705
+20015,Butler,Joseph R. Biden,9181
+20017,Chase,Donald J. Trump,1123
+20017,Chase,Jo Jorgensen,23
+20017,Chase,Joseph R. Biden,345
+20019,Chautauqua,Donald J. Trump,1402
+20019,Chautauqua,Jo Jorgensen,25
+20019,Chautauqua,Joseph R. Biden,212
+20021,Cherokee,Donald J. Trump,6766
+20021,Cherokee,Jo Jorgensen,168
+20021,Cherokee,Joseph R. Biden,2194
+20023,Cheyenne,Donald J. Trump,1183
+20023,Cheyenne,Jo Jorgensen,22
+20023,Cheyenne,Joseph R. Biden,224
+20025,Clark,Donald J. Trump,904
+20025,Clark,Jo Jorgensen,20
+20025,Clark,Joseph R. Biden,143
+20027,Clay,Donald J. Trump,3177
+20027,Clay,Jo Jorgensen,111
+20027,Clay,Joseph R. Biden,894
+20029,Cloud,Donald J. Trump,3242
+20029,Cloud,Jo Jorgensen,101
+20029,Cloud,Joseph R. Biden,920
+20031,Coffey,Donald J. Trump,3489
+20031,Coffey,Jo Jorgensen,112
+20031,Coffey,Joseph R. Biden,964
+20033,Comanche,Donald J. Trump,762
+20033,Comanche,Jo Jorgensen,28
+20033,Comanche,Joseph R. Biden,126
+20035,Cowley,Donald J. Trump,9656
+20035,Cowley,Jo Jorgensen,302
+20035,Cowley,Joseph R. Biden,4273
+20037,Crawford,Donald J. Trump,10045
+20037,Crawford,Jo Jorgensen,421
+20037,Crawford,Joseph R. Biden,6179
+20039,Decatur,Donald J. Trump,1260
+20039,Decatur,Jo Jorgensen,20
+20039,Decatur,Joseph R. Biden,218
+20041,Dickinson,Donald J. Trump,7126
+20041,Dickinson,Jo Jorgensen,163
+20041,Dickinson,Joseph R. Biden,2060
+20043,Doniphan,Donald J. Trump,2976
+20043,Doniphan,Jo Jorgensen,47
+20043,Doniphan,Joseph R. Biden,686
+20045,Douglas,Donald J. Trump,17286
+20045,Douglas,Jo Jorgensen,1424
+20045,Douglas,Joseph R. Biden,40785
+20047,Edwards,Donald J. Trump,1141
+20047,Edwards,Jo Jorgensen,19
+20047,Edwards,Joseph R. Biden,271
+20049,Elk,Donald J. Trump,1140
+20049,Elk,Jo Jorgensen,26
+20049,Elk,Joseph R. Biden,195
+20051,Ellis,Donald J. Trump,9758
+20051,Ellis,Jo Jorgensen,305
+20051,Ellis,Joseph R. Biden,3737
+20053,Ellsworth,Donald J. Trump,2148
+20053,Ellsworth,Jo Jorgensen,57
+20053,Ellsworth,Joseph R. Biden,648
+20055,Finney,Donald J. Trump,7236
+20055,Finney,Jo Jorgensen,239
+20055,Finney,Joseph R. Biden,4325
+20057,Ford,Donald J. Trump,5803
+20057,Ford,Jo Jorgensen,165
+20057,Ford,Joseph R. Biden,2947
+20059,Franklin,Donald J. Trump,8479
+20059,Franklin,Jo Jorgensen,308
+20059,Franklin,Joseph R. Biden,3690
+20061,Geary,Donald J. Trump,5323
+20061,Geary,Jo Jorgensen,297
+20061,Geary,Joseph R. Biden,3983
+20063,Gove,Donald J. Trump,1291
+20063,Gove,Jo Jorgensen,14
+20063,Gove,Joseph R. Biden,166
+20065,Graham,Donald J. Trump,1080
+20065,Graham,Jo Jorgensen,29
+20065,Graham,Joseph R. Biden,228
+20067,Grant,Donald J. Trump,1936
+20067,Grant,Jo Jorgensen,47
+20067,Grant,Joseph R. Biden,518
+20069,Gray,Donald J. Trump,1911
+20069,Gray,Jo Jorgensen,36
+20069,Gray,Joseph R. Biden,341
+20071,Greeley,Donald J. Trump,549
+20071,Greeley,Jo Jorgensen,14
+20071,Greeley,Joseph R. Biden,78
+20073,Greenwood,Donald J. Trump,2444
+20073,Greenwood,Jo Jorgensen,64
+20073,Greenwood,Joseph R. Biden,569
+20075,Hamilton,Donald J. Trump,698
+20075,Hamilton,Jo Jorgensen,20
+20075,Hamilton,Joseph R. Biden,141
+20077,Harper,Donald J. Trump,2168
+20077,Harper,Jo Jorgensen,49
+20077,Harper,Joseph R. Biden,461
+20079,Harvey,Donald J. Trump,10182
+20079,Harvey,Jo Jorgensen,380
+20079,Harvey,Joseph R. Biden,6747
+20081,Haskell,Donald J. Trump,1122
+20081,Haskell,Jo Jorgensen,20
+20081,Haskell,Joseph R. Biden,268
+20083,Hodgeman,Donald J. Trump,875
+20083,Hodgeman,Jo Jorgensen,16
+20083,Hodgeman,Joseph R. Biden,154
+20085,Jackson,Donald J. Trump,4517
+20085,Jackson,Jo Jorgensen,186
+20085,Jackson,Joseph R. Biden,1881
+20087,Jefferson,Donald J. Trump,6334
+20087,Jefferson,Jo Jorgensen,254
+20087,Jefferson,Joseph R. Biden,3194
+20089,Jewell,Donald J. Trump,1387
+20089,Jewell,Jo Jorgensen,29
+20089,Jewell,Joseph R. Biden,212
+20093,Kearny,Donald J. Trump,1164
+20093,Kearny,Jo Jorgensen,24
+20093,Kearny,Joseph R. Biden,267
+20095,Kingman,Donald J. Trump,3130
+20095,Kingman,Jo Jorgensen,67
+20095,Kingman,Joseph R. Biden,752
+20097,Kiowa,Donald J. Trump,980
+20097,Kiowa,Jo Jorgensen,29
+20097,Kiowa,Joseph R. Biden,156
+20099,Labette,Donald J. Trump,5735
+20099,Labette,Jo Jorgensen,173
+20099,Labette,Joseph R. Biden,2655
+20101,Lane,Donald J. Trump,762
+20101,Lane,Jo Jorgensen,18
+20101,Lane,Joseph R. Biden,115
+20103,Leavenworth,Donald J. Trump,21610
+20103,Leavenworth,Jo Jorgensen,994
+20103,Leavenworth,Joseph R. Biden,13886
+20105,Lincoln,Donald J. Trump,1283
+20105,Lincoln,Jo Jorgensen,30
+20105,Lincoln,Joseph R. Biden,266
+20107,Linn,Donald J. Trump,4048
+20107,Linn,Jo Jorgensen,102
+20107,Linn,Joseph R. Biden,896
+20109,Logan,Donald J. Trump,1249
+20109,Logan,Jo Jorgensen,23
+20109,Logan,Joseph R. Biden,186
+20111,Lyon,Donald J. Trump,7550
+20111,Lyon,Jo Jorgensen,383
+20111,Lyon,Joseph R. Biden,6055
+20115,Marion,Donald J. Trump,4465
+20115,Marion,Jo Jorgensen,130
+20115,Marion,Joseph R. Biden,1516
+20117,Marshall,Donald J. Trump,3729
+20117,Marshall,Jo Jorgensen,126
+20117,Marshall,Joseph R. Biden,1259
+20113,McPherson,Donald J. Trump,9964
+20113,McPherson,Jo Jorgensen,340
+20113,McPherson,Joseph R. Biden,4134
+20119,Meade,Donald J. Trump,1523
+20119,Meade,Jo Jorgensen,39
+20119,Meade,Joseph R. Biden,263
+20121,Miami,Donald J. Trump,12308
+20121,Miami,Jo Jorgensen,382
+20121,Miami,Joseph R. Biden,5247
+20123,Mitchell,Donald J. Trump,2504
+20123,Mitchell,Jo Jorgensen,39
+20123,Mitchell,Joseph R. Biden,558
+20125,Montgomery,Donald J. Trump,9931
+20125,Montgomery,Jo Jorgensen,267
+20125,Montgomery,Joseph R. Biden,3228
+20127,Morris,Donald J. Trump,2124
+20127,Morris,Jo Jorgensen,46
+20127,Morris,Joseph R. Biden,729
+20129,Morton,Donald J. Trump,1034
+20129,Morton,Jo Jorgensen,14
+20129,Morton,Joseph R. Biden,150
+20131,Nemaha,Donald J. Trump,4664
+20131,Nemaha,Jo Jorgensen,93
+20131,Nemaha,Joseph R. Biden,927
+20133,Neosho,Donald J. Trump,4970
+20133,Neosho,Jo Jorgensen,111
+20133,Neosho,Joseph R. Biden,1796
+20135,Ness,Donald J. Trump,1339
+20135,Ness,Jo Jorgensen,25
+20135,Ness,Joseph R. Biden,149
+20137,Norton,Donald J. Trump,2007
+20137,Norton,Jo Jorgensen,44
+20137,Norton,Joseph R. Biden,364
+20139,Osage,Donald J. Trump,5705
+20139,Osage,Jo Jorgensen,194
+20139,Osage,Joseph R. Biden,2136
+20141,Osborne,Donald J. Trump,1629
+20141,Osborne,Jo Jorgensen,35
+20141,Osborne,Joseph R. Biden,281
+20143,Ottawa,Donald J. Trump,2610
+20143,Ottawa,Jo Jorgensen,75
+20143,Ottawa,Joseph R. Biden,506
+20145,Pawnee,Donald J. Trump,2045
+20145,Pawnee,Jo Jorgensen,51
+20145,Pawnee,Joseph R. Biden,643
+20147,Phillips,Donald J. Trump,2418
+20147,Phillips,Jo Jorgensen,45
+20147,Phillips,Joseph R. Biden,318
+20149,Pottawatomie,Donald J. Trump,9452
+20149,Pottawatomie,Jo Jorgensen,318
+20149,Pottawatomie,Joseph R. Biden,3313
+20151,Pratt,Donald J. Trump,3108
+20151,Pratt,Jo Jorgensen,96
+20151,Pratt,Joseph R. Biden,933
+20153,Rawlins,Donald J. Trump,1261
+20153,Rawlins,Jo Jorgensen,29
+20153,Rawlins,Joseph R. Biden,214
+20155,Reno,Donald J. Trump,18443
+20155,Reno,Jo Jorgensen,612
+20155,Reno,Joseph R. Biden,8886
+20157,Republic,Donald J. Trump,2182
+20157,Republic,Jo Jorgensen,51
+20157,Republic,Joseph R. Biden,424
+20159,Rice,Donald J. Trump,3262
+20159,Rice,Jo Jorgensen,92
+20159,Rice,Joseph R. Biden,965
+20161,Riley,Donald J. Trump,11610
+20161,Riley,Jo Jorgensen,796
+20161,Riley,Joseph R. Biden,12765
+20163,Rooks,Donald J. Trump,2325
+20163,Rooks,Jo Jorgensen,35
+20163,Rooks,Joseph R. Biden,339
+20165,Rush,Donald J. Trump,1350
+20165,Rush,Jo Jorgensen,32
+20165,Rush,Joseph R. Biden,295
+20167,Russell,Donald J. Trump,2790
+20167,Russell,Jo Jorgensen,77
+20167,Russell,Joseph R. Biden,600
+20169,Saline,Donald J. Trump,15722
+20169,Saline,Jo Jorgensen,595
+20169,Saline,Joseph R. Biden,8214
+20171,Scott,Donald J. Trump,2014
+20171,Scott,Jo Jorgensen,41
+20171,Scott,Joseph R. Biden,299
+20175,Seward,Donald J. Trump,3372
+20175,Seward,Jo Jorgensen,89
+20175,Seward,Joseph R. Biden,1833
+20179,Sheridan,Donald J. Trump,1282
+20179,Sheridan,Jo Jorgensen,16
+20179,Sheridan,Joseph R. Biden,147
+20181,Sherman,Donald J. Trump,2269
+20181,Sherman,Jo Jorgensen,62
+20181,Sherman,Joseph R. Biden,396
+20183,Smith,Donald J. Trump,1763
+20183,Smith,Jo Jorgensen,30
+20183,Smith,Joseph R. Biden,336
+20185,Stafford,Donald J. Trump,1645
+20185,Stafford,Jo Jorgensen,32
+20185,Stafford,Joseph R. Biden,357
+20187,Stanton,Donald J. Trump,614
+20187,Stanton,Jo Jorgensen,14
+20187,Stanton,Joseph R. Biden,148
+20189,Stevens,Donald J. Trump,1760
+20189,Stevens,Jo Jorgensen,34
+20189,Stevens,Joseph R. Biden,237
+20191,Sumner,Donald J. Trump,8105
+20191,Sumner,Jo Jorgensen,232
+20191,Sumner,Joseph R. Biden,2591
+20193,Thomas,Donald J. Trump,3130
+20193,Thomas,Jo Jorgensen,55
+20193,Thomas,Joseph R. Biden,625
+20195,Trego,Donald J. Trump,1363
+20195,Trego,Jo Jorgensen,25
+20195,Trego,Joseph R. Biden,242
+20197,Wabaunsee,Donald J. Trump,2845
+20197,Wabaunsee,Jo Jorgensen,93
+20197,Wabaunsee,Joseph R. Biden,964
+20199,Wallace,Donald J. Trump,770
+20199,Wallace,Jo Jorgensen,11
+20199,Wallace,Joseph R. Biden,44
+20201,Washington,Donald J. Trump,2363
+20201,Washington,Jo Jorgensen,45
+20201,Washington,Joseph R. Biden,475
+20203,Wichita,Donald J. Trump,808
+20203,Wichita,Jo Jorgensen,11
+20203,Wichita,Joseph R. Biden,149
+20205,Wilson,Donald J. Trump,3153
+20205,Wilson,Jo Jorgensen,78
+20205,Wilson,Joseph R. Biden,723
+20207,Woodson,Donald J. Trump,1228
+20207,Woodson,Jo Jorgensen,24
+20207,Woodson,Joseph R. Biden,294

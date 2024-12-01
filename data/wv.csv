@@ -1,0 +1,221 @@
+fips,county,candidate,votes
+54001,Barbour,Donald J. Trump,5116
+54001,Barbour,Howie Hawkins,23
+54001,Barbour,Joseph R. Biden,1457
+54001,Barbour,Jo Jorgensen,81
+54003,Berkeley,Howie Hawkins,181
+54003,Berkeley,Joseph R. Biden,17186
+54003,Berkeley,Donald J. Trump,33279
+54003,Berkeley,Jo Jorgensen,889
+54005,Boone,Joseph R. Biden,2041
+54005,Boone,Howie Hawkins,33
+54005,Boone,Donald J. Trump,6816
+54005,Boone,Jo Jorgensen,122
+54007,Braxton,Joseph R. Biden,1457
+54007,Braxton,Howie Hawkins,25
+54007,Braxton,Donald J. Trump,4120
+54007,Braxton,Jo Jorgensen,62
+54009,Brooke,Joseph R. Biden,2947
+54009,Brooke,Howie Hawkins,26
+54009,Brooke,Jo Jorgensen,138
+54009,Brooke,Donald J. Trump,7545
+54011,Cabell,Jo Jorgensen,527
+54011,Cabell,Donald J. Trump,21721
+54011,Cabell,Howie Hawkins,118
+54011,Cabell,Joseph R. Biden,14994
+54013,Calhoun,Jo Jorgensen,29
+54013,Calhoun,Howie Hawkins,10
+54013,Calhoun,Joseph R. Biden,568
+54013,Calhoun,Donald J. Trump,2364
+54015,Clay,Donald J. Trump,2679
+54015,Clay,Joseph R. Biden,641
+54015,Clay,Howie Hawkins,8
+54015,Clay,Jo Jorgensen,37
+54017,Doddridge,Howie Hawkins,17
+54017,Doddridge,Joseph R. Biden,435
+54017,Doddridge,Jo Jorgensen,30
+54017,Doddridge,Donald J. Trump,2619
+54019,Fayette,Joseph R. Biden,5063
+54019,Fayette,Howie Hawkins,61
+54019,Fayette,Donald J. Trump,11580
+54019,Fayette,Jo Jorgensen,158
+54021,Gilmer,Joseph R. Biden,599
+54021,Gilmer,Donald J. Trump,2012
+54021,Gilmer,Jo Jorgensen,39
+54021,Gilmer,Howie Hawkins,12
+54023,Grant,Howie Hawkins,11
+54023,Grant,Joseph R. Biden,607
+54023,Grant,Donald J. Trump,4871
+54023,Grant,Jo Jorgensen,20
+54025,Greenbrier,Joseph R. Biden,4655
+54025,Greenbrier,Donald J. Trump,10925
+54025,Greenbrier,Jo Jorgensen,210
+54025,Greenbrier,Howie Hawkins,60
+54027,Hampshire,Jo Jorgensen,93
+54027,Hampshire,Joseph R. Biden,1939
+54027,Hampshire,Howie Hawkins,21
+54027,Hampshire,Donald J. Trump,8033
+54029,Hancock,Howie Hawkins,43
+54029,Hancock,Joseph R. Biden,3790
+54029,Hancock,Donald J. Trump,9806
+54029,Hancock,Jo Jorgensen,161
+54031,Hardy,Donald J. Trump,4859
+54031,Hardy,Jo Jorgensen,72
+54031,Hardy,Howie Hawkins,19
+54031,Hardy,Joseph R. Biden,1381
+54033,Harrison,Joseph R. Biden,9215
+54033,Harrison,Jo Jorgensen,461
+54033,Harrison,Howie Hawkins,106
+54033,Harrison,Donald J. Trump,20683
+54035,Jackson,Donald J. Trump,10093
+54035,Jackson,Howie Hawkins,37
+54035,Jackson,Jo Jorgensen,171
+54035,Jackson,Joseph R. Biden,3207
+54037,Jefferson,Jo Jorgensen,424
+54037,Jefferson,Donald J. Trump,15033
+54037,Jefferson,Howie Hawkins,119
+54037,Jefferson,Joseph R. Biden,12127
+54039,Kanawha,Joseph R. Biden,34344
+54039,Kanawha,Howie Hawkins,278
+54039,Kanawha,Jo Jorgensen,1224
+54039,Kanawha,Donald J. Trump,46398
+54041,Lewis,Howie Hawkins,21
+54041,Lewis,Jo Jorgensen,116
+54041,Lewis,Joseph R. Biden,1538
+54041,Lewis,Donald J. Trump,5782
+54043,Lincoln,Howie Hawkins,22
+54043,Lincoln,Joseph R. Biden,1711
+54043,Lincoln,Donald J. Trump,6012
+54043,Lincoln,Jo Jorgensen,85
+54045,Logan,Jo Jorgensen,134
+54045,Logan,Donald J. Trump,10534
+54045,Logan,Howie Hawkins,25
+54045,Logan,Joseph R. Biden,2333
+54049,Marion,Joseph R. Biden,8901
+54049,Marion,Donald J. Trump,16300
+54049,Marion,Howie Hawkins,111
+54049,Marion,Jo Jorgensen,482
+54051,Marshall,Donald J. Trump,10435
+54051,Marshall,Joseph R. Biden,3455
+54051,Marshall,Jo Jorgensen,143
+54051,Marshall,Howie Hawkins,47
+54053,Mason,Donald J. Trump,8491
+54053,Mason,Jo Jorgensen,150
+54053,Mason,Howie Hawkins,36
+54053,Mason,Joseph R. Biden,2526
+54047,McDowell,Donald J. Trump,5148
+54047,McDowell,Jo Jorgensen,29
+54047,McDowell,Howie Hawkins,17
+54047,McDowell,Joseph R. Biden,1333
+54055,Mercer,Joseph R. Biden,5556
+54055,Mercer,Jo Jorgensen,267
+54055,Mercer,Howie Hawkins,74
+54055,Mercer,Donald J. Trump,19237
+54057,Mineral,Joseph R. Biden,2660
+54057,Mineral,Donald J. Trump,10040
+54057,Mineral,Howie Hawkins,24
+54057,Mineral,Jo Jorgensen,148
+54059,Mingo,Howie Hawkins,23
+54059,Mingo,Donald J. Trump,8544
+54059,Mingo,Jo Jorgensen,58
+54059,Mingo,Joseph R. Biden,1397
+54061,Monongalia,Donald J. Trump,20803
+54061,Monongalia,Joseph R. Biden,20282
+54061,Monongalia,Howie Hawkins,191
+54061,Monongalia,Jo Jorgensen,796
+54063,Monroe,Joseph R. Biden,1345
+54063,Monroe,Howie Hawkins,13
+54063,Monroe,Jo Jorgensen,64
+54063,Monroe,Donald J. Trump,5068
+54065,Morgan,Joseph R. Biden,1998
+54065,Morgan,Howie Hawkins,39
+54065,Morgan,Jo Jorgensen,121
+54065,Morgan,Donald J. Trump,6537
+54067,Nicholas,Donald J. Trump,8279
+54067,Nicholas,Howie Hawkins,20
+54067,Nicholas,Jo Jorgensen,105
+54067,Nicholas,Joseph R. Biden,2226
+54069,Ohio,Jo Jorgensen,259
+54069,Ohio,Howie Hawkins,62
+54069,Ohio,Donald J. Trump,12354
+54069,Ohio,Joseph R. Biden,7223
+54071,Pendleton,Donald J. Trump,2782
+54071,Pendleton,Joseph R. Biden,820
+54071,Pendleton,Jo Jorgensen,51
+54071,Pendleton,Howie Hawkins,6
+54073,Pleasants,Howie Hawkins,15
+54073,Pleasants,Donald J. Trump,2742
+54073,Pleasants,Joseph R. Biden,699
+54073,Pleasants,Jo Jorgensen,35
+54075,Pocahontas,Donald J. Trump,2895
+54075,Pocahontas,Jo Jorgensen,44
+54075,Pocahontas,Joseph R. Biden,1047
+54075,Pocahontas,Howie Hawkins,22
+54077,Preston,Jo Jorgensen,167
+54077,Preston,Howie Hawkins,52
+54077,Preston,Donald J. Trump,11190
+54077,Preston,Joseph R. Biden,3163
+54079,Putnam,Joseph R. Biden,7878
+54079,Putnam,Jo Jorgensen,498
+54079,Putnam,Donald J. Trump,20034
+54079,Putnam,Howie Hawkins,91
+54081,Raleigh,Howie Hawkins,95
+54081,Raleigh,Joseph R. Biden,7982
+54081,Raleigh,Donald J. Trump,24673
+54081,Raleigh,Jo Jorgensen,356
+54083,Randolph,Howie Hawkins,40
+54083,Randolph,Joseph R. Biden,3362
+54083,Randolph,Jo Jorgensen,125
+54083,Randolph,Donald J. Trump,8673
+54085,Ritchie,Donald J. Trump,3649
+54085,Ritchie,Joseph R. Biden,586
+54085,Ritchie,Howie Hawkins,10
+54085,Ritchie,Jo Jorgensen,38
+54087,Roane,Howie Hawkins,26
+54087,Roane,Jo Jorgensen,69
+54087,Roane,Donald J. Trump,4213
+54087,Roane,Joseph R. Biden,1455
+54089,Summers,Joseph R. Biden,1448
+54089,Summers,Jo Jorgensen,52
+54089,Summers,Howie Hawkins,11
+54089,Summers,Donald J. Trump,4074
+54091,Taylor,Donald J. Trump,5477
+54091,Taylor,Joseph R. Biden,1796
+54091,Taylor,Howie Hawkins,23
+54091,Taylor,Jo Jorgensen,87
+54093,Tucker,Joseph R. Biden,938
+54093,Tucker,Donald J. Trump,2841
+54093,Tucker,Howie Hawkins,11
+54093,Tucker,Jo Jorgensen,54
+54095,Tyler,Jo Jorgensen,56
+54095,Tyler,Joseph R. Biden,631
+54095,Tyler,Donald J. Trump,3226
+54095,Tyler,Howie Hawkins,9
+54097,Upshur,Jo Jorgensen,167
+54097,Upshur,Joseph R. Biden,2256
+54097,Upshur,Donald J. Trump,7771
+54097,Upshur,Howie Hawkins,27
+54099,Wayne,Joseph R. Biden,4088
+54099,Wayne,Jo Jorgensen,223
+54099,Wayne,Howie Hawkins,51
+54099,Wayne,Donald J. Trump,12585
+54101,Webster,Howie Hawkins,10
+54101,Webster,Jo Jorgensen,23
+54101,Webster,Joseph R. Biden,610
+54101,Webster,Donald J. Trump,2759
+54103,Wetzel,Jo Jorgensen,103
+54103,Wetzel,Joseph R. Biden,1539
+54103,Wetzel,Donald J. Trump,4993
+54103,Wetzel,Howie Hawkins,32
+54105,Wirt,Jo Jorgensen,45
+54105,Wirt,Howie Hawkins,8
+54105,Wirt,Donald J. Trump,2134
+54105,Wirt,Joseph R. Biden,466
+54107,Wood,Jo Jorgensen,523
+54107,Wood,Howie Hawkins,111
+54107,Wood,Joseph R. Biden,10926
+54107,Wood,Donald J. Trump,27202
+54109,Wyoming,Joseph R. Biden,1157
+54109,Wyoming,Donald J. Trump,7353
+54109,Wyoming,Jo Jorgensen,66
+54109,Wyoming,Howie Hawkins,16

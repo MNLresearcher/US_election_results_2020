@@ -1,0 +1,202 @@
+fips,county,candidate,votes
+42001,Adams,Joseph R. Biden,20063
+42001,Adams,Donald J. Trump,40781
+42001,Adams,Other,11544
+42003,Allegheny,Donald J. Trump,267832
+42003,Allegheny,Joseph R. Biden,539595
+42003,Allegheny,Other,134829
+42005,Armstrong,Joseph R. Biden,13659
+42005,Armstrong,Donald J. Trump,25979
+42005,Armstrong,Other,5188
+42007,Beaver,Joseph R. Biden,54281
+42007,Beaver,Donald J. Trump,47214
+42007,Beaver,Other,15456
+42009,Bedford,Joseph R. Biden,7264
+42009,Bedford,Donald J. Trump,23729
+42009,Bedford,Other,3246
+42011,Berks,Joseph R. Biden,118375
+42011,Berks,Donald J. Trump,110405
+42011,Berks,Other,43464
+42013,Blair,Joseph R. Biden,22055
+42013,Blair,Donald J. Trump,48499
+42013,Blair,Other,9941
+42015,Bradford,Joseph R. Biden,9475
+42015,Bradford,Donald J. Trump,24254
+42015,Bradford,Other,5133
+42017,Bucks,Donald J. Trump,198632
+42017,Bucks,Joseph R. Biden,208890
+42017,Bucks,Other,80496
+42019,Butler,Joseph R. Biden,43592
+42019,Butler,Donald J. Trump,79579
+42019,Butler,Other,20051
+42021,Cambria,Joseph R. Biden,38164
+42021,Cambria,Donald J. Trump,40727
+42021,Cambria,Other,9355
+42023,Cameron,Joseph R. Biden,933
+42023,Cameron,Donald J. Trump,1785
+42023,Cameron,Other,394
+42025,Carbon,Joseph R. Biden,17831
+42025,Carbon,Donald J. Trump,21822
+42025,Carbon,Other,7328
+42027,Centre,Donald J. Trump,44591
+42027,Centre,Joseph R. Biden,46881
+42027,Centre,Other,20626
+42029,Chester,Joseph R. Biden,157378
+42029,Chester,Donald J. Trump,155381
+42029,Chester,Other,67598
+42031,Clarion,Joseph R. Biden,6839
+42031,Clarion,Donald J. Trump,14807
+42031,Clarion,Other,2744
+42033,Clearfield,Joseph R. Biden,15482
+42033,Clearfield,Donald J. Trump,28512
+42033,Clearfield,Other,5705
+42035,Clinton,Joseph R. Biden,7613
+42035,Clinton,Donald J. Trump,11908
+42035,Clinton,Other,2866
+42037,Columbia,Joseph R. Biden,13676
+42037,Columbia,Donald J. Trump,20139
+42037,Columbia,Other,6073
+42039,Crawford,Joseph R. Biden,18421
+42039,Crawford,Donald J. Trump,31138
+42039,Crawford,Other,7029
+42041,Cumberland,Joseph R. Biden,64058
+42041,Cumberland,Donald J. Trump,92614
+42041,Cumberland,Other,30585
+42043,Dauphin,Donald J. Trump,77465
+42043,Dauphin,Joseph R. Biden,90046
+42043,Dauphin,Other,30309
+42045,Delaware,Donald J. Trump,160882
+42045,Delaware,Joseph R. Biden,208138
+42045,Delaware,Other,56386
+42047,Elk,Joseph R. Biden,7606
+42047,Elk,Donald J. Trump,10625
+42047,Elk,Other,2359
+42049,Erie,Donald J. Trump,74620
+42049,Erie,Joseph R. Biden,98969
+42049,Erie,Other,29100
+42051,Fayette,Joseph R. Biden,39846
+42051,Fayette,Donald J. Trump,34499
+42051,Fayette,Other,8028
+42053,Forest,Joseph R. Biden,1153
+42053,Forest,Donald J. Trump,1971
+42053,Forest,Other,384
+42055,Franklin,Joseph R. Biden,25023
+42055,Franklin,Donald J. Trump,61357
+42055,Franklin,Other,14594
+42057,Fulton,Joseph R. Biden,2013
+42057,Fulton,Donald J. Trump,6801
+42057,Fulton,Other,1022
+42059,Greene,Joseph R. Biden,10135
+42059,Greene,Donald J. Trump,10421
+42059,Greene,Other,2257
+42061,Huntingdon,Joseph R. Biden,7470
+42061,Huntingdon,Donald J. Trump,18021
+42061,Huntingdon,Other,2935
+42063,Indiana,Joseph R. Biden,17987
+42063,Indiana,Donald J. Trump,27196
+42063,Indiana,Other,6614
+42065,Jefferson,Joseph R. Biden,8374
+42065,Jefferson,Donald J. Trump,20008
+42065,Jefferson,Other,3658
+42067,Juniata,Joseph R. Biden,3364
+42067,Juniata,Donald J. Trump,9635
+42067,Juniata,Other,1491
+42069,Lackawanna,Donald J. Trump,47059
+42069,Lackawanna,Joseph R. Biden,85956
+42069,Lackawanna,Other,16374
+42071,Lancaster,Joseph R. Biden,115332
+42071,Lancaster,Donald J. Trump,181333
+42071,Lancaster,Other,57631
+42073,Lawrence,Joseph R. Biden,24190
+42073,Lawrence,Donald J. Trump,26566
+42073,Lawrence,Other,6711
+42075,Lebanon,Joseph R. Biden,27645
+42075,Lebanon,Donald J. Trump,50937
+42075,Lebanon,Other,14059
+42077,Lehigh,Donald J. Trump,85499
+42077,Lehigh,Joseph R. Biden,119239
+42077,Lehigh,Other,44649
+42079,Luzerne,Donald J. Trump,86369
+42079,Luzerne,Joseph R. Biden,106361
+42079,Luzerne,Other,28158
+42081,Lycoming,Joseph R. Biden,20996
+42081,Lycoming,Donald J. Trump,42871
+42081,Lycoming,Other,9899
+42083,McKean,Joseph R. Biden,6509
+42083,McKean,Donald J. Trump,15780
+42083,McKean,Other,3560
+42085,Mercer,Joseph R. Biden,29345
+42085,Mercer,Donald J. Trump,35758
+42085,Mercer,Other,9831
+42087,Mifflin,Joseph R. Biden,6652
+42087,Mifflin,Donald J. Trump,17703
+42087,Mifflin,Other,3006
+42089,Monroe,Donald J. Trump,40395
+42089,Monroe,Joseph R. Biden,54511
+42089,Monroe,Other,23394
+42091,Montgomery,Donald J. Trump,211868
+42091,Montgomery,Joseph R. Biden,301803
+42091,Montgomery,Other,95524
+42093,Montour,Joseph R. Biden,4813
+42093,Montour,Donald J. Trump,6914
+42093,Montour,Other,2290
+42095,Northampton,Donald J. Trump,81395
+42095,Northampton,Joseph R. Biden,102476
+42095,Northampton,Other,43562
+42097,Northumberland,Joseph R. Biden,19167
+42097,Northumberland,Donald J. Trump,30468
+42097,Northumberland,Other,7984
+42099,Perry,Joseph R. Biden,6590
+42099,Perry,Donald J. Trump,19673
+42099,Perry,Other,3771
+42101,Philadelphia,Donald J. Trump,130566
+42101,Philadelphia,Joseph R. Biden,856949
+42101,Philadelphia,Other,141768
+42103,Pike,Joseph R. Biden,14847
+42103,Pike,Donald J. Trump,20343
+42103,Pike,Other,9479
+42105,Potter,Joseph R. Biden,2305
+42105,Potter,Donald J. Trump,7755
+42105,Potter,Other,1250
+42107,Schuylkill,Joseph R. Biden,30140
+42107,Schuylkill,Donald J. Trump,48777
+42107,Schuylkill,Other,11505
+42109,Snyder,Joseph R. Biden,5378
+42109,Snyder,Donald J. Trump,15390
+42109,Snyder,Other,2940
+42111,Somerset,Joseph R. Biden,13789
+42111,Somerset,Donald J. Trump,30659
+42111,Somerset,Other,4837
+42113,Sullivan,Joseph R. Biden,1286
+42113,Sullivan,Donald J. Trump,2588
+42113,Sullivan,Other,455
+42115,Susquehanna,Joseph R. Biden,7268
+42115,Susquehanna,Donald J. Trump,16353
+42115,Susquehanna,Other,3591
+42117,Tioga,Joseph R. Biden,6033
+42117,Tioga,Donald J. Trump,17377
+42117,Tioga,Other,3508
+42119,Union,Joseph R. Biden,7902
+42119,Union,Donald J. Trump,14046
+42119,Union,Other,4311
+42121,Venango,Joseph R. Biden,9736
+42121,Venango,Donald J. Trump,19761
+42121,Venango,Other,4284
+42123,Warren,Joseph R. Biden,9698
+42123,Warren,Donald J. Trump,16761
+42123,Warren,Other,4972
+42125,Washington,Joseph R. Biden,67037
+42125,Washington,Donald J. Trump,68212
+42125,Washington,Other,18758
+42127,Wayne,Joseph R. Biden,9982
+42127,Wayne,Donald J. Trump,20058
+42127,Wayne,Other,5665
+42129,Westmoreland,Joseph R. Biden,103415
+42129,Westmoreland,Donald J. Trump,119733
+42129,Westmoreland,Other,30688
+42131,Wyoming,Joseph R. Biden,5353
+42131,Wyoming,Donald J. Trump,10861
+42131,Wyoming,Other,2128
+42133,York,Joseph R. Biden,101536
+42133,York,Donald J. Trump,159898
+42133,York,Other,49674

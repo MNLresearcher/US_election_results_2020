@@ -1,0 +1,120 @@
+fips,county,candidate,votes
+23001,Androscoggin,Joseph R. Biden,27617
+23001,Androscoggin,Others,6
+23001,Androscoggin,Howard Hawkins,603
+23001,Androscoggin,Rocky De La Fuente,108
+23001,Androscoggin,Blank,654
+23001,Androscoggin,Jo Jorgensen,1105
+23001,Androscoggin,Donald J. Trump,29268
+23003,Aroostook,Others,4
+23003,Aroostook,Howard Hawkins,233
+23003,Aroostook,Rocky De La Fuente,52
+23003,Aroostook,Blank,464
+23003,Aroostook,Joseph R. Biden,13956
+23003,Aroostook,Jo Jorgensen,421
+23003,Aroostook,Donald J. Trump,21080
+23005,Cumberland,Donald J. Trump,59584
+23005,Cumberland,Joseph R. Biden,128759
+23005,Cumberland,Blank,2149
+23005,Cumberland,Others,24
+23005,Cumberland,Jo Jorgensen,2957
+23005,Cumberland,Rocky De La Fuente,287
+23005,Cumberland,Howard Hawkins,2154
+23007,Franklin,Joseph R. Biden,8069
+23007,Franklin,Howard Hawkins,183
+23007,Franklin,Rocky De La Fuente,31
+23007,Franklin,Jo Jorgensen,353
+23007,Franklin,Blank,209
+23007,Franklin,Donald J. Trump,8754
+23007,Franklin,Others,0
+23009,Hancock,Donald J. Trump,14982
+23009,Hancock,Jo Jorgensen,549
+23009,Hancock,Howard Hawkins,380
+23009,Hancock,Others,4
+23009,Hancock,Joseph R. Biden,19369
+23009,Hancock,Blank,351
+23009,Hancock,Rocky De La Fuente,41
+23011,Kennebec,Others,8
+23011,Kennebec,Jo Jorgensen,1406
+23011,Kennebec,Joseph R. Biden,34902
+23011,Kennebec,Blank,757
+23011,Kennebec,Donald J. Trump,34721
+23011,Kennebec,Howard Hawkins,730
+23011,Kennebec,Rocky De La Fuente,91
+23013,Knox,Howard Hawkins,248
+23013,Knox,Others,5
+23013,Knox,Joseph R. Biden,15110
+23013,Knox,Rocky De La Fuente,34
+23013,Knox,Blank,298
+23013,Knox,Donald J. Trump,9982
+23013,Knox,Jo Jorgensen,355
+23015,Lincoln,Rocky De La Fuente,35
+23015,Lincoln,Donald J. Trump,10256
+23015,Lincoln,Blank,263
+23015,Lincoln,Joseph R. Biden,12684
+23015,Lincoln,Others,0
+23015,Lincoln,Howard Hawkins,199
+23015,Lincoln,Jo Jorgensen,420
+23017,Oxford,Blank,318
+23017,Oxford,Donald J. Trump,17698
+23017,Oxford,Others,1
+23017,Oxford,Jo Jorgensen,650
+23017,Oxford,Howard Hawkins,347
+23017,Oxford,Rocky De La Fuente,41
+23017,Oxford,Joseph R. Biden,14755
+23019,Penobscot,Jo Jorgensen,1854
+23019,Penobscot,Rocky De La Fuente,125
+23019,Penobscot,Others,6
+23019,Penobscot,Howard Hawkins,746
+23019,Penobscot,Blank,864
+23019,Penobscot,Joseph R. Biden,37713
+23019,Penobscot,Donald J. Trump,44825
+23021,Piscataquis,Howard Hawkins,60
+23021,Piscataquis,Rocky De La Fuente,12
+23021,Piscataquis,Joseph R. Biden,3517
+23021,Piscataquis,Others,3
+23021,Piscataquis,Blank,88
+23021,Piscataquis,Jo Jorgensen,173
+23021,Piscataquis,Donald J. Trump,6143
+23023,Sagadahoc,Others,2
+23023,Sagadahoc,Donald J. Trump,9755
+23023,Sagadahoc,Howard Hawkins,249
+23023,Sagadahoc,Joseph R. Biden,13528
+23023,Sagadahoc,Blank,242
+23023,Sagadahoc,Jo Jorgensen,473
+23023,Sagadahoc,Rocky De La Fuente,31
+23025,Somerset,Joseph R. Biden,10199
+23025,Somerset,Blank,295
+23025,Somerset,Others,7
+23025,Somerset,Rocky De La Fuente,32
+23025,Somerset,Jo Jorgensen,466
+23025,Somerset,Donald J. Trump,16644
+23025,Somerset,Howard Hawkins,230
+23027,Waldo,Blank,244
+23027,Waldo,Jo Jorgensen,402
+23027,Waldo,Howard Hawkins,347
+23027,Waldo,Joseph R. Biden,12345
+23027,Waldo,Rocky De La Fuente,31
+23027,Waldo,Others,1
+23027,Waldo,Donald J. Trump,11196
+23029,Washington,Rocky De La Fuente,22
+23029,Washington,Joseph R. Biden,6761
+23029,Washington,Others,5
+23029,Washington,Howard Hawkins,143
+23029,Washington,Donald J. Trump,10194
+23029,Washington,Jo Jorgensen,232
+23029,Washington,Blank,213
+23031,York,Howard Hawkins,1259
+23031,York,Jo Jorgensen,2189
+23031,York,Donald J. Trump,54817
+23031,York,Rocky De La Fuente,200
+23031,York,Blank,1383
+23031,York,Others,5
+23031,York,Joseph R. Biden,71189
+,STATE UOCAVA,Blank,52
+,STATE UOCAVA,Rocky De La Fuente,10
+,STATE UOCAVA,Donald J. Trump,838
+,STATE UOCAVA,Jo Jorgensen,147
+,STATE UOCAVA,Howard Hawkins,119
+,STATE UOCAVA,Joseph R. Biden,4599
+,STATE UOCAVA,Others,6

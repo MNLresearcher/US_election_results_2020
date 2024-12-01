@@ -1,0 +1,624 @@
+fips,county,candidate,votes
+37001,Alamance,Don Blankenship,151
+37001,Alamance,Donald J. Trump,46056
+37001,Alamance,Howie Hawkins,223
+37001,Alamance,Jo Jorgensen,686
+37001,Alamance,Joseph R. Biden,38825
+37001,Alamance,Write-in,150
+37003,Alexander,Don Blankenship,24
+37003,Alexander,Donald J. Trump,15888
+37003,Alexander,Howie Hawkins,18
+37003,Alexander,Jo Jorgensen,127
+37003,Alexander,Joseph R. Biden,4145
+37003,Alexander,Write-in,34
+37005,Alleghany,Don Blankenship,5
+37005,Alleghany,Donald J. Trump,4527
+37005,Alleghany,Howie Hawkins,15
+37005,Alleghany,Jo Jorgensen,35
+37005,Alleghany,Joseph R. Biden,1486
+37005,Alleghany,Write-in,8
+37007,Anson,Don Blankenship,19
+37007,Anson,Donald J. Trump,5321
+37007,Anson,Howie Hawkins,14
+37007,Anson,Jo Jorgensen,41
+37007,Anson,Joseph R. Biden,5789
+37007,Anson,Write-in,10
+37009,Ashe,Don Blankenship,27
+37009,Ashe,Donald J. Trump,11451
+37009,Ashe,Howie Hawkins,23
+37009,Ashe,Jo Jorgensen,126
+37009,Ashe,Joseph R. Biden,4164
+37009,Ashe,Write-in,23
+37011,Avery,Don Blankenship,10
+37011,Avery,Donald J. Trump,7172
+37011,Avery,Howie Hawkins,13
+37011,Avery,Jo Jorgensen,56
+37011,Avery,Joseph R. Biden,2191
+37011,Avery,Write-in,16
+37013,Beaufort,Don Blankenship,37
+37013,Beaufort,Donald J. Trump,16437
+37013,Beaufort,Howie Hawkins,30
+37013,Beaufort,Jo Jorgensen,137
+37013,Beaufort,Joseph R. Biden,9633
+37013,Beaufort,Write-in,41
+37015,Bertie,Don Blankenship,8
+37015,Bertie,Donald J. Trump,3817
+37015,Bertie,Howie Hawkins,15
+37015,Bertie,Jo Jorgensen,29
+37015,Bertie,Joseph R. Biden,5939
+37015,Bertie,Write-in,7
+37017,Bladen,Don Blankenship,20
+37017,Bladen,Donald J. Trump,9676
+37017,Bladen,Howie Hawkins,18
+37017,Bladen,Jo Jorgensen,68
+37017,Bladen,Joseph R. Biden,7326
+37017,Bladen,Write-in,17
+37019,Brunswick,Don Blankenship,91
+37019,Brunswick,Donald J. Trump,55850
+37019,Brunswick,Howie Hawkins,119
+37019,Brunswick,Jade Simmons,2
+37019,Brunswick,Jo Jorgensen,642
+37019,Brunswick,Joseph R. Biden,33310
+37019,Brunswick,Write-in,161
+37021,Buncombe,Don Blankenship,225
+37021,Buncombe,Donald J. Trump,62412
+37021,Buncombe,Howie Hawkins,542
+37021,Buncombe,Jade Simmons,2
+37021,Buncombe,Jo Jorgensen,1460
+37021,Buncombe,Joseph R. Biden,96515
+37021,Buncombe,Write-in,413
+37023,Burke,Don Blankenship,43
+37023,Burke,Donald J. Trump,31019
+37023,Burke,Howie Hawkins,83
+37023,Burke,Jo Jorgensen,270
+37023,Burke,Joseph R. Biden,13118
+37023,Burke,Write-in,69
+37025,Cabarrus,Don Blankenship,144
+37025,Cabarrus,Donald J. Trump,63237
+37025,Cabarrus,Howie Hawkins,253
+37025,Cabarrus,Jade Simmons,5
+37025,Cabarrus,Jo Jorgensen,1096
+37025,Cabarrus,Joseph R. Biden,52162
+37025,Cabarrus,Write-in,330
+37027,Caldwell,Don Blankenship,52
+37027,Caldwell,Donald J. Trump,32119
+37027,Caldwell,Howie Hawkins,60
+37027,Caldwell,Jo Jorgensen,273
+37027,Caldwell,Joseph R. Biden,10245
+37027,Caldwell,Write-in,80
+37029,Camden,Don Blankenship,5
+37029,Camden,Donald J. Trump,4312
+37029,Camden,Howie Hawkins,8
+37029,Camden,Jo Jorgensen,76
+37029,Camden,Joseph R. Biden,1537
+37029,Camden,Write-in,15
+37031,Carteret,Don Blankenship,57
+37031,Carteret,Donald J. Trump,30028
+37031,Carteret,Howie Hawkins,64
+37031,Carteret,Jo Jorgensen,373
+37031,Carteret,Joseph R. Biden,12093
+37031,Carteret,Write-in,80
+37033,Caswell,Don Blankenship,8
+37033,Caswell,Donald J. Trump,7089
+37033,Caswell,Howie Hawkins,19
+37033,Caswell,Jo Jorgensen,64
+37033,Caswell,Joseph R. Biden,4860
+37033,Caswell,Write-in,11
+37035,Catawba,Don Blankenship,130
+37035,Catawba,Donald J. Trump,56588
+37035,Catawba,Howie Hawkins,194
+37035,Catawba,Jo Jorgensen,652
+37035,Catawba,Joseph R. Biden,25689
+37035,Catawba,Write-in,172
+37037,Chatham,Don Blankenship,60
+37037,Chatham,Donald J. Trump,21186
+37037,Chatham,Howie Hawkins,90
+37037,Chatham,Jo Jorgensen,366
+37037,Chatham,Joseph R. Biden,26787
+37037,Chatham,Write-in,110
+37039,Cherokee,Don Blankenship,39
+37039,Cherokee,Donald J. Trump,12628
+37039,Cherokee,Howie Hawkins,49
+37039,Cherokee,Jo Jorgensen,95
+37039,Cherokee,Joseph R. Biden,3583
+37039,Cherokee,Write-in,29
+37041,Chowan,Don Blankenship,5
+37041,Chowan,Donald J. Trump,4471
+37041,Chowan,Howie Hawkins,7
+37041,Chowan,Jade Simmons,1
+37041,Chowan,Jo Jorgensen,47
+37041,Chowan,Joseph R. Biden,3247
+37041,Chowan,Write-in,6
+37043,Clay,Don Blankenship,11
+37043,Clay,Donald J. Trump,5112
+37043,Clay,Howie Hawkins,14
+37043,Clay,Jo Jorgensen,46
+37043,Clay,Joseph R. Biden,1699
+37043,Clay,Write-in,11
+37045,Cleveland,Don Blankenship,74
+37045,Cleveland,Donald J. Trump,33798
+37045,Cleveland,Howie Hawkins,81
+37045,Cleveland,Jo Jorgensen,329
+37045,Cleveland,Joseph R. Biden,16955
+37045,Cleveland,Write-in,71
+37047,Columbus,Don Blankenship,33
+37047,Columbus,Donald J. Trump,16832
+37047,Columbus,Howie Hawkins,23
+37047,Columbus,Jo Jorgensen,88
+37047,Columbus,Joseph R. Biden,9446
+37047,Columbus,Write-in,24
+37049,Craven,Don Blankenship,73
+37049,Craven,Donald J. Trump,31032
+37049,Craven,Howie Hawkins,92
+37049,Craven,Jo Jorgensen,626
+37049,Craven,Joseph R. Biden,21148
+37049,Craven,Write-in,94
+37051,Cumberland,Don Blankenship,244
+37051,Cumberland,Donald J. Trump,60032
+37051,Cumberland,Howie Hawkins,423
+37051,Cumberland,Jade Simmons,8
+37051,Cumberland,Jo Jorgensen,1645
+37051,Cumberland,Joseph R. Biden,84469
+37051,Cumberland,Write-in,329
+37053,Currituck,Don Blankenship,24
+37053,Currituck,Donald J. Trump,11657
+37053,Currituck,Howie Hawkins,29
+37053,Currituck,Jo Jorgensen,209
+37053,Currituck,Joseph R. Biden,4195
+37053,Currituck,Write-in,33
+37055,Dare,Don Blankenship,31
+37055,Dare,Donald J. Trump,13938
+37055,Dare,Howie Hawkins,47
+37055,Dare,Jo Jorgensen,223
+37055,Dare,Joseph R. Biden,9936
+37055,Dare,Write-in,57
+37057,Davidson,Don Blankenship,189
+37057,Davidson,Donald J. Trump,64658
+37057,Davidson,Howie Hawkins,187
+37057,Davidson,Jo Jorgensen,703
+37057,Davidson,Joseph R. Biden,22636
+37057,Davidson,Write-in,141
+37059,Davie,Don Blankenship,32
+37059,Davie,Donald J. Trump,18228
+37059,Davie,Howie Hawkins,53
+37059,Davie,Jo Jorgensen,213
+37059,Davie,Joseph R. Biden,6713
+37059,Davie,Write-in,72
+37061,Duplin,Don Blankenship,17
+37061,Duplin,Donald J. Trump,13793
+37061,Duplin,Howie Hawkins,33
+37061,Duplin,Jo Jorgensen,84
+37061,Duplin,Joseph R. Biden,8767
+37061,Duplin,Write-in,21
+37063,Durham,Don Blankenship,206
+37063,Durham,Donald J. Trump,32459
+37063,Durham,Howie Hawkins,519
+37063,Durham,Jade Simmons,12
+37063,Durham,Jo Jorgensen,1504
+37063,Durham,Joseph R. Biden,144688
+37063,Durham,Write-in,526
+37065,Edgecombe,Don Blankenship,27
+37065,Edgecombe,Donald J. Trump,9206
+37065,Edgecombe,Howie Hawkins,33
+37065,Edgecombe,Jade Simmons,1
+37065,Edgecombe,Jo Jorgensen,97
+37065,Edgecombe,Joseph R. Biden,16089
+37065,Edgecombe,Write-in,24
+37067,Forsyth,Don Blankenship,298
+37067,Forsyth,Donald J. Trump,85064
+37067,Forsyth,Howie Hawkins,499
+37067,Forsyth,Jade Simmons,6
+37067,Forsyth,Jo Jorgensen,1785
+37067,Forsyth,Joseph R. Biden,113033
+37067,Forsyth,Write-in,585
+37069,Franklin,Don Blankenship,73
+37069,Franklin,Donald J. Trump,20901
+37069,Franklin,Howie Hawkins,75
+37069,Franklin,Jo Jorgensen,333
+37069,Franklin,Joseph R. Biden,15879
+37069,Franklin,Write-in,90
+37071,Gaston,Don Blankenship,142
+37071,Gaston,Donald J. Trump,73033
+37071,Gaston,Howie Hawkins,225
+37071,Gaston,Jade Simmons,1
+37071,Gaston,Jo Jorgensen,910
+37071,Gaston,Joseph R. Biden,40959
+37071,Gaston,Write-in,228
+37073,Gates,Don Blankenship,7
+37073,Gates,Donald J. Trump,3367
+37073,Gates,Howie Hawkins,4
+37073,Gates,Jo Jorgensen,41
+37073,Gates,Joseph R. Biden,2546
+37073,Gates,Write-in,6
+37075,Graham,Don Blankenship,13
+37075,Graham,Donald J. Trump,3710
+37075,Graham,Howie Hawkins,5
+37075,Graham,Jo Jorgensen,26
+37075,Graham,Joseph R. Biden,905
+37075,Graham,Write-in,6
+37077,Granville,Don Blankenship,31
+37077,Granville,Donald J. Trump,16647
+37077,Granville,Howie Hawkins,55
+37077,Granville,Jade Simmons,2
+37077,Granville,Jo Jorgensen,244
+37077,Granville,Joseph R. Biden,14565
+37077,Granville,Write-in,54
+37079,Greene,Don Blankenship,4
+37079,Greene,Donald J. Trump,4874
+37079,Greene,Howie Hawkins,8
+37079,Greene,Jo Jorgensen,26
+37079,Greene,Joseph R. Biden,3832
+37079,Greene,Write-in,9
+37081,Guilford,Don Blankenship,423
+37081,Guilford,Donald J. Trump,107294
+37081,Guilford,Howie Hawkins,704
+37081,Guilford,Jade Simmons,4
+37081,Guilford,Jo Jorgensen,2232
+37081,Guilford,Joseph R. Biden,173086
+37081,Guilford,Write-in,743
+37083,Halifax,Don Blankenship,24
+37083,Halifax,Donald J. Trump,10080
+37083,Halifax,Howie Hawkins,31
+37083,Halifax,Jo Jorgensen,62
+37083,Halifax,Joseph R. Biden,15545
+37083,Halifax,Write-in,17
+37085,Harnett,Don Blankenship,80
+37085,Harnett,Donald J. Trump,35177
+37085,Harnett,Howie Hawkins,125
+37085,Harnett,Jo Jorgensen,708
+37085,Harnett,Joseph R. Biden,22093
+37085,Harnett,Write-in,110
+37087,Haywood,Don Blankenship,56
+37087,Haywood,Donald J. Trump,22834
+37087,Haywood,Howie Hawkins,89
+37087,Haywood,Jo Jorgensen,334
+37087,Haywood,Joseph R. Biden,13144
+37087,Haywood,Write-in,85
+37089,Henderson,Don Blankenship,131
+37089,Henderson,Donald J. Trump,40032
+37089,Henderson,Howie Hawkins,175
+37089,Henderson,Jo Jorgensen,670
+37089,Henderson,Joseph R. Biden,27211
+37089,Henderson,Write-in,152
+37091,Hertford,Don Blankenship,7
+37091,Hertford,Donald J. Trump,3479
+37091,Hertford,Howie Hawkins,9
+37091,Hertford,Jo Jorgensen,28
+37091,Hertford,Joseph R. Biden,7097
+37091,Hertford,Write-in,14
+37093,Hoke,Don Blankenship,31
+37093,Hoke,Donald J. Trump,9453
+37093,Hoke,Howie Hawkins,50
+37093,Hoke,Jo Jorgensen,262
+37093,Hoke,Joseph R. Biden,11804
+37093,Hoke,Write-in,39
+37095,Hyde,Don Blankenship,1
+37095,Hyde,Donald J. Trump,1418
+37095,Hyde,Howie Hawkins,6
+37095,Hyde,Jo Jorgensen,17
+37095,Hyde,Joseph R. Biden,1046
+37095,Hyde,Write-in,4
+37097,Iredell,Don Blankenship,150
+37097,Iredell,Donald J. Trump,67010
+37097,Iredell,Howie Hawkins,178
+37097,Iredell,Jo Jorgensen,907
+37097,Iredell,Joseph R. Biden,33888
+37097,Iredell,Write-in,238
+37099,Jackson,Don Blankenship,58
+37099,Jackson,Donald J. Trump,11356
+37099,Jackson,Howie Hawkins,102
+37099,Jackson,Jo Jorgensen,257
+37099,Jackson,Joseph R. Biden,9591
+37099,Jackson,Write-in,64
+37101,Johnston,Don Blankenship,150
+37101,Johnston,Donald J. Trump,68353
+37101,Johnston,Howie Hawkins,215
+37101,Johnston,Jade Simmons,2
+37101,Johnston,Jo Jorgensen,1164
+37101,Johnston,Joseph R. Biden,41257
+37101,Johnston,Write-in,216
+37103,Jones,Don Blankenship,5
+37103,Jones,Donald J. Trump,3280
+37103,Jones,Howie Hawkins,5
+37103,Jones,Jo Jorgensen,34
+37103,Jones,Joseph R. Biden,2197
+37103,Jones,Write-in,4
+37105,Lee,Don Blankenship,47
+37105,Lee,Donald J. Trump,16469
+37105,Lee,Howie Hawkins,65
+37105,Lee,Jade Simmons,1
+37105,Lee,Jo Jorgensen,235
+37105,Lee,Joseph R. Biden,12143
+37105,Lee,Write-in,48
+37107,Lenoir,Don Blankenship,30
+37107,Lenoir,Donald J. Trump,14590
+37107,Lenoir,Howie Hawkins,29
+37107,Lenoir,Jo Jorgensen,126
+37107,Lenoir,Joseph R. Biden,13605
+37107,Lenoir,Write-in,29
+37109,Lincoln,Don Blankenship,59
+37109,Lincoln,Donald J. Trump,36341
+37109,Lincoln,Howie Hawkins,87
+37109,Lincoln,Jo Jorgensen,373
+37109,Lincoln,Joseph R. Biden,13274
+37109,Lincoln,Write-in,83
+37113,Macon,Don Blankenship,24
+37113,Macon,Donald J. Trump,14211
+37113,Macon,Howie Hawkins,31
+37113,Macon,Jo Jorgensen,169
+37113,Macon,Joseph R. Biden,6230
+37113,Macon,Write-in,78
+37115,Madison,Don Blankenship,19
+37115,Madison,Donald J. Trump,7979
+37115,Madison,Howie Hawkins,37
+37115,Madison,Jo Jorgensen,103
+37115,Madison,Joseph R. Biden,4901
+37115,Madison,Write-in,37
+37117,Martin,Don Blankenship,16
+37117,Martin,Donald J. Trump,6532
+37117,Martin,Howie Hawkins,13
+37117,Martin,Jo Jorgensen,59
+37117,Martin,Joseph R. Biden,5911
+37117,Martin,Write-in,9
+37111,McDowell,Don Blankenship,21
+37111,McDowell,Donald J. Trump,16883
+37111,McDowell,Howie Hawkins,45
+37111,McDowell,Jo Jorgensen,184
+37111,McDowell,Joseph R. Biden,5832
+37111,McDowell,Write-in,38
+37119,Mecklenburg,Don Blankenship,763
+37119,Mecklenburg,Donald J. Trump,179211
+37119,Mecklenburg,Howie Hawkins,1611
+37119,Mecklenburg,Jade Simmons,33
+37119,Mecklenburg,Jo Jorgensen,5427
+37119,Mecklenburg,Joseph R. Biden,378107
+37119,Mecklenburg,Write-in,1901
+37121,Mitchell,Don Blankenship,12
+37121,Mitchell,Donald J. Trump,7090
+37121,Mitchell,Howie Hawkins,11
+37121,Mitchell,Jo Jorgensen,47
+37121,Mitchell,Joseph R. Biden,1867
+37121,Mitchell,Write-in,14
+37123,Montgomery,Don Blankenship,11
+37123,Montgomery,Donald J. Trump,8411
+37123,Montgomery,Howie Hawkins,13
+37123,Montgomery,Jo Jorgensen,78
+37123,Montgomery,Joseph R. Biden,4327
+37123,Montgomery,Write-in,9
+37125,Moore,Don Blankenship,70
+37125,Moore,Donald J. Trump,36764
+37125,Moore,Howie Hawkins,85
+37125,Moore,Jo Jorgensen,520
+37125,Moore,Joseph R. Biden,20779
+37125,Moore,Write-in,121
+37127,Nash,Don Blankenship,56
+37127,Nash,Donald J. Trump,25827
+37127,Nash,Howie Hawkins,75
+37127,Nash,Jade Simmons,1
+37127,Nash,Jo Jorgensen,287
+37127,Nash,Joseph R. Biden,25947
+37127,Nash,Write-in,78
+37129,New Hanover,Don Blankenship,171
+37129,New Hanover,Donald J. Trump,63331
+37129,New Hanover,Howie Hawkins,362
+37129,New Hanover,Jo Jorgensen,1521
+37129,New Hanover,Joseph R. Biden,66138
+37129,New Hanover,Write-in,307
+37131,Northampton,Don Blankenship,7
+37131,Northampton,Donald J. Trump,3989
+37131,Northampton,Howie Hawkins,10
+37131,Northampton,Jo Jorgensen,30
+37131,Northampton,Joseph R. Biden,6069
+37131,Northampton,Write-in,5
+37133,Onslow,Don Blankenship,100
+37133,Onslow,Donald J. Trump,46078
+37133,Onslow,Howie Hawkins,136
+37133,Onslow,Jo Jorgensen,1506
+37133,Onslow,Joseph R. Biden,24266
+37133,Onslow,Write-in,149
+37135,Orange,Don Blankenship,82
+37135,Orange,Donald J. Trump,20176
+37135,Orange,Howie Hawkins,217
+37135,Orange,Jade Simmons,7
+37135,Orange,Jo Jorgensen,653
+37135,Orange,Joseph R. Biden,63594
+37135,Orange,Write-in,268
+37137,Pamlico,Don Blankenship,5
+37137,Pamlico,Donald J. Trump,4849
+37137,Pamlico,Howie Hawkins,10
+37137,Pamlico,Jo Jorgensen,44
+37137,Pamlico,Joseph R. Biden,2713
+37137,Pamlico,Write-in,10
+37139,Pasquotank,Don Blankenship,36
+37139,Pasquotank,Donald J. Trump,9770
+37139,Pasquotank,Howie Hawkins,48
+37139,Pasquotank,Jo Jorgensen,161
+37139,Pasquotank,Joseph R. Biden,9832
+37139,Pasquotank,Write-in,50
+37141,Pender,Don Blankenship,46
+37141,Pender,Donald J. Trump,21956
+37141,Pender,Howie Hawkins,63
+37141,Pender,Jo Jorgensen,329
+37141,Pender,Joseph R. Biden,11723
+37141,Pender,Write-in,52
+37143,Perquimans,Don Blankenship,16
+37143,Perquimans,Donald J. Trump,4903
+37143,Perquimans,Howie Hawkins,18
+37143,Perquimans,Jo Jorgensen,44
+37143,Perquimans,Joseph R. Biden,2492
+37143,Perquimans,Write-in,11
+37145,Person,Don Blankenship,36
+37145,Person,Donald J. Trump,13184
+37145,Person,Howie Hawkins,42
+37145,Person,Jo Jorgensen,144
+37145,Person,Joseph R. Biden,8465
+37145,Person,Write-in,23
+37147,Pitt,Don Blankenship,125
+37147,Pitt,Donald J. Trump,38982
+37147,Pitt,Howie Hawkins,210
+37147,Pitt,Jade Simmons,1
+37147,Pitt,Jo Jorgensen,796
+37147,Pitt,Joseph R. Biden,47252
+37147,Pitt,Write-in,207
+37149,Polk,Don Blankenship,17
+37149,Polk,Donald J. Trump,7689
+37149,Polk,Howie Hawkins,23
+37149,Polk,Jo Jorgensen,86
+37149,Polk,Joseph R. Biden,4518
+37149,Polk,Write-in,25
+37151,Randolph,Don Blankenship,75
+37151,Randolph,Donald J. Trump,56894
+37151,Randolph,Howie Hawkins,123
+37151,Randolph,Jade Simmons,1
+37151,Randolph,Jo Jorgensen,506
+37151,Randolph,Joseph R. Biden,15618
+37151,Randolph,Write-in,99
+37153,Richmond,Don Blankenship,24
+37153,Richmond,Donald J. Trump,11830
+37153,Richmond,Howie Hawkins,35
+37153,Richmond,Jo Jorgensen,99
+37153,Richmond,Joseph R. Biden,8754
+37153,Richmond,Write-in,21
+37155,Robeson,Don Blankenship,61
+37155,Robeson,Donald J. Trump,27806
+37155,Robeson,Howie Hawkins,73
+37155,Robeson,Jo Jorgensen,161
+37155,Robeson,Joseph R. Biden,19020
+37155,Robeson,Write-in,67
+37157,Rockingham,Don Blankenship,55
+37157,Rockingham,Donald J. Trump,31301
+37157,Rockingham,Howie Hawkins,75
+37157,Rockingham,Jo Jorgensen,312
+37157,Rockingham,Joseph R. Biden,15992
+37157,Rockingham,Write-in,74
+37159,Rowan,Don Blankenship,99
+37159,Rowan,Donald J. Trump,49297
+37159,Rowan,Howie Hawkins,154
+37159,Rowan,Jo Jorgensen,577
+37159,Rowan,Joseph R. Biden,23114
+37159,Rowan,Write-in,167
+37161,Rutherford,Don Blankenship,53
+37161,Rutherford,Donald J. Trump,24891
+37161,Rutherford,Howie Hawkins,60
+37161,Rutherford,Jade Simmons,1
+37161,Rutherford,Jo Jorgensen,218
+37161,Rutherford,Joseph R. Biden,9135
+37161,Rutherford,Write-in,71
+37163,Sampson,Don Blankenship,29
+37163,Sampson,Donald J. Trump,17411
+37163,Sampson,Howie Hawkins,23
+37163,Sampson,Jade Simmons,1
+37163,Sampson,Jo Jorgensen,143
+37163,Sampson,Joseph R. Biden,10966
+37163,Sampson,Write-in,45
+37165,Scotland,Don Blankenship,14
+37165,Scotland,Donald J. Trump,7473
+37165,Scotland,Howie Hawkins,31
+37165,Scotland,Jo Jorgensen,54
+37165,Scotland,Joseph R. Biden,7186
+37165,Scotland,Write-in,17
+37167,Stanly,Don Blankenship,48
+37167,Stanly,Donald J. Trump,25458
+37167,Stanly,Howie Hawkins,32
+37167,Stanly,Jo Jorgensen,225
+37167,Stanly,Joseph R. Biden,8129
+37167,Stanly,Write-in,47
+37169,Stokes,Don Blankenship,29
+37169,Stokes,Donald J. Trump,20142
+37169,Stokes,Howie Hawkins,30
+37169,Stokes,Jo Jorgensen,180
+37169,Stokes,Joseph R. Biden,5286
+37169,Stokes,Write-in,34
+37171,Surry,Don Blankenship,42
+37171,Surry,Donald J. Trump,27538
+37171,Surry,Howie Hawkins,45
+37171,Surry,Jo Jorgensen,235
+37171,Surry,Joseph R. Biden,8721
+37171,Surry,Write-in,57
+37173,Swain,Don Blankenship,19
+37173,Swain,Donald J. Trump,4161
+37173,Swain,Howie Hawkins,19
+37173,Swain,Jo Jorgensen,72
+37173,Swain,Joseph R. Biden,2780
+37173,Swain,Write-in,17
+37175,Transylvania,Don Blankenship,34
+37175,Transylvania,Donald J. Trump,11636
+37175,Transylvania,Howie Hawkins,50
+37175,Transylvania,Jo Jorgensen,180
+37175,Transylvania,Joseph R. Biden,8444
+37175,Transylvania,Write-in,60
+37177,Tyrrell,Don Blankenship,2
+37177,Tyrrell,Donald J. Trump,1044
+37177,Tyrrell,Howie Hawkins,2
+37177,Tyrrell,Jo Jorgensen,8
+37177,Tyrrell,Joseph R. Biden,758
+37177,Tyrrell,Write-in,3
+37179,Union,Don Blankenship,171
+37179,Union,Donald J. Trump,80382
+37179,Union,Howie Hawkins,238
+37179,Union,Jade Simmons,4
+37179,Union,Jo Jorgensen,1136
+37179,Union,Joseph R. Biden,48725
+37179,Union,Write-in,355
+37181,Vance,Don Blankenship,34
+37181,Vance,Donald J. Trump,8391
+37181,Vance,Howie Hawkins,24
+37181,Vance,Jo Jorgensen,94
+37181,Vance,Joseph R. Biden,12431
+37181,Vance,Write-in,25
+37183,Wake,Don Blankenship,884
+37183,Wake,Donald J. Trump,226197
+37183,Wake,Howie Hawkins,1612
+37183,Wake,Jade Simmons,22
+37183,Wake,Jo Jorgensen,7514
+37183,Wake,Joseph R. Biden,393336
+37183,Wake,Write-in,2265
+37185,Warren,Don Blankenship,32
+37185,Warren,Donald J. Trump,3752
+37185,Warren,Howie Hawkins,29
+37185,Warren,Jo Jorgensen,63
+37185,Warren,Joseph R. Biden,6400
+37185,Warren,Write-in,17
+37187,Washington,Don Blankenship,7
+37187,Washington,Donald J. Trump,2781
+37187,Washington,Howie Hawkins,2
+37187,Washington,Jo Jorgensen,17
+37187,Washington,Joseph R. Biden,3396
+37187,Washington,Write-in,2
+37189,Watauga,Don Blankenship,43
+37189,Watauga,Donald J. Trump,14451
+37189,Watauga,Howie Hawkins,103
+37189,Watauga,Jo Jorgensen,386
+37189,Watauga,Joseph R. Biden,17122
+37189,Watauga,Write-in,115
+37191,Wayne,Don Blankenship,71
+37191,Wayne,Donald J. Trump,30709
+37191,Wayne,Howie Hawkins,92
+37191,Wayne,Jo Jorgensen,378
+37191,Wayne,Joseph R. Biden,24215
+37191,Wayne,Write-in,72
+37193,Wilkes,Don Blankenship,57
+37193,Wilkes,Donald J. Trump,27592
+37193,Wilkes,Howie Hawkins,40
+37193,Wilkes,Jo Jorgensen,214
+37193,Wilkes,Joseph R. Biden,7511
+37193,Wilkes,Write-in,52
+37195,Wilson,Don Blankenship,41
+37195,Wilson,Donald J. Trump,19581
+37195,Wilson,Howie Hawkins,56
+37195,Wilson,Jo Jorgensen,245
+37195,Wilson,Joseph R. Biden,20754
+37195,Wilson,Write-in,58
+37197,Yadkin,Don Blankenship,33
+37197,Yadkin,Donald J. Trump,15933
+37197,Yadkin,Howie Hawkins,28
+37197,Yadkin,Jade Simmons,1
+37197,Yadkin,Jo Jorgensen,131
+37197,Yadkin,Joseph R. Biden,3763
+37197,Yadkin,Write-in,34
+37199,Yancey,Don Blankenship,18
+37199,Yancey,Donald J. Trump,7516
+37199,Yancey,Howie Hawkins,27
+37199,Yancey,Jo Jorgensen,82
+37199,Yancey,Joseph R. Biden,3688
+37199,Yancey,Write-in,21

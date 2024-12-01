@@ -1,0 +1,739 @@
+fips,county,candidate,votes
+28001,Adams,Joseph R. Biden,7917
+28003,Alcorn,Joseph R. Biden,2782
+28005,Amite,Joseph R. Biden,2620
+28007,Attala,Joseph R. Biden,3542
+28009,Benton,Joseph R. Biden,1679
+28011,Bolivar,Joseph R. Biden,8904
+28013,Calhoun,Joseph R. Biden,1902
+28015,Carroll,Joseph R. Biden,1729
+28017,Chickasaw,Joseph R. Biden,3810
+28019,Choctaw,Joseph R. Biden,1185
+28021,Claiborne,Joseph R. Biden,3772
+28023,Clarke,Joseph R. Biden,2838
+28025,Clay,Joseph R. Biden,5844
+28027,Coahoma,Joseph R. Biden,6020
+28029,Copiah,Joseph R. Biden,6470
+28031,Covington,Joseph R. Biden,3416
+28033,DeSoto,Joseph R. Biden,28265
+28035,Forrest,Joseph R. Biden,13755
+28037,Franklin,Joseph R. Biden,1480
+28039,George,Joseph R. Biden,1218
+28041,Greene,Joseph R. Biden,966
+28043,Grenada,Joseph R. Biden,4734
+28045,Hancock,Joseph R. Biden,4504
+28047,Harrison,Joseph R. Biden,27728
+28049,Hinds,Joseph R. Biden,73550
+28051,Holmes,Joseph R. Biden,6588
+28053,Humphreys,Joseph R. Biden,3016
+28055,Issaquena,Joseph R. Biden,355
+28057,Itawamba,Joseph R. Biden,1249
+28059,Jackson,Joseph R. Biden,17375
+28061,Jasper,Joseph R. Biden,4341
+28065,Jefferson Davis,Joseph R. Biden,3599
+28063,Jefferson,Joseph R. Biden,3327
+28067,Jones,Joseph R. Biden,8517
+28069,Kemper,Joseph R. Biden,2887
+28071,Lafayette,Joseph R. Biden,10070
+28073,Lamar,Joseph R. Biden,7340
+28075,Lauderdale,Joseph R. Biden,12960
+28077,Lawrence,Joseph R. Biden,2260
+28079,Leake,Joseph R. Biden,3897
+28081,Lee,Joseph R. Biden,12189
+28083,Leflore,Joseph R. Biden,7648
+28085,Lincoln,Joseph R. Biden,5040
+28087,Lowndes,Joseph R. Biden,13087
+28089,Madison,Joseph R. Biden,24440
+28091,Marion,Joseph R. Biden,3787
+28093,Marshall,Joseph R. Biden,8057
+28095,Monroe,Joseph R. Biden,5874
+28097,Montgomery,Joseph R. Biden,2121
+28099,Neshoba,Joseph R. Biden,3260
+28101,Newton,Joseph R. Biden,3075
+28103,Noxubee,Joseph R. Biden,4040
+28105,Oktibbeha,Joseph R. Biden,10299
+28107,Panola,Joseph R. Biden,7403
+28109,Pearl River,Joseph R. Biden,4148
+28111,Perry,Joseph R. Biden,1362
+28113,Pike,Joseph R. Biden,8646
+28115,Pontotoc,Joseph R. Biden,2614
+28117,Prentiss,Joseph R. Biden,2153
+28119,Quitman,Joseph R. Biden,2150
+28121,Rankin,Joseph R. Biden,18847
+28123,Scott,Joseph R. Biden,4330
+28125,Sharkey,Joseph R. Biden,1465
+28127,Simpson,Joseph R. Biden,4037
+28129,Smith,Joseph R. Biden,1791
+28131,Stone,Joseph R. Biden,1802
+28133,Sunflower,Joseph R. Biden,6781
+28135,Tallahatchie,Joseph R. Biden,3105
+28137,Tate,Joseph R. Biden,4183
+28139,Tippah,Joseph R. Biden,1937
+28141,Tishomingo,Joseph R. Biden,1059
+28143,Tunica,Joseph R. Biden,2580
+28145,Union,Joseph R. Biden,2160
+28147,Walthall,Joseph R. Biden,2835
+28149,Warren,Joseph R. Biden,10442
+28151,Washington,Joseph R. Biden,12503
+28153,Wayne,Joseph R. Biden,3624
+28155,Webster,Joseph R. Biden,1043
+28157,Wilkinson,Joseph R. Biden,2749
+28159,Winston,Joseph R. Biden,4040
+28161,Yalobusha,Joseph R. Biden,2785
+28163,Yazoo,Joseph R. Biden,5496
+28001,Adams,Donald J. Trump,5696
+28003,Alcorn,Donald J. Trump,12818
+28005,Amite,Donald J. Trump,4503
+28007,Attala,Donald J. Trump,5178
+28009,Benton,Donald J. Trump,2570
+28011,Bolivar,Donald J. Trump,4671
+28013,Calhoun,Donald J. Trump,4625
+28015,Carroll,Donald J. Trump,3924
+28017,Chickasaw,Donald J. Trump,4175
+28019,Choctaw,Donald J. Trump,3001
+28021,Claiborne,Donald J. Trump,603
+28023,Clarke,Donald J. Trump,5417
+28025,Clay,Donald J. Trump,4181
+28027,Coahoma,Donald J. Trump,2375
+28029,Copiah,Donald J. Trump,6250
+28031,Covington,Donald J. Trump,5854
+28033,DeSoto,Donald J. Trump,46462
+28035,Forrest,Donald J. Trump,17290
+28037,Franklin,Donald J. Trump,2923
+28039,George,Donald J. Trump,9713
+28041,Greene,Donald J. Trump,4794
+28043,Grenada,Donald J. Trump,6081
+28045,Hancock,Donald J. Trump,16132
+28047,Harrison,Donald J. Trump,46822
+28049,Hinds,Donald J. Trump,25141
+28051,Holmes,Donald J. Trump,1369
+28053,Humphreys,Donald J. Trump,1118
+28055,Issaquena,Donald J. Trump,308
+28057,Itawamba,Donald J. Trump,9438
+28059,Jackson,Donald J. Trump,36295
+28061,Jasper,Donald J. Trump,4302
+28065,Jefferson Davis,Donald J. Trump,2534
+28063,Jefferson,Donald J. Trump,531
+28067,Jones,Donald J. Trump,21226
+28069,Kemper,Donald J. Trump,1787
+28071,Lafayette,Donald J. Trump,12949
+28073,Lamar,Donald J. Trump,20704
+28075,Lauderdale,Donald J. Trump,17967
+28077,Lawrence,Donald J. Trump,4285
+28079,Leake,Donald J. Trump,5228
+28081,Lee,Donald J. Trump,24207
+28083,Leflore,Donald J. Trump,3129
+28085,Lincoln,Donald J. Trump,11596
+28087,Lowndes,Donald J. Trump,13800
+28089,Madison,Donald J. Trump,31091
+28091,Marion,Donald J. Trump,8273
+28093,Marshall,Donald J. Trump,7566
+28095,Monroe,Donald J. Trump,11177
+28097,Montgomery,Donald J. Trump,2917
+28099,Neshoba,Donald J. Trump,8320
+28101,Newton,Donald J. Trump,6997
+28103,Noxubee,Donald J. Trump,1240
+28105,Oktibbeha,Donald J. Trump,9004
+28107,Panola,Donald J. Trump,8060
+28109,Pearl River,Donald J. Trump,19595
+28111,Perry,Donald J. Trump,4500
+28113,Pike,Donald J. Trump,8479
+28115,Pontotoc,Donald J. Trump,11550
+28117,Prentiss,Donald J. Trump,8370
+28119,Quitman,Donald J. Trump,1026
+28121,Rankin,Donald J. Trump,50895
+28123,Scott,Donald J. Trump,6285
+28125,Sharkey,Donald J. Trump,688
+28127,Simpson,Donald J. Trump,7635
+28129,Smith,Donald J. Trump,6458
+28131,Stone,Donald J. Trump,5964
+28133,Sunflower,Donald J. Trump,2799
+28135,Tallahatchie,Donald J. Trump,2488
+28137,Tate,Donald J. Trump,8707
+28139,Tippah,Donald J. Trump,8054
+28141,Tishomingo,Donald J. Trump,7933
+28143,Tunica,Donald J. Trump,926
+28145,Union,Donald J. Trump,10373
+28147,Walthall,Donald J. Trump,4220
+28149,Warren,Donald J. Trump,10365
+28151,Washington,Donald J. Trump,5300
+28153,Wayne,Donald J. Trump,6307
+28155,Webster,Donald J. Trump,4291
+28157,Wilkinson,Donald J. Trump,1324
+28159,Winston,Donald J. Trump,5112
+28161,Yalobusha,Donald J. Trump,3671
+28163,Yazoo,Donald J. Trump,4832
+28001,Adams,Don Blankenship,7
+28003,Alcorn,Don Blankenship,11
+28005,Amite,Don Blankenship,5
+28007,Attala,Don Blankenship,15
+28009,Benton,Don Blankenship,3
+28011,Bolivar,Don Blankenship,7
+28013,Calhoun,Don Blankenship,9
+28015,Carroll,Don Blankenship,8
+28017,Chickasaw,Don Blankenship,11
+28019,Choctaw,Don Blankenship,5
+28021,Claiborne,Don Blankenship,7
+28023,Clarke,Don Blankenship,7
+28025,Clay,Don Blankenship,27
+28027,Coahoma,Don Blankenship,11
+28029,Copiah,Don Blankenship,15
+28031,Covington,Don Blankenship,13
+28033,DeSoto,Don Blankenship,67
+28035,Forrest,Don Blankenship,31
+28037,Franklin,Don Blankenship,6
+28039,George,Don Blankenship,10
+28041,Greene,Don Blankenship,8
+28043,Grenada,Don Blankenship,4
+28045,Hancock,Don Blankenship,25
+28047,Harrison,Don Blankenship,57
+28049,Hinds,Don Blankenship,86
+28051,Holmes,Don Blankenship,18
+28053,Humphreys,Don Blankenship,7
+28055,Issaquena,Don Blankenship,5
+28057,Itawamba,Don Blankenship,7
+28059,Jackson,Don Blankenship,63
+28061,Jasper,Don Blankenship,13
+28065,Jefferson Davis,Don Blankenship,8
+28063,Jefferson,Don Blankenship,6
+28067,Jones,Don Blankenship,30
+28069,Kemper,Don Blankenship,9
+28071,Lafayette,Don Blankenship,16
+28073,Lamar,Don Blankenship,21
+28075,Lauderdale,Don Blankenship,25
+28077,Lawrence,Don Blankenship,11
+28079,Leake,Don Blankenship,14
+28081,Lee,Don Blankenship,30
+28083,Leflore,Don Blankenship,13
+28085,Lincoln,Don Blankenship,18
+28087,Lowndes,Don Blankenship,20
+28089,Madison,Don Blankenship,37
+28091,Marion,Don Blankenship,12
+28093,Marshall,Don Blankenship,23
+28095,Monroe,Don Blankenship,20
+28097,Montgomery,Don Blankenship,5
+28099,Neshoba,Don Blankenship,15
+28101,Newton,Don Blankenship,7
+28103,Noxubee,Don Blankenship,10
+28105,Oktibbeha,Don Blankenship,17
+28107,Panola,Don Blankenship,19
+28109,Pearl River,Don Blankenship,18
+28111,Perry,Don Blankenship,6
+28113,Pike,Don Blankenship,21
+28115,Pontotoc,Don Blankenship,16
+28117,Prentiss,Don Blankenship,10
+28119,Quitman,Don Blankenship,7
+28121,Rankin,Don Blankenship,42
+28123,Scott,Don Blankenship,6
+28125,Sharkey,Don Blankenship,1
+28127,Simpson,Don Blankenship,14
+28129,Smith,Don Blankenship,9
+28131,Stone,Don Blankenship,13
+28133,Sunflower,Don Blankenship,13
+28135,Tallahatchie,Don Blankenship,11
+28137,Tate,Don Blankenship,12
+28139,Tippah,Don Blankenship,11
+28141,Tishomingo,Don Blankenship,10
+28143,Tunica,Don Blankenship,2
+28145,Union,Don Blankenship,9
+28147,Walthall,Don Blankenship,6
+28149,Warren,Don Blankenship,24
+28151,Washington,Don Blankenship,12
+28153,Wayne,Don Blankenship,14
+28155,Webster,Don Blankenship,4
+28157,Wilkinson,Don Blankenship,10
+28159,Winston,Don Blankenship,2
+28161,Yalobusha,Don Blankenship,8
+28163,Yazoo,Don Blankenship,14
+28001,Adams,Brian Carroll,8
+28003,Alcorn,Brian Carroll,7
+28005,Amite,Brian Carroll,10
+28007,Attala,Brian Carroll,8
+28009,Benton,Brian Carroll,6
+28011,Bolivar,Brian Carroll,20
+28013,Calhoun,Brian Carroll,2
+28015,Carroll,Brian Carroll,2
+28017,Chickasaw,Brian Carroll,8
+28019,Choctaw,Brian Carroll,3
+28021,Claiborne,Brian Carroll,10
+28023,Clarke,Brian Carroll,5
+28025,Clay,Brian Carroll,17
+28027,Coahoma,Brian Carroll,14
+28029,Copiah,Brian Carroll,15
+28031,Covington,Brian Carroll,5
+28033,DeSoto,Brian Carroll,80
+28035,Forrest,Brian Carroll,33
+28037,Franklin,Brian Carroll,6
+28039,George,Brian Carroll,6
+28041,Greene,Brian Carroll,2
+28043,Grenada,Brian Carroll,9
+28045,Hancock,Brian Carroll,20
+28047,Harrison,Brian Carroll,40
+28049,Hinds,Brian Carroll,116
+28051,Holmes,Brian Carroll,26
+28053,Humphreys,Brian Carroll,7
+28055,Issaquena,Brian Carroll,1
+28057,Itawamba,Brian Carroll,2
+28059,Jackson,Brian Carroll,49
+28061,Jasper,Brian Carroll,7
+28065,Jefferson Davis,Brian Carroll,6
+28063,Jefferson,Brian Carroll,4
+28067,Jones,Brian Carroll,21
+28069,Kemper,Brian Carroll,6
+28071,Lafayette,Brian Carroll,29
+28073,Lamar,Brian Carroll,29
+28075,Lauderdale,Brian Carroll,16
+28077,Lawrence,Brian Carroll,5
+28079,Leake,Brian Carroll,4
+28081,Lee,Brian Carroll,32
+28083,Leflore,Brian Carroll,9
+28085,Lincoln,Brian Carroll,15
+28087,Lowndes,Brian Carroll,19
+28089,Madison,Brian Carroll,45
+28091,Marion,Brian Carroll,5
+28093,Marshall,Brian Carroll,11
+28095,Monroe,Brian Carroll,13
+28097,Montgomery,Brian Carroll,4
+28099,Neshoba,Brian Carroll,8
+28101,Newton,Brian Carroll,6
+28103,Noxubee,Brian Carroll,5
+28105,Oktibbeha,Brian Carroll,28
+28107,Panola,Brian Carroll,7
+28109,Pearl River,Brian Carroll,14
+28111,Perry,Brian Carroll,3
+28113,Pike,Brian Carroll,18
+28115,Pontotoc,Brian Carroll,11
+28117,Prentiss,Brian Carroll,3
+28119,Quitman,Brian Carroll,8
+28121,Rankin,Brian Carroll,50
+28123,Scott,Brian Carroll,11
+28125,Sharkey,Brian Carroll,5
+28127,Simpson,Brian Carroll,9
+28129,Smith,Brian Carroll,4
+28131,Stone,Brian Carroll,6
+28133,Sunflower,Brian Carroll,8
+28135,Tallahatchie,Brian Carroll,14
+28137,Tate,Brian Carroll,16
+28139,Tippah,Brian Carroll,6
+28141,Tishomingo,Brian Carroll,5
+28143,Tunica,Brian Carroll,3
+28145,Union,Brian Carroll,6
+28147,Walthall,Brian Carroll,5
+28149,Warren,Brian Carroll,25
+28151,Washington,Brian Carroll,21
+28153,Wayne,Brian Carroll,8
+28155,Webster,Brian Carroll,5
+28157,Wilkinson,Brian Carroll,7
+28159,Winston,Brian Carroll,2
+28161,Yalobusha,Brian Carroll,6
+28163,Yazoo,Brian Carroll,11
+28001,Adams,Phil Collins,17
+28003,Alcorn,Phil Collins,12
+28005,Amite,Phil Collins,7
+28007,Attala,Phil Collins,7
+28009,Benton,Phil Collins,5
+28011,Bolivar,Phil Collins,10
+28013,Calhoun,Phil Collins,10
+28015,Carroll,Phil Collins,3
+28017,Chickasaw,Phil Collins,14
+28019,Choctaw,Phil Collins,4
+28021,Claiborne,Phil Collins,7
+28023,Clarke,Phil Collins,6
+28025,Clay,Phil Collins,17
+28027,Coahoma,Phil Collins,6
+28029,Copiah,Phil Collins,20
+28031,Covington,Phil Collins,7
+28033,DeSoto,Phil Collins,94
+28035,Forrest,Phil Collins,29
+28037,Franklin,Phil Collins,4
+28039,George,Phil Collins,12
+28041,Greene,Phil Collins,4
+28043,Grenada,Phil Collins,13
+28045,Hancock,Phil Collins,16
+28047,Harrison,Phil Collins,82
+28049,Hinds,Phil Collins,114
+28051,Holmes,Phil Collins,13
+28053,Humphreys,Phil Collins,3
+28055,Issaquena,Phil Collins,1
+28057,Itawamba,Phil Collins,11
+28059,Jackson,Phil Collins,49
+28061,Jasper,Phil Collins,10
+28065,Jefferson Davis,Phil Collins,11
+28063,Jefferson,Phil Collins,1
+28067,Jones,Phil Collins,26
+28069,Kemper,Phil Collins,9
+28071,Lafayette,Phil Collins,14
+28073,Lamar,Phil Collins,19
+28075,Lauderdale,Phil Collins,24
+28077,Lawrence,Phil Collins,5
+28079,Leake,Phil Collins,8
+28081,Lee,Phil Collins,32
+28083,Leflore,Phil Collins,9
+28085,Lincoln,Phil Collins,11
+28087,Lowndes,Phil Collins,21
+28089,Madison,Phil Collins,53
+28091,Marion,Phil Collins,11
+28093,Marshall,Phil Collins,23
+28095,Monroe,Phil Collins,22
+28097,Montgomery,Phil Collins,4
+28099,Neshoba,Phil Collins,12
+28101,Newton,Phil Collins,9
+28103,Noxubee,Phil Collins,6
+28105,Oktibbeha,Phil Collins,28
+28107,Panola,Phil Collins,19
+28109,Pearl River,Phil Collins,12
+28111,Perry,Phil Collins,4
+28113,Pike,Phil Collins,22
+28115,Pontotoc,Phil Collins,16
+28117,Prentiss,Phil Collins,9
+28119,Quitman,Phil Collins,3
+28121,Rankin,Phil Collins,57
+28123,Scott,Phil Collins,13
+28125,Sharkey,Phil Collins,1
+28127,Simpson,Phil Collins,14
+28129,Smith,Phil Collins,11
+28131,Stone,Phil Collins,14
+28133,Sunflower,Phil Collins,8
+28135,Tallahatchie,Phil Collins,9
+28137,Tate,Phil Collins,12
+28139,Tippah,Phil Collins,14
+28141,Tishomingo,Phil Collins,11
+28143,Tunica,Phil Collins,7
+28145,Union,Phil Collins,10
+28147,Walthall,Phil Collins,6
+28149,Warren,Phil Collins,25
+28151,Washington,Phil Collins,19
+28153,Wayne,Phil Collins,4
+28155,Webster,Phil Collins,4
+28157,Wilkinson,Phil Collins,4
+28159,Winston,Phil Collins,6
+28161,Yalobusha,Phil Collins,8
+28163,Yazoo,Phil Collins,10
+28001,Adams,Howie Hawkins,10
+28003,Alcorn,Howie Hawkins,9
+28005,Amite,Howie Hawkins,10
+28007,Attala,Howie Hawkins,11
+28009,Benton,Howie Hawkins,5
+28011,Bolivar,Howie Hawkins,19
+28013,Calhoun,Howie Hawkins,4
+28015,Carroll,Howie Hawkins,7
+28017,Chickasaw,Howie Hawkins,9
+28019,Choctaw,Howie Hawkins,2
+28021,Claiborne,Howie Hawkins,10
+28023,Clarke,Howie Hawkins,14
+28025,Clay,Howie Hawkins,12
+28027,Coahoma,Howie Hawkins,14
+28029,Copiah,Howie Hawkins,11
+28031,Covington,Howie Hawkins,3
+28033,DeSoto,Howie Hawkins,96
+28035,Forrest,Howie Hawkins,54
+28037,Franklin,Howie Hawkins,3
+28039,George,Howie Hawkins,10
+28041,Greene,Howie Hawkins,4
+28043,Grenada,Howie Hawkins,8
+28045,Hancock,Howie Hawkins,23
+28047,Harrison,Howie Hawkins,101
+28049,Hinds,Howie Hawkins,110
+28051,Holmes,Howie Hawkins,15
+28053,Humphreys,Howie Hawkins,4
+28055,Issaquena,Howie Hawkins,0
+28057,Itawamba,Howie Hawkins,15
+28059,Jackson,Howie Hawkins,76
+28061,Jasper,Howie Hawkins,6
+28065,Jefferson Davis,Howie Hawkins,5
+28063,Jefferson,Howie Hawkins,6
+28067,Jones,Howie Hawkins,24
+28069,Kemper,Howie Hawkins,9
+28071,Lafayette,Howie Hawkins,40
+28073,Lamar,Howie Hawkins,32
+28075,Lauderdale,Howie Hawkins,25
+28077,Lawrence,Howie Hawkins,8
+28079,Leake,Howie Hawkins,6
+28081,Lee,Howie Hawkins,44
+28083,Leflore,Howie Hawkins,9
+28085,Lincoln,Howie Hawkins,19
+28087,Lowndes,Howie Hawkins,32
+28089,Madison,Howie Hawkins,41
+28091,Marion,Howie Hawkins,11
+28093,Marshall,Howie Hawkins,27
+28095,Monroe,Howie Hawkins,17
+28097,Montgomery,Howie Hawkins,3
+28099,Neshoba,Howie Hawkins,6
+28101,Newton,Howie Hawkins,8
+28103,Noxubee,Howie Hawkins,6
+28105,Oktibbeha,Howie Hawkins,51
+28107,Panola,Howie Hawkins,11
+28109,Pearl River,Howie Hawkins,31
+28111,Perry,Howie Hawkins,7
+28113,Pike,Howie Hawkins,18
+28115,Pontotoc,Howie Hawkins,17
+28117,Prentiss,Howie Hawkins,6
+28119,Quitman,Howie Hawkins,5
+28121,Rankin,Howie Hawkins,62
+28123,Scott,Howie Hawkins,22
+28125,Sharkey,Howie Hawkins,6
+28127,Simpson,Howie Hawkins,23
+28129,Smith,Howie Hawkins,6
+28131,Stone,Howie Hawkins,8
+28133,Sunflower,Howie Hawkins,14
+28135,Tallahatchie,Howie Hawkins,15
+28137,Tate,Howie Hawkins,16
+28139,Tippah,Howie Hawkins,9
+28141,Tishomingo,Howie Hawkins,7
+28143,Tunica,Howie Hawkins,7
+28145,Union,Howie Hawkins,13
+28147,Walthall,Howie Hawkins,6
+28149,Warren,Howie Hawkins,25
+28151,Washington,Howie Hawkins,19
+28153,Wayne,Howie Hawkins,11
+28155,Webster,Howie Hawkins,2
+28157,Wilkinson,Howie Hawkins,9
+28159,Winston,Howie Hawkins,4
+28161,Yalobusha,Howie Hawkins,7
+28163,Yazoo,Howie Hawkins,8
+28001,Adams,Jo Jorgensen,48
+28003,Alcorn,Jo Jorgensen,118
+28005,Amite,Jo Jorgensen,21
+28007,Attala,Jo Jorgensen,36
+28009,Benton,Jo Jorgensen,12
+28011,Bolivar,Jo Jorgensen,48
+28013,Calhoun,Jo Jorgensen,15
+28015,Carroll,Jo Jorgensen,14
+28017,Chickasaw,Jo Jorgensen,75
+28019,Choctaw,Jo Jorgensen,16
+28021,Claiborne,Jo Jorgensen,11
+28023,Clarke,Jo Jorgensen,28
+28025,Clay,Jo Jorgensen,48
+28027,Coahoma,Jo Jorgensen,20
+28029,Copiah,Jo Jorgensen,58
+28031,Covington,Jo Jorgensen,33
+28033,DeSoto,Jo Jorgensen,722
+28035,Forrest,Jo Jorgensen,329
+28037,Franklin,Jo Jorgensen,21
+28039,George,Jo Jorgensen,54
+28041,Greene,Jo Jorgensen,20
+28043,Grenada,Jo Jorgensen,38
+28045,Hancock,Jo Jorgensen,183
+28047,Harrison,Jo Jorgensen,726
+28049,Hinds,Jo Jorgensen,396
+28051,Holmes,Jo Jorgensen,26
+28053,Humphreys,Jo Jorgensen,10
+28055,Issaquena,Jo Jorgensen,5
+28057,Itawamba,Jo Jorgensen,79
+28059,Jackson,Jo Jorgensen,474
+28061,Jasper,Jo Jorgensen,30
+28065,Jefferson Davis,Jo Jorgensen,16
+28063,Jefferson,Jo Jorgensen,14
+28067,Jones,Jo Jorgensen,169
+28069,Kemper,Jo Jorgensen,10
+28071,Lafayette,Jo Jorgensen,242
+28073,Lamar,Jo Jorgensen,264
+28075,Lauderdale,Jo Jorgensen,149
+28077,Lawrence,Jo Jorgensen,19
+28079,Leake,Jo Jorgensen,19
+28081,Lee,Jo Jorgensen,292
+28083,Leflore,Jo Jorgensen,31
+28085,Lincoln,Jo Jorgensen,64
+28087,Lowndes,Jo Jorgensen,182
+28089,Madison,Jo Jorgensen,351
+28091,Marion,Jo Jorgensen,44
+28093,Marshall,Jo Jorgensen,48
+28095,Monroe,Jo Jorgensen,93
+28097,Montgomery,Jo Jorgensen,9
+28099,Neshoba,Jo Jorgensen,46
+28101,Newton,Jo Jorgensen,47
+28103,Noxubee,Jo Jorgensen,13
+28105,Oktibbeha,Jo Jorgensen,255
+28107,Panola,Jo Jorgensen,48
+28109,Pearl River,Jo Jorgensen,160
+28111,Perry,Jo Jorgensen,21
+28113,Pike,Jo Jorgensen,91
+28115,Pontotoc,Jo Jorgensen,103
+28117,Prentiss,Jo Jorgensen,70
+28119,Quitman,Jo Jorgensen,12
+28121,Rankin,Jo Jorgensen,555
+28123,Scott,Jo Jorgensen,38
+28125,Sharkey,Jo Jorgensen,9
+28127,Simpson,Jo Jorgensen,49
+28129,Smith,Jo Jorgensen,33
+28131,Stone,Jo Jorgensen,57
+28133,Sunflower,Jo Jorgensen,18
+28135,Tallahatchie,Jo Jorgensen,20
+28137,Tate,Jo Jorgensen,84
+28139,Tippah,Jo Jorgensen,43
+28141,Tishomingo,Jo Jorgensen,97
+28143,Tunica,Jo Jorgensen,9
+28145,Union,Jo Jorgensen,81
+28147,Walthall,Jo Jorgensen,19
+28149,Warren,Jo Jorgensen,93
+28151,Washington,Jo Jorgensen,53
+28153,Wayne,Jo Jorgensen,45
+28155,Webster,Jo Jorgensen,27
+28157,Wilkinson,Jo Jorgensen,12
+28159,Winston,Jo Jorgensen,41
+28161,Yalobusha,Jo Jorgensen,26
+28163,Yazoo,Jo Jorgensen,21
+28001,Adams,Brock Pierce,2
+28003,Alcorn,Brock Pierce,4
+28005,Amite,Brock Pierce,3
+28007,Attala,Brock Pierce,4
+28009,Benton,Brock Pierce,3
+28011,Bolivar,Brock Pierce,3
+28013,Calhoun,Brock Pierce,6
+28015,Carroll,Brock Pierce,2
+28017,Chickasaw,Brock Pierce,2
+28019,Choctaw,Brock Pierce,1
+28021,Claiborne,Brock Pierce,6
+28023,Clarke,Brock Pierce,3
+28025,Clay,Brock Pierce,8
+28027,Coahoma,Brock Pierce,2
+28029,Copiah,Brock Pierce,4
+28031,Covington,Brock Pierce,2
+28033,DeSoto,Brock Pierce,119
+28035,Forrest,Brock Pierce,14
+28037,Franklin,Brock Pierce,4
+28039,George,Brock Pierce,5
+28041,Greene,Brock Pierce,4
+28043,Grenada,Brock Pierce,6
+28045,Hancock,Brock Pierce,11
+28047,Harrison,Brock Pierce,30
+28049,Hinds,Brock Pierce,60
+28051,Holmes,Brock Pierce,14
+28053,Humphreys,Brock Pierce,4
+28055,Issaquena,Brock Pierce,0
+28057,Itawamba,Brock Pierce,3
+28059,Jackson,Brock Pierce,37
+28061,Jasper,Brock Pierce,5
+28065,Jefferson Davis,Brock Pierce,5
+28063,Jefferson,Brock Pierce,1
+28067,Jones,Brock Pierce,9
+28069,Kemper,Brock Pierce,5
+28071,Lafayette,Brock Pierce,8
+28073,Lamar,Brock Pierce,10
+28075,Lauderdale,Brock Pierce,14
+28077,Lawrence,Brock Pierce,1
+28079,Leake,Brock Pierce,1
+28081,Lee,Brock Pierce,12
+28083,Leflore,Brock Pierce,6
+28085,Lincoln,Brock Pierce,7
+28087,Lowndes,Brock Pierce,9
+28089,Madison,Brock Pierce,14
+28091,Marion,Brock Pierce,5
+28093,Marshall,Brock Pierce,11
+28095,Monroe,Brock Pierce,4
+28097,Montgomery,Brock Pierce,1
+28099,Neshoba,Brock Pierce,2
+28101,Newton,Brock Pierce,6
+28103,Noxubee,Brock Pierce,4
+28105,Oktibbeha,Brock Pierce,14
+28107,Panola,Brock Pierce,11
+28109,Pearl River,Brock Pierce,13
+28111,Perry,Brock Pierce,4
+28113,Pike,Brock Pierce,4
+28115,Pontotoc,Brock Pierce,4
+28117,Prentiss,Brock Pierce,3
+28119,Quitman,Brock Pierce,3
+28121,Rankin,Brock Pierce,12
+28123,Scott,Brock Pierce,4
+28125,Sharkey,Brock Pierce,0
+28127,Simpson,Brock Pierce,4
+28129,Smith,Brock Pierce,2
+28131,Stone,Brock Pierce,2
+28133,Sunflower,Brock Pierce,3
+28135,Tallahatchie,Brock Pierce,1
+28137,Tate,Brock Pierce,7
+28139,Tippah,Brock Pierce,3
+28141,Tishomingo,Brock Pierce,1
+28143,Tunica,Brock Pierce,1
+28145,Union,Brock Pierce,3
+28147,Walthall,Brock Pierce,6
+28149,Warren,Brock Pierce,8
+28151,Washington,Brock Pierce,10
+28153,Wayne,Brock Pierce,6
+28155,Webster,Brock Pierce,3
+28157,Wilkinson,Brock Pierce,5
+28159,Winston,Brock Pierce,3
+28161,Yalobusha,Brock Pierce,2
+28163,Yazoo,Brock Pierce,11
+28001,Adams,Kanye West,54
+28003,Alcorn,Kanye West,32
+28005,Amite,Kanye West,17
+28007,Attala,Kanye West,22
+28009,Benton,Kanye West,6
+28011,Bolivar,Kanye West,62
+28013,Calhoun,Kanye West,17
+28015,Carroll,Kanye West,12
+28017,Chickasaw,Kanye West,37
+28019,Choctaw,Kanye West,6
+28021,Claiborne,Kanye West,23
+28023,Clarke,Kanye West,20
+28025,Clay,Kanye West,35
+28027,Coahoma,Kanye West,39
+28029,Copiah,Kanye West,40
+28031,Covington,Kanye West,27
+28033,DeSoto,Kanye West,219
+28035,Forrest,Kanye West,119
+28037,Franklin,Kanye West,14
+28039,George,Kanye West,21
+28041,Greene,Kanye West,10
+28043,Grenada,Kanye West,18
+28045,Hancock,Kanye West,43
+28047,Harrison,Kanye West,182
+28049,Hinds,Kanye West,422
+28051,Holmes,Kanye West,46
+28053,Humphreys,Kanye West,20
+28055,Issaquena,Kanye West,1
+28057,Itawamba,Kanye West,15
+28059,Jackson,Kanye West,125
+28061,Jasper,Kanye West,22
+28065,Jefferson Davis,Kanye West,29
+28063,Jefferson,Kanye West,18
+28067,Jones,Kanye West,69
+28069,Kemper,Kanye West,9
+28071,Lafayette,Kanye West,55
+28073,Lamar,Kanye West,66
+28075,Lauderdale,Kanye West,67
+28077,Lawrence,Kanye West,19
+28079,Leake,Kanye West,23
+28081,Lee,Kanye West,116
+28083,Leflore,Kanye West,39
+28085,Lincoln,Kanye West,31
+28087,Lowndes,Kanye West,71
+28089,Madison,Kanye West,140
+28091,Marion,Kanye West,29
+28093,Marshall,Kanye West,51
+28095,Monroe,Kanye West,39
+28097,Montgomery,Kanye West,11
+28099,Neshoba,Kanye West,34
+28101,Newton,Kanye West,28
+28103,Noxubee,Kanye West,15
+28105,Oktibbeha,Kanye West,61
+28107,Panola,Kanye West,49
+28109,Pearl River,Kanye West,42
+28111,Perry,Kanye West,9
+28113,Pike,Kanye West,43
+28115,Pontotoc,Kanye West,30
+28117,Prentiss,Kanye West,20
+28119,Quitman,Kanye West,12
+28121,Rankin,Kanye West,135
+28123,Scott,Kanye West,24
+28125,Sharkey,Kanye West,8
+28127,Simpson,Kanye West,30
+28129,Smith,Kanye West,13
+28131,Stone,Kanye West,12
+28133,Sunflower,Kanye West,37
+28135,Tallahatchie,Kanye West,22
+28137,Tate,Kanye West,56
+28139,Tippah,Kanye West,25
+28141,Tishomingo,Kanye West,15
+28143,Tunica,Kanye West,27
+28145,Union,Kanye West,28
+28147,Walthall,Kanye West,16
+28149,Warren,Kanye West,46
+28151,Washington,Kanye West,71
+28153,Wayne,Kanye West,37
+28155,Webster,Kanye West,16
+28157,Wilkinson,Kanye West,7
+28159,Winston,Kanye West,26
+28161,Yalobusha,Kanye West,22
+28163,Yazoo,Kanye West,33

@@ -1,0 +1,533 @@
+fips,county,candidate,votes
+51001,Accomack,Joseph R. Biden,7578
+51001,Accomack,Donald J. Trump,9172
+51001,Accomack,Jo Jorgensen,188
+51001,Accomack,All Others,24
+51003,Albemarle,Joseph R. Biden,42466
+51003,Albemarle,Donald J. Trump,20804
+51003,Albemarle,Jo Jorgensen,1014
+51003,Albemarle,All Others,373
+51510,Alexandria City,Joseph R. Biden,66240
+51510,Alexandria City,Donald J. Trump,14544
+51510,Alexandria City,Jo Jorgensen,1022
+51510,Alexandria City,All Others,702
+51005,Alleghany,Joseph R. Biden,2243
+51005,Alleghany,Donald J. Trump,5859
+51005,Alleghany,Jo Jorgensen,89
+51005,Alleghany,All Others,12
+51007,Amelia,Joseph R. Biden,2411
+51007,Amelia,Donald J. Trump,5390
+51007,Amelia,Jo Jorgensen,80
+51007,Amelia,All Others,12
+51009,Amherst,Joseph R. Biden,5672
+51009,Amherst,Donald J. Trump,11041
+51009,Amherst,Jo Jorgensen,251
+51009,Amherst,All Others,41
+51011,Appomattox,Joseph R. Biden,2418
+51011,Appomattox,Donald J. Trump,6702
+51011,Appomattox,Jo Jorgensen,119
+51011,Appomattox,All Others,29
+51013,Arlington,Joseph R. Biden,105344
+51013,Arlington,Donald J. Trump,22318
+51013,Arlington,Jo Jorgensen,1836
+51013,Arlington,All Others,1201
+51015,Augusta,Joseph R. Biden,10840
+51015,Augusta,Donald J. Trump,30714
+51015,Augusta,Jo Jorgensen,608
+51015,Augusta,All Others,116
+51017,Bath,Joseph R. Biden,646
+51017,Bath,Donald J. Trump,1834
+51017,Bath,Jo Jorgensen,16
+51017,Bath,All Others,5
+51019,Bedford,Joseph R. Biden,12176
+51019,Bedford,Donald J. Trump,35600
+51019,Bedford,Jo Jorgensen,708
+51019,Bedford,All Others,185
+51021,Bland,Joseph R. Biden,532
+51021,Bland,Donald J. Trump,2903
+51021,Bland,Jo Jorgensen,40
+51021,Bland,All Others,4
+51023,Botetourt,Joseph R. Biden,5700
+51023,Botetourt,Donald J. Trump,15099
+51023,Botetourt,Jo Jorgensen,264
+51023,Botetourt,All Others,57
+51520,Bristol City,Joseph R. Biden,2313
+51520,Bristol City,Donald J. Trump,5347
+51520,Bristol City,Jo Jorgensen,125
+51520,Bristol City,All Others,21
+51025,Brunswick,Joseph R. Biden,4552
+51025,Brunswick,Donald J. Trump,3357
+51025,Brunswick,Jo Jorgensen,34
+51025,Brunswick,All Others,5
+51027,Buchanan,Joseph R. Biden,1587
+51027,Buchanan,Donald J. Trump,8311
+51027,Buchanan,Jo Jorgensen,44
+51027,Buchanan,All Others,11
+51029,Buckingham,Joseph R. Biden,3471
+51029,Buckingham,Donald J. Trump,4544
+51029,Buckingham,Jo Jorgensen,93
+51029,Buckingham,All Others,18
+51530,Buena Vista City,Joseph R. Biden,825
+51530,Buena Vista City,Donald J. Trump,1863
+51530,Buena Vista City,Jo Jorgensen,72
+51530,Buena Vista City,All Others,16
+51031,Campbell,Joseph R. Biden,8070
+51031,Campbell,Donald J. Trump,21245
+51031,Campbell,Jo Jorgensen,490
+51031,Campbell,All Others,87
+51033,Caroline,Joseph R. Biden,7657
+51033,Caroline,Donald J. Trump,8336
+51033,Caroline,Jo Jorgensen,259
+51033,Caroline,All Others,36
+51035,Carroll,Joseph R. Biden,2842
+51035,Carroll,Donald J. Trump,12659
+51035,Carroll,Jo Jorgensen,118
+51035,Carroll,All Others,32
+51036,Charles City,Joseph R. Biden,2624
+51036,Charles City,Donald J. Trump,1761
+51036,Charles City,Jo Jorgensen,54
+51036,Charles City,All Others,2
+51037,Charlotte,Joseph R. Biden,2317
+51037,Charlotte,Donald J. Trump,3815
+51037,Charlotte,Jo Jorgensen,48
+51037,Charlotte,All Others,11
+51540,Charlottesville City,Joseph R. Biden,20696
+51540,Charlottesville City,Donald J. Trump,3094
+51540,Charlottesville City,Jo Jorgensen,311
+51540,Charlottesville City,All Others,104
+51550,Chesapeake City,Joseph R. Biden,66377
+51550,Chesapeake City,Donald J. Trump,58180
+51550,Chesapeake City,Jo Jorgensen,2098
+51550,Chesapeake City,All Others,453
+51041,Chesterfield,Joseph R. Biden,106935
+51041,Chesterfield,Donald J. Trump,93326
+51041,Chesterfield,Jo Jorgensen,2927
+51041,Chesterfield,All Others,696
+51043,Clarke,Joseph R. Biden,3920
+51043,Clarke,Donald J. Trump,5192
+51043,Clarke,Jo Jorgensen,178
+51043,Clarke,All Others,47
+51570,Colonial Heights City,Joseph R. Biden,2972
+51570,Colonial Heights City,Donald J. Trump,6007
+51570,Colonial Heights City,Jo Jorgensen,135
+51570,Colonial Heights City,All Others,32
+51580,Covington City,Joseph R. Biden,964
+51580,Covington City,Donald J. Trump,1580
+51580,Covington City,Jo Jorgensen,50
+51580,Covington City,All Others,9
+51045,Craig,Joseph R. Biden,587
+51045,Craig,Donald J. Trump,2536
+51045,Craig,Jo Jorgensen,40
+51045,Craig,All Others,6
+51047,Culpeper,Joseph R. Biden,10617
+51047,Culpeper,Donald J. Trump,16012
+51047,Culpeper,Jo Jorgensen,406
+51047,Culpeper,All Others,81
+51049,Cumberland,Joseph R. Biden,2227
+51049,Cumberland,Donald J. Trump,3019
+51049,Cumberland,Jo Jorgensen,53
+51049,Cumberland,All Others,11
+51590,Danville City,Joseph R. Biden,11710
+51590,Danville City,Donald J. Trump,7428
+51590,Danville City,Jo Jorgensen,195
+51590,Danville City,All Others,56
+51051,Dickenson,Joseph R. Biden,1503
+51051,Dickenson,Donald J. Trump,5748
+51051,Dickenson,Jo Jorgensen,44
+51051,Dickenson,All Others,8
+51053,Dinwiddie,Joseph R. Biden,6224
+51053,Dinwiddie,Donald J. Trump,8695
+51053,Dinwiddie,Jo Jorgensen,144
+51053,Dinwiddie,All Others,29
+51595,Emporia City,Joseph R. Biden,1612
+51595,Emporia City,Donald J. Trump,754
+51595,Emporia City,Jo Jorgensen,13
+51595,Emporia City,All Others,2
+51057,Essex,Joseph R. Biden,3038
+51057,Essex,Donald J. Trump,3075
+51057,Essex,Jo Jorgensen,58
+51057,Essex,All Others,7
+51059,Fairfax,Joseph R. Biden,419943
+51059,Fairfax,Donald J. Trump,168401
+51059,Fairfax,Jo Jorgensen,8014
+51059,Fairfax,All Others,4465
+51600,Fairfax City,Joseph R. Biden,9174
+51600,Fairfax City,Donald J. Trump,4007
+51600,Fairfax City,Jo Jorgensen,201
+51600,Fairfax City,All Others,101
+51610,Falls Church City,Joseph R. Biden,7146
+51610,Falls Church City,Donald J. Trump,1490
+51610,Falls Church City,Jo Jorgensen,114
+51610,Falls Church City,All Others,69
+51061,Fauquier,Joseph R. Biden,17565
+51061,Fauquier,Donald J. Trump,25106
+51061,Fauquier,Jo Jorgensen,777
+51061,Fauquier,All Others,213
+51063,Floyd,Joseph R. Biden,3004
+51063,Floyd,Donald J. Trump,6225
+51063,Floyd,Jo Jorgensen,147
+51063,Floyd,All Others,32
+51065,Fluvanna,Joseph R. Biden,7414
+51065,Fluvanna,Donald J. Trump,8155
+51065,Fluvanna,Jo Jorgensen,226
+51065,Fluvanna,All Others,45
+51067,Franklin,Joseph R. Biden,8381
+51067,Franklin,Donald J. Trump,20895
+51067,Franklin,Jo Jorgensen,354
+51067,Franklin,All Others,72
+51620,Franklin City,Joseph R. Biden,2525
+51620,Franklin City,Donald J. Trump,1487
+51620,Franklin City,Jo Jorgensen,35
+51620,Franklin City,All Others,11
+51069,Frederick,Joseph R. Biden,17207
+51069,Frederick,Donald J. Trump,30558
+51069,Frederick,Jo Jorgensen,781
+51069,Frederick,All Others,157
+51630,Fredericksburg City,Joseph R. Biden,8517
+51630,Fredericksburg City,Donald J. Trump,4037
+51630,Fredericksburg City,Jo Jorgensen,240
+51630,Fredericksburg City,All Others,68
+51640,Galax City,Joseph R. Biden,777
+51640,Galax City,Donald J. Trump,1838
+51640,Galax City,Jo Jorgensen,18
+51640,Galax City,All Others,5
+51071,Giles,Joseph R. Biden,2156
+51071,Giles,Donald J. Trump,6876
+51071,Giles,Jo Jorgensen,125
+51071,Giles,All Others,19
+51073,Gloucester,Joseph R. Biden,6964
+51073,Gloucester,Donald J. Trump,14875
+51073,Gloucester,Jo Jorgensen,389
+51073,Gloucester,All Others,54
+51075,Goochland,Joseph R. Biden,6685
+51075,Goochland,Donald J. Trump,9966
+51075,Goochland,Jo Jorgensen,242
+51075,Goochland,All Others,57
+51077,Grayson,Joseph R. Biden,1535
+51077,Grayson,Donald J. Trump,6529
+51077,Grayson,Jo Jorgensen,56
+51077,Grayson,All Others,11
+51079,Greene,Joseph R. Biden,4163
+51079,Greene,Donald J. Trump,6866
+51079,Greene,Jo Jorgensen,241
+51079,Greene,All Others,41
+51081,Greensville,Joseph R. Biden,2627
+51081,Greensville,Donald J. Trump,1914
+51081,Greensville,Jo Jorgensen,23
+51081,Greensville,All Others,10
+51083,Halifax,Joseph R. Biden,7666
+51083,Halifax,Donald J. Trump,10418
+51083,Halifax,Jo Jorgensen,140
+51083,Halifax,All Others,24
+51650,Hampton City,Joseph R. Biden,46220
+51650,Hampton City,Donald J. Trump,18430
+51650,Hampton City,Jo Jorgensen,1006
+51650,Hampton City,All Others,245
+51085,Hanover,Joseph R. Biden,25307
+51085,Hanover,Donald J. Trump,44318
+51085,Hanover,Jo Jorgensen,1103
+51085,Hanover,All Others,239
+51660,Harrisonburg City,Joseph R. Biden,11022
+51660,Harrisonburg City,Donald J. Trump,5591
+51660,Harrisonburg City,Jo Jorgensen,364
+51660,Harrisonburg City,All Others,109
+51087,Henrico,Joseph R. Biden,116572
+51087,Henrico,Donald J. Trump,63440
+51087,Henrico,Jo Jorgensen,2414
+51087,Henrico,All Others,726
+51089,Henry,Joseph R. Biden,9127
+51089,Henry,Donald J. Trump,16725
+51089,Henry,Jo Jorgensen,223
+51089,Henry,All Others,30
+51091,Highland,Joseph R. Biden,417
+51091,Highland,Donald J. Trump,1092
+51091,Highland,Jo Jorgensen,22
+51091,Highland,All Others,2
+51670,Hopewell City,Joseph R. Biden,5430
+51670,Hopewell City,Donald J. Trump,4020
+51670,Hopewell City,Jo Jorgensen,131
+51670,Hopewell City,All Others,27
+51093,Isle of Wight,Joseph R. Biden,9399
+51093,Isle of Wight,Donald J. Trump,13707
+51093,Isle of Wight,Jo Jorgensen,328
+51093,Isle of Wight,All Others,22
+51095,James City,Joseph R. Biden,25553
+51095,James City,Donald J. Trump,23153
+51095,James City,Jo Jorgensen,710
+51095,James City,All Others,206
+51097,King and Queen,Joseph R. Biden,1590
+51097,King and Queen,Donald J. Trump,2450
+51097,King and Queen,Jo Jorgensen,64
+51097,King and Queen,All Others,11
+51099,King George,Joseph R. Biden,5404
+51099,King George,Donald J. Trump,8446
+51099,King George,Jo Jorgensen,314
+51099,King George,All Others,60
+51101,King William,Joseph R. Biden,3260
+51101,King William,Donald J. Trump,7320
+51101,King William,Jo Jorgensen,142
+51101,King William,All Others,14
+51103,Lancaster,Joseph R. Biden,3368
+51103,Lancaster,Donald J. Trump,3697
+51103,Lancaster,Jo Jorgensen,71
+51103,Lancaster,All Others,16
+51105,Lee,Joseph R. Biden,1489
+51105,Lee,Donald J. Trump,8365
+51105,Lee,Jo Jorgensen,78
+51105,Lee,All Others,14
+51678,Lexington City,Joseph R. Biden,1791
+51678,Lexington City,Donald J. Trump,906
+51678,Lexington City,Jo Jorgensen,48
+51678,Lexington City,All Others,17
+51107,Loudoun,Joseph R. Biden,138372
+51107,Loudoun,Donald J. Trump,82088
+51107,Loudoun,Jo Jorgensen,3139
+51107,Loudoun,All Others,1263
+51109,Louisa,Joseph R. Biden,8269
+51109,Louisa,Donald J. Trump,13294
+51109,Louisa,Jo Jorgensen,295
+51109,Louisa,All Others,57
+51111,Lunenburg,Joseph R. Biden,2418
+51111,Lunenburg,Donald J. Trump,3537
+51111,Lunenburg,Jo Jorgensen,40
+51111,Lunenburg,All Others,5
+51680,Lynchburg City,Joseph R. Biden,18048
+51680,Lynchburg City,Donald J. Trump,17097
+51680,Lynchburg City,Jo Jorgensen,857
+51680,Lynchburg City,All Others,361
+51113,Madison,Joseph R. Biden,2698
+51113,Madison,Donald J. Trump,5300
+51113,Madison,Jo Jorgensen,106
+51113,Madison,All Others,25
+51683,Manassas City,Joseph R. Biden,10356
+51683,Manassas City,Donald J. Trump,6256
+51683,Manassas City,Jo Jorgensen,280
+51683,Manassas City,All Others,76
+51685,Manassas Park City,Joseph R. Biden,3992
+51685,Manassas Park City,Donald J. Trump,1979
+51685,Manassas Park City,Jo Jorgensen,100
+51685,Manassas Park City,All Others,16
+51690,Martinsville City,Joseph R. Biden,3766
+51690,Martinsville City,Donald J. Trump,2165
+51690,Martinsville City,Jo Jorgensen,73
+51690,Martinsville City,All Others,9
+51115,Mathews,Joseph R. Biden,1825
+51115,Mathews,Donald J. Trump,3901
+51115,Mathews,Jo Jorgensen,87
+51115,Mathews,All Others,13
+51117,Mecklenburg,Joseph R. Biden,6803
+51117,Mecklenburg,Donald J. Trump,9266
+51117,Mecklenburg,Jo Jorgensen,113
+51117,Mecklenburg,All Others,22
+51119,Middlesex,Joseph R. Biden,2491
+51119,Middlesex,Donald J. Trump,4196
+51119,Middlesex,Jo Jorgensen,77
+51119,Middlesex,All Others,21
+51121,Montgomery,Joseph R. Biden,23218
+51121,Montgomery,Donald J. Trump,20629
+51121,Montgomery,Jo Jorgensen,942
+51121,Montgomery,All Others,248
+51125,Nelson,Joseph R. Biden,4327
+51125,Nelson,Donald J. Trump,4812
+51125,Nelson,Jo Jorgensen,150
+51125,Nelson,All Others,27
+51127,New Kent,Joseph R. Biden,4621
+51127,New Kent,Donald J. Trump,9631
+51127,New Kent,Jo Jorgensen,172
+51127,New Kent,All Others,39
+51700,Newport News City,Joseph R. Biden,53099
+51700,Newport News City,Donald J. Trump,26377
+51700,Newport News City,Jo Jorgensen,1438
+51700,Newport News City,All Others,289
+51710,Norfolk City,Joseph R. Biden,64440
+51710,Norfolk City,Donald J. Trump,23443
+51710,Norfolk City,Jo Jorgensen,1608
+51710,Norfolk City,All Others,390
+51131,Northampton,Joseph R. Biden,3667
+51131,Northampton,Donald J. Trump,2955
+51131,Northampton,Jo Jorgensen,100
+51131,Northampton,All Others,10
+51133,Northumberland,Joseph R. Biden,3252
+51133,Northumberland,Donald J. Trump,4485
+51133,Northumberland,Jo Jorgensen,56
+51133,Northumberland,All Others,22
+51720,Norton City,Joseph R. Biden,464
+51720,Norton City,Donald J. Trump,1109
+51720,Norton City,Jo Jorgensen,21
+51720,Norton City,All Others,7
+51135,Nottoway,Joseph R. Biden,2971
+51135,Nottoway,Donald J. Trump,4027
+51135,Nottoway,Jo Jorgensen,72
+51135,Nottoway,All Others,8
+51137,Orange,Joseph R. Biden,7995
+51137,Orange,Donald J. Trump,12426
+51137,Orange,Jo Jorgensen,267
+51137,Orange,All Others,54
+51139,Page,Joseph R. Biden,3007
+51139,Page,Donald J. Trump,9345
+51139,Page,Jo Jorgensen,134
+51139,Page,All Others,28
+51141,Patrick,Joseph R. Biden,1954
+51141,Patrick,Donald J. Trump,7485
+51141,Patrick,Jo Jorgensen,81
+51141,Patrick,All Others,14
+51730,Petersburg City,Joseph R. Biden,12389
+51730,Petersburg City,Donald J. Trump,1584
+51730,Petersburg City,Jo Jorgensen,108
+51730,Petersburg City,All Others,37
+51143,Pittsylvania,Joseph R. Biden,10115
+51143,Pittsylvania,Donald J. Trump,23751
+51143,Pittsylvania,Jo Jorgensen,285
+51143,Pittsylvania,All Others,76
+51735,Poquoson City,Joseph R. Biden,2054
+51735,Poquoson City,Donald J. Trump,5605
+51735,Poquoson City,Jo Jorgensen,160
+51735,Poquoson City,All Others,38
+51740,Portsmouth City,Joseph R. Biden,30948
+51740,Portsmouth City,Donald J. Trump,12755
+51740,Portsmouth City,Jo Jorgensen,723
+51740,Portsmouth City,All Others,156
+51145,Powhatan,Joseph R. Biden,5320
+51145,Powhatan,Donald J. Trump,14055
+51145,Powhatan,Jo Jorgensen,321
+51145,Powhatan,All Others,34
+51147,Prince Edward,Joseph R. Biden,4973
+51147,Prince Edward,Donald J. Trump,4434
+51147,Prince Edward,Jo Jorgensen,136
+51147,Prince Edward,All Others,31
+51149,Prince George,Joseph R. Biden,7103
+51149,Prince George,Donald J. Trump,10103
+51149,Prince George,Jo Jorgensen,195
+51149,Prince George,All Others,31
+51153,Prince William,Joseph R. Biden,142863
+51153,Prince William,Donald J. Trump,81222
+51153,Prince William,Jo Jorgensen,3242
+51153,Prince William,All Others,729
+51155,Pulaski,Joseph R. Biden,4925
+51155,Pulaski,Donald J. Trump,12127
+51155,Pulaski,Jo Jorgensen,275
+51155,Pulaski,All Others,49
+51750,Radford City,Joseph R. Biden,3358
+51750,Radford City,Donald J. Trump,2786
+51750,Radford City,Jo Jorgensen,145
+51750,Radford City,All Others,31
+51157,Rappahannock,Joseph R. Biden,2096
+51157,Rappahannock,Donald J. Trump,2812
+51157,Rappahannock,Jo Jorgensen,56
+51157,Rappahannock,All Others,14
+51159,Richmond,Joseph R. Biden,1513
+51159,Richmond,Donald J. Trump,2547
+51159,Richmond,Jo Jorgensen,31
+51159,Richmond,All Others,11
+51760,Richmond City,Joseph R. Biden,92175
+51760,Richmond City,Donald J. Trump,16603
+51760,Richmond City,Jo Jorgensen,1691
+51760,Richmond City,All Others,690
+51161,Roanoke,Joseph R. Biden,21801
+51161,Roanoke,Donald J. Trump,34268
+51161,Roanoke,Jo Jorgensen,910
+51161,Roanoke,All Others,205
+51770,Roanoke City,Joseph R. Biden,26773
+51770,Roanoke City,Donald J. Trump,15607
+51770,Roanoke City,Jo Jorgensen,777
+51770,Roanoke City,All Others,166
+51163,Rockbridge,Joseph R. Biden,4086
+51163,Rockbridge,Donald J. Trump,8088
+51163,Rockbridge,Jo Jorgensen,165
+51163,Rockbridge,All Others,34
+51165,Rockingham,Joseph R. Biden,12644
+51165,Rockingham,Donald J. Trump,30349
+51165,Rockingham,Jo Jorgensen,653
+51165,Rockingham,All Others,165
+51167,Russell,Joseph R. Biden,2373
+51167,Russell,Donald J. Trump,10879
+51167,Russell,Jo Jorgensen,116
+51167,Russell,All Others,18
+51775,Salem City,Joseph R. Biden,5148
+51775,Salem City,Donald J. Trump,7683
+51775,Salem City,Jo Jorgensen,220
+51775,Salem City,All Others,0
+51169,Scott,Joseph R. Biden,1692
+51169,Scott,Donald J. Trump,9063
+51169,Scott,Jo Jorgensen,90
+51169,Scott,All Others,24
+51171,Shenandoah,Joseph R. Biden,6836
+51171,Shenandoah,Donald J. Trump,16463
+51171,Shenandoah,Jo Jorgensen,346
+51171,Shenandoah,All Others,39
+51173,Smyth,Joseph R. Biden,3008
+51173,Smyth,Donald J. Trump,10963
+51173,Smyth,Jo Jorgensen,133
+51173,Smyth,All Others,32
+51175,Southampton,Joseph R. Biden,3969
+51175,Southampton,Donald J. Trump,5730
+51175,Southampton,Jo Jorgensen,87
+51175,Southampton,All Others,0
+51177,Spotsylvania,Joseph R. Biden,34307
+51177,Spotsylvania,Donald J. Trump,39411
+51177,Spotsylvania,Jo Jorgensen,1301
+51177,Spotsylvania,All Others,298
+51179,Stafford,Joseph R. Biden,40245
+51179,Stafford,Donald J. Trump,37636
+51179,Stafford,Jo Jorgensen,1376
+51179,Stafford,All Others,368
+51790,Staunton City,Joseph R. Biden,6981
+51790,Staunton City,Donald J. Trump,5695
+51790,Staunton City,Jo Jorgensen,249
+51790,Staunton City,All Others,65
+51800,Suffolk City,Joseph R. Biden,28676
+51800,Suffolk City,Donald J. Trump,20082
+51800,Suffolk City,Jo Jorgensen,724
+51800,Suffolk City,All Others,160
+51181,Surry,Joseph R. Biden,2397
+51181,Surry,Donald J. Trump,2025
+51181,Surry,Jo Jorgensen,40
+51181,Surry,All Others,9
+51183,Sussex,Joseph R. Biden,2827
+51183,Sussex,Donald J. Trump,2219
+51183,Sussex,Jo Jorgensen,35
+51183,Sussex,All Others,7
+51185,Tazewell,Joseph R. Biden,3205
+51185,Tazewell,Donald J. Trump,16731
+51185,Tazewell,Jo Jorgensen,159
+51185,Tazewell,All Others,39
+51810,Virginia Beach City,Joseph R. Biden,117393
+51810,Virginia Beach City,Donald J. Trump,105087
+51810,Virginia Beach City,Jo Jorgensen,4208
+51810,Virginia Beach City,All Others,873
+51187,Warren,Joseph R. Biden,6603
+51187,Warren,Donald J. Trump,14069
+51187,Warren,Jo Jorgensen,365
+51187,Warren,All Others,110
+51191,Washington,Joseph R. Biden,6617
+51191,Washington,Donald J. Trump,21679
+51191,Washington,Jo Jorgensen,304
+51191,Washington,All Others,85
+51820,Waynesboro City,Joseph R. Biden,4961
+51820,Waynesboro City,Donald J. Trump,5507
+51820,Waynesboro City,Jo Jorgensen,209
+51820,Waynesboro City,All Others,40
+51193,Westmoreland,Joseph R. Biden,4501
+51193,Westmoreland,Donald J. Trump,5318
+51193,Westmoreland,Jo Jorgensen,90
+51193,Westmoreland,All Others,24
+51830,Williamsburg City,Joseph R. Biden,4790
+51830,Williamsburg City,Donald J. Trump,1963
+51830,Williamsburg City,Jo Jorgensen,92
+51830,Williamsburg City,All Others,38
+51840,Winchester City,Joseph R. Biden,6610
+51840,Winchester City,Donald J. Trump,5221
+51840,Winchester City,Jo Jorgensen,213
+51840,Winchester City,All Others,62
+51195,Wise,Joseph R. Biden,3110
+51195,Wise,Donald J. Trump,13366
+51195,Wise,Jo Jorgensen,108
+51195,Wise,All Others,31
+51197,Wythe,Joseph R. Biden,3143
+51197,Wythe,Donald J. Trump,11733
+51197,Wythe,Jo Jorgensen,170
+51197,Wythe,All Others,26
+51199,York,Joseph R. Biden,17683
+51199,York,Donald J. Trump,20241
+51199,York,Jo Jorgensen,680
+51199,York,All Others,183

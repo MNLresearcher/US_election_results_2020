@@ -1,0 +1,478 @@
+fips,county,candidate,votes
+13001,Appling,Donald J. Trump,6526
+13003,Atkinson,Donald J. Trump,2300
+13005,Bacon,Donald J. Trump,4018
+13007,Baker,Donald J. Trump,897
+13009,Baldwin,Donald J. Trump,8903
+13011,Banks,Donald J. Trump,7795
+13013,Barrow,Donald J. Trump,26804
+13015,Bartow,Donald J. Trump,37674
+13017,Ben Hill,Donald J. Trump,4110
+13019,Berrien,Donald J. Trump,6419
+13021,Bibb,Donald J. Trump,26585
+13023,Bleckley,Donald J. Trump,4328
+13025,Brantley,Donald J. Trump,6991
+13027,Brooks,Donald J. Trump,4260
+13029,Bryan,Donald J. Trump,14244
+13031,Bulloch,Donald J. Trump,18386
+13033,Burke,Donald J. Trump,5400
+13035,Butts,Donald J. Trump,8406
+13037,Calhoun,Donald J. Trump,923
+13039,Camden,Donald J. Trump,15251
+13043,Candler,Donald J. Trump,3133
+13045,Carroll,Donald J. Trump,37476
+13047,Catoosa,Donald J. Trump,25167
+13049,Charlton,Donald J. Trump,3419
+13051,Chatham,Donald J. Trump,53237
+13053,Chattahoochee,Donald J. Trump,880
+13055,Chattooga,Donald J. Trump,8064
+13057,Cherokee,Donald J. Trump,99587
+13059,Clarke,Donald J. Trump,14446
+13061,Clay,Donald J. Trump,637
+13063,Clayton,Donald J. Trump,15813
+13065,Clinch,Donald J. Trump,2105
+13067,Cobb,Donald J. Trump,165459
+13069,Coffee,Donald J. Trump,10578
+13071,Colquitt,Donald J. Trump,11777
+13073,Columbia,Donald J. Trump,50013
+13075,Cook,Donald J. Trump,4900
+13077,Coweta,Donald J. Trump,51501
+13079,Crawford,Donald J. Trump,4428
+13081,Crisp,Donald J. Trump,4987
+13083,Dade,Donald J. Trump,6066
+13085,Dawson,Donald J. Trump,13398
+13087,Decatur,Donald J. Trump,6758
+13089,DeKalb,Donald J. Trump,58373
+13091,Dodge,Donald J. Trump,5843
+13093,Dooly,Donald J. Trump,2159
+13095,Dougherty,Donald J. Trump,10454
+13097,Douglas,Donald J. Trump,25451
+13099,Early,Donald J. Trump,2722
+13101,Echols,Donald J. Trump,1256
+13103,Effingham,Donald J. Trump,23358
+13105,Elbert,Donald J. Trump,6226
+13107,Emanuel,Donald J. Trump,6551
+13109,Evans,Donald J. Trump,2888
+13111,Fannin,Donald J. Trump,12169
+13113,Fayette,Donald J. Trump,37952
+13115,Floyd,Donald J. Trump,29123
+13117,Forsyth,Donald J. Trump,85122
+13119,Franklin,Donald J. Trump,9069
+13121,Fulton,Donald J. Trump,137240
+13123,Gilmer,Donald J. Trump,13429
+13125,Glascock,Donald J. Trump,1403
+13127,Glynn,Donald J. Trump,25616
+13129,Gordon,Donald J. Trump,19405
+13131,Grady,Donald J. Trump,7034
+13133,Greene,Donald J. Trump,7068
+13135,Gwinnett,Donald J. Trump,166413
+13137,Habersham,Donald J. Trump,16637
+13139,Hall,Donald J. Trump,64170
+13141,Hancock,Donald J. Trump,1159
+13143,Haralson,Donald J. Trump,12331
+13145,Harris,Donald J. Trump,14319
+13147,Hart,Donald J. Trump,9464
+13149,Heard,Donald J. Trump,4516
+13151,Henry,Donald J. Trump,48187
+13153,Houston,Donald J. Trump,41534
+13155,Irwin,Donald J. Trump,3134
+13157,Jackson,Donald J. Trump,29497
+13159,Jasper,Donald J. Trump,5822
+13161,Jeff Davis,Donald J. Trump,4695
+13163,Jefferson,Donald J. Trump,3537
+13165,Jenkins,Donald J. Trump,2161
+13167,Johnson,Donald J. Trump,2850
+13169,Jones,Donald J. Trump,9965
+13171,Lamar,Donald J. Trump,6330
+13173,Lanier,Donald J. Trump,2509
+13175,Laurens,Donald J. Trump,14493
+13177,Lee,Donald J. Trump,12007
+13179,Liberty,Donald J. Trump,7959
+13181,Lincoln,Donald J. Trump,3179
+13183,Long,Donald J. Trump,3528
+13185,Lowndes,Donald J. Trump,25691
+13187,Lumpkin,Donald J. Trump,12163
+13193,Macon,Donald J. Trump,1783
+13195,Madison,Donald J. Trump,11326
+13197,Marion,Donald J. Trump,2275
+13189,McDuffie,Donald J. Trump,6169
+13191,McIntosh,Donald J. Trump,4016
+13199,Meriwether,Donald J. Trump,6524
+13201,Miller,Donald J. Trump,2066
+13205,Mitchell,Donald J. Trump,4935
+13207,Monroe,Donald J. Trump,11060
+13209,Montgomery,Donald J. Trump,2960
+13211,Morgan,Donald J. Trump,8230
+13213,Murray,Donald J. Trump,12943
+13215,Muscogee,Donald J. Trump,30049
+13217,Newton,Donald J. Trump,23869
+13219,Oconee,Donald J. Trump,16595
+13221,Oglethorpe,Donald J. Trump,5593
+13223,Paulding,Donald J. Trump,54525
+13225,Peach,Donald J. Trump,6502
+13227,Pickens,Donald J. Trump,14075
+13229,Pierce,Donald J. Trump,7899
+13231,Pike,Donald J. Trump,9127
+13233,Polk,Donald J. Trump,13589
+13235,Pulaski,Donald J. Trump,2805
+13237,Putnam,Donald J. Trump,8291
+13239,Quitman,Donald J. Trump,604
+13241,Rabun,Donald J. Trump,7474
+13243,Randolph,Donald J. Trump,1391
+13245,Richmond,Donald J. Trump,26781
+13247,Rockdale,Donald J. Trump,13012
+13249,Schley,Donald J. Trump,1800
+13251,Screven,Donald J. Trump,3916
+13253,Seminole,Donald J. Trump,2611
+13255,Spalding,Donald J. Trump,18057
+13257,Stephens,Donald J. Trump,9368
+13259,Stewart,Donald J. Trump,801
+13261,Sumter,Donald J. Trump,5732
+13263,Talbot,Donald J. Trump,1392
+13265,Taliaferro,Donald J. Trump,360
+13267,Tattnall,Donald J. Trump,6053
+13269,Taylor,Donald J. Trump,2418
+13271,Telfair,Donald J. Trump,2825
+13273,Terrell,Donald J. Trump,2004
+13275,Thomas,Donald J. Trump,12954
+13277,Tift,Donald J. Trump,10784
+13279,Toombs,Donald J. Trump,7872
+13281,Towns,Donald J. Trump,6384
+13283,Treutlen,Donald J. Trump,2101
+13285,Troup,Donald J. Trump,18143
+13287,Turner,Donald J. Trump,2349
+13289,Twiggs,Donald J. Trump,2370
+13291,Union,Donald J. Trump,12651
+13293,Upson,Donald J. Trump,8608
+13295,Walker,Donald J. Trump,23174
+13297,Walton,Donald J. Trump,37842
+13299,Ware,Donald J. Trump,9865
+13301,Warren,Donald J. Trump,1166
+13303,Washington,Donald J. Trump,4663
+13305,Wayne,Donald J. Trump,9987
+13307,Webster,Donald J. Trump,748
+13309,Wheeler,Donald J. Trump,1583
+13311,White,Donald J. Trump,12222
+13313,Whitfield,Donald J. Trump,25636
+13315,Wilcox,Donald J. Trump,2403
+13317,Wilkes,Donald J. Trump,2823
+13319,Wilkinson,Donald J. Trump,2664
+13321,Worth,Donald J. Trump,6830
+13001,Appling,Joseph R. Biden,1779
+13003,Atkinson,Joseph R. Biden,825
+13005,Bacon,Joseph R. Biden,625
+13007,Baker,Joseph R. Biden,652
+13009,Baldwin,Joseph R. Biden,9140
+13011,Banks,Joseph R. Biden,932
+13013,Barrow,Joseph R. Biden,10453
+13015,Bartow,Joseph R. Biden,12092
+13017,Ben Hill,Joseph R. Biden,2392
+13019,Berrien,Joseph R. Biden,1269
+13021,Bibb,Joseph R. Biden,43468
+13023,Bleckley,Joseph R. Biden,1311
+13025,Brantley,Joseph R. Biden,699
+13027,Brooks,Joseph R. Biden,2790
+13029,Bryan,Joseph R. Biden,6739
+13031,Bulloch,Joseph R. Biden,11243
+13033,Burke,Joseph R. Biden,5209
+13035,Butts,Joseph R. Biden,3274
+13037,Calhoun,Joseph R. Biden,1260
+13039,Camden,Joseph R. Biden,7967
+13043,Candler,Joseph R. Biden,1269
+13045,Carroll,Joseph R. Biden,16238
+13047,Catoosa,Joseph R. Biden,6932
+13049,Charlton,Joseph R. Biden,1103
+13051,Chatham,Joseph R. Biden,78254
+13053,Chattahoochee,Joseph R. Biden,667
+13055,Chattooga,Joseph R. Biden,1854
+13057,Cherokee,Joseph R. Biden,42794
+13059,Clarke,Joseph R. Biden,36048
+13061,Clay,Joseph R. Biden,790
+13063,Clayton,Joseph R. Biden,95476
+13065,Clinch,Joseph R. Biden,747
+13067,Cobb,Joseph R. Biden,221846
+13069,Coffee,Joseph R. Biden,4511
+13071,Colquitt,Joseph R. Biden,4187
+13073,Columbia,Joseph R. Biden,29236
+13075,Cook,Joseph R. Biden,2059
+13077,Coweta,Joseph R. Biden,24210
+13079,Crawford,Joseph R. Biden,1615
+13081,Crisp,Joseph R. Biden,2986
+13083,Dade,Joseph R. Biden,1261
+13085,Dawson,Joseph R. Biden,2486
+13087,Decatur,Joseph R. Biden,4780
+13089,DeKalb,Joseph R. Biden,308227
+13091,Dodge,Joseph R. Biden,2171
+13093,Dooly,Joseph R. Biden,1911
+13095,Dougherty,Joseph R. Biden,24577
+13097,Douglas,Joseph R. Biden,42809
+13099,Early,Joseph R. Biden,2437
+13101,Echols,Joseph R. Biden,167
+13103,Effingham,Joseph R. Biden,7720
+13105,Elbert,Joseph R. Biden,2879
+13107,Emanuel,Joseph R. Biden,2884
+13109,Evans,Joseph R. Biden,1324
+13111,Fannin,Joseph R. Biden,2571
+13113,Fayette,Joseph R. Biden,33065
+13115,Floyd,Joseph R. Biden,12008
+13117,Forsyth,Joseph R. Biden,42203
+13119,Franklin,Joseph R. Biden,1593
+13121,Fulton,Joseph R. Biden,381144
+13123,Gilmer,Joseph R. Biden,2932
+13125,Glascock,Joseph R. Biden,155
+13127,Glynn,Joseph R. Biden,15879
+13129,Gordon,Joseph R. Biden,4384
+13131,Grady,Joseph R. Biden,3619
+13133,Greene,Joseph R. Biden,4088
+13135,Gwinnett,Joseph R. Biden,241827
+13137,Habersham,Joseph R. Biden,3563
+13139,Hall,Joseph R. Biden,25031
+13141,Hancock,Joseph R. Biden,2985
+13143,Haralson,Joseph R. Biden,1792
+13145,Harris,Joseph R. Biden,5457
+13147,Hart,Joseph R. Biden,3157
+13149,Heard,Joseph R. Biden,824
+13151,Henry,Joseph R. Biden,73276
+13153,Houston,Joseph R. Biden,32232
+13155,Irwin,Joseph R. Biden,1008
+13157,Jackson,Joseph R. Biden,7642
+13159,Jasper,Joseph R. Biden,1761
+13161,Jeff Davis,Joseph R. Biden,1028
+13163,Jefferson,Joseph R. Biden,4061
+13165,Jenkins,Joseph R. Biden,1266
+13167,Johnson,Joseph R. Biden,1222
+13169,Jones,Joseph R. Biden,4888
+13171,Lamar,Joseph R. Biden,2615
+13173,Lanier,Joseph R. Biden,1019
+13175,Laurens,Joseph R. Biden,8073
+13177,Lee,Joseph R. Biden,4558
+13179,Liberty,Joseph R. Biden,13099
+13181,Lincoln,Joseph R. Biden,1435
+13183,Long,Joseph R. Biden,2033
+13185,Lowndes,Joseph R. Biden,20117
+13187,Lumpkin,Joseph R. Biden,3126
+13193,Macon,Joseph R. Biden,2857
+13195,Madison,Joseph R. Biden,3411
+13197,Marion,Joseph R. Biden,1311
+13189,McDuffie,Joseph R. Biden,4168
+13191,McIntosh,Joseph R. Biden,2612
+13199,Meriwether,Joseph R. Biden,4287
+13201,Miller,Joseph R. Biden,749
+13205,Mitchell,Joseph R. Biden,3995
+13207,Monroe,Joseph R. Biden,4384
+13209,Montgomery,Joseph R. Biden,979
+13211,Morgan,Joseph R. Biden,3355
+13213,Murray,Joseph R. Biden,2302
+13215,Muscogee,Joseph R. Biden,49529
+13217,Newton,Joseph R. Biden,29794
+13219,Oconee,Joseph R. Biden,8162
+13221,Oglethorpe,Joseph R. Biden,2436
+13223,Paulding,Joseph R. Biden,29704
+13225,Peach,Joseph R. Biden,5920
+13227,Pickens,Joseph R. Biden,2808
+13229,Pierce,Joseph R. Biden,1100
+13231,Pike,Joseph R. Biden,1505
+13233,Polk,Joseph R. Biden,3658
+13235,Pulaski,Joseph R. Biden,1217
+13237,Putnam,Joseph R. Biden,3448
+13239,Quitman,Joseph R. Biden,497
+13241,Rabun,Joseph R. Biden,1984
+13243,Randolph,Joseph R. Biden,1671
+13245,Richmond,Joseph R. Biden,59124
+13247,Rockdale,Joseph R. Biden,31244
+13249,Schley,Joseph R. Biden,462
+13251,Screven,Joseph R. Biden,2661
+13253,Seminole,Joseph R. Biden,1254
+13255,Spalding,Joseph R. Biden,11784
+13257,Stephens,Joseph R. Biden,2385
+13259,Stewart,Joseph R. Biden,1182
+13261,Sumter,Joseph R. Biden,6318
+13263,Talbot,Joseph R. Biden,2114
+13265,Taliaferro,Joseph R. Biden,561
+13267,Tattnall,Joseph R. Biden,2061
+13269,Taylor,Joseph R. Biden,1387
+13271,Telfair,Joseph R. Biden,1487
+13273,Terrell,Joseph R. Biden,2376
+13275,Thomas,Joseph R. Biden,8708
+13277,Tift,Joseph R. Biden,5322
+13279,Toombs,Joseph R. Biden,2939
+13281,Towns,Joseph R. Biden,1550
+13283,Treutlen,Joseph R. Biden,952
+13285,Troup,Joseph R. Biden,11578
+13287,Turner,Joseph R. Biden,1410
+13289,Twiggs,Joseph R. Biden,2044
+13291,Union,Joseph R. Biden,2801
+13293,Upson,Joseph R. Biden,4201
+13295,Walker,Joseph R. Biden,5769
+13297,Walton,Joseph R. Biden,12682
+13299,Ware,Joseph R. Biden,4211
+13301,Warren,Joseph R. Biden,1469
+13303,Washington,Joseph R. Biden,4730
+13305,Wayne,Joseph R. Biden,2687
+13307,Webster,Joseph R. Biden,639
+13309,Wheeler,Joseph R. Biden,689
+13311,White,Joseph R. Biden,2411
+13313,Whitfield,Joseph R. Biden,10670
+13315,Wilcox,Joseph R. Biden,862
+13317,Wilkes,Joseph R. Biden,2160
+13319,Wilkinson,Joseph R. Biden,2075
+13321,Worth,Joseph R. Biden,2395
+13001,Appling,Jo Jorgensen,36
+13003,Atkinson,Jo Jorgensen,30
+13005,Bacon,Jo Jorgensen,25
+13007,Baker,Jo Jorgensen,6
+13009,Baldwin,Jo Jorgensen,208
+13011,Banks,Jo Jorgensen,74
+13013,Barrow,Jo Jorgensen,664
+13015,Bartow,Jo Jorgensen,701
+13017,Ben Hill,Jo Jorgensen,58
+13019,Berrien,Jo Jorgensen,55
+13021,Bibb,Jo Jorgensen,749
+13023,Bleckley,Jo Jorgensen,67
+13025,Brantley,Jo Jorgensen,56
+13027,Brooks,Jo Jorgensen,50
+13029,Bryan,Jo Jorgensen,357
+13031,Bulloch,Jo Jorgensen,455
+13033,Burke,Jo Jorgensen,75
+13035,Butts,Jo Jorgensen,91
+13037,Calhoun,Jo Jorgensen,11
+13039,Camden,Jo Jorgensen,470
+13043,Candler,Jo Jorgensen,29
+13045,Carroll,Jo Jorgensen,760
+13047,Catoosa,Jo Jorgensen,494
+13049,Charlton,Jo Jorgensen,44
+13051,Chatham,Jo Jorgensen,1929
+13053,Chattahoochee,Jo Jorgensen,35
+13055,Chattooga,Jo Jorgensen,132
+13057,Cherokee,Jo Jorgensen,2449
+13059,Clarke,Jo Jorgensen,839
+13061,Clay,Jo Jorgensen,7
+13063,Clayton,Jo Jorgensen,1055
+13065,Clinch,Jo Jorgensen,12
+13067,Cobb,Jo Jorgensen,6441
+13069,Coffee,Jo Jorgensen,125
+13071,Colquitt,Jo Jorgensen,119
+13073,Columbia,Jo Jorgensen,1330
+13075,Cook,Jo Jorgensen,76
+13077,Coweta,Jo Jorgensen,1088
+13079,Crawford,Jo Jorgensen,59
+13081,Crisp,Jo Jorgensen,66
+13083,Dade,Jo Jorgensen,107
+13085,Dawson,Jo Jorgensen,197
+13087,Decatur,Jo Jorgensen,89
+13089,DeKalb,Jo Jorgensen,4204
+13091,Dodge,Jo Jorgensen,56
+13093,Dooly,Jo Jorgensen,35
+13095,Dougherty,Jo Jorgensen,280
+13097,Douglas,Jo Jorgensen,837
+13099,Early,Jo Jorgensen,28
+13101,Echols,Jo Jorgensen,18
+13103,Effingham,Jo Jorgensen,492
+13105,Elbert,Jo Jorgensen,66
+13107,Emanuel,Jo Jorgensen,66
+13109,Evans,Jo Jorgensen,35
+13111,Fannin,Jo Jorgensen,110
+13113,Fayette,Jo Jorgensen,976
+13115,Floyd,Jo Jorgensen,517
+13117,Forsyth,Jo Jorgensen,1980
+13119,Franklin,Jo Jorgensen,103
+13121,Fulton,Jo Jorgensen,6275
+13123,Gilmer,Jo Jorgensen,164
+13125,Glascock,Jo Jorgensen,8
+13127,Glynn,Jo Jorgensen,489
+13129,Gordon,Jo Jorgensen,244
+13131,Grady,Jo Jorgensen,54
+13133,Greene,Jo Jorgensen,91
+13135,Gwinnett,Jo Jorgensen,5625
+13137,Habersham,Jo Jorgensen,232
+13139,Hall,Jo Jorgensen,1322
+13141,Hancock,Jo Jorgensen,21
+13143,Haralson,Jo Jorgensen,125
+13145,Harris,Jo Jorgensen,215
+13147,Hart,Jo Jorgensen,106
+13149,Heard,Jo Jorgensen,51
+13151,Henry,Jo Jorgensen,1279
+13153,Houston,Jo Jorgensen,1057
+13155,Irwin,Jo Jorgensen,26
+13157,Jackson,Jo Jorgensen,531
+13159,Jasper,Jo Jorgensen,61
+13161,Jeff Davis,Jo Jorgensen,48
+13163,Jefferson,Jo Jorgensen,44
+13165,Jenkins,Jo Jorgensen,28
+13167,Johnson,Jo Jorgensen,28
+13169,Jones,Jo Jorgensen,113
+13171,Lamar,Jo Jorgensen,94
+13173,Lanier,Jo Jorgensen,48
+13175,Laurens,Jo Jorgensen,163
+13177,Lee,Jo Jorgensen,149
+13179,Liberty,Jo Jorgensen,331
+13181,Lincoln,Jo Jorgensen,36
+13183,Long,Jo Jorgensen,95
+13185,Lowndes,Jo Jorgensen,547
+13187,Lumpkin,Jo Jorgensen,242
+13193,Macon,Jo Jorgensen,22
+13195,Madison,Jo Jorgensen,200
+13197,Marion,Jo Jorgensen,38
+13189,McDuffie,Jo Jorgensen,118
+13191,McIntosh,Jo Jorgensen,68
+13199,Meriwether,Jo Jorgensen,66
+13201,Miller,Jo Jorgensen,20
+13205,Mitchell,Jo Jorgensen,33
+13207,Monroe,Jo Jorgensen,148
+13209,Montgomery,Jo Jorgensen,27
+13211,Morgan,Jo Jorgensen,122
+13213,Murray,Jo Jorgensen,144
+13215,Muscogee,Jo Jorgensen,965
+13217,Newton,Jo Jorgensen,576
+13219,Oconee,Jo Jorgensen,411
+13221,Oglethorpe,Jo Jorgensen,102
+13223,Paulding,Jo Jorgensen,1156
+13225,Peach,Jo Jorgensen,123
+13227,Pickens,Jo Jorgensen,233
+13229,Pierce,Jo Jorgensen,49
+13231,Pike,Jo Jorgensen,88
+13233,Polk,Jo Jorgensen,152
+13235,Pulaski,Jo Jorgensen,37
+13237,Putnam,Jo Jorgensen,116
+13239,Quitman,Jo Jorgensen,5
+13241,Rabun,Jo Jorgensen,110
+13243,Randolph,Jo Jorgensen,12
+13245,Richmond,Jo Jorgensen,1111
+13247,Rockdale,Jo Jorgensen,430
+13249,Schley,Jo Jorgensen,13
+13251,Screven,Jo Jorgensen,51
+13253,Seminole,Jo Jorgensen,19
+13255,Spalding,Jo Jorgensen,275
+13257,Stephens,Jo Jorgensen,132
+13259,Stewart,Jo Jorgensen,7
+13261,Sumter,Jo Jorgensen,100
+13263,Talbot,Jo Jorgensen,16
+13265,Taliaferro,Jo Jorgensen,7
+13267,Tattnall,Jo Jorgensen,69
+13269,Taylor,Jo Jorgensen,34
+13271,Telfair,Jo Jorgensen,21
+13273,Terrell,Jo Jorgensen,36
+13275,Thomas,Jo Jorgensen,191
+13277,Tift,Jo Jorgensen,177
+13279,Toombs,Jo Jorgensen,103
+13281,Towns,Jo Jorgensen,45
+13283,Treutlen,Jo Jorgensen,24
+13285,Troup,Jo Jorgensen,328
+13287,Turner,Jo Jorgensen,33
+13289,Twiggs,Jo Jorgensen,30
+13291,Union,Jo Jorgensen,108
+13293,Upson,Jo Jorgensen,96
+13295,Walker,Jo Jorgensen,411
+13297,Walton,Jo Jorgensen,571
+13299,Ware,Jo Jorgensen,116
+13301,Warren,Jo Jorgensen,16
+13303,Washington,Jo Jorgensen,66
+13305,Wayne,Jo Jorgensen,104
+13307,Webster,Jo Jorgensen,3
+13309,Wheeler,Jo Jorgensen,13
+13311,White,Jo Jorgensen,183
+13313,Whitfield,Jo Jorgensen,440
+13315,Wilcox,Jo Jorgensen,16
+13317,Wilkes,Jo Jorgensen,46
+13319,Wilkinson,Jo Jorgensen,31
+13321,Worth,Jo Jorgensen,60

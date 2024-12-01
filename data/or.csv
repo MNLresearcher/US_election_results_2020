@@ -1,0 +1,217 @@
+fips,county,candidate,votes
+41001,Baker,Donald J. Trump,7352
+41001,Baker,Joseph R. Biden,2346
+41001,Baker,Jo Jorgensen,144
+41001,Baker,Howie Hawkins,33
+41001,Baker,Hunter Dario,16
+41001,Baker,Misc,41
+41003,Benton,Donald J. Trump,14878
+41003,Benton,Joseph R. Biden,35827
+41003,Benton,Jo Jorgensen,1142
+41003,Benton,Howie Hawkins,335
+41003,Benton,Hunter Dario,143
+41003,Benton,Misc,474
+41005,Clackamas,Donald J. Trump,110509
+41005,Clackamas,Joseph R. Biden,139043
+41005,Clackamas,Jo Jorgensen,4736
+41005,Clackamas,Howie Hawkins,1011
+41005,Clackamas,Hunter Dario,429
+41005,Clackamas,Misc,1951
+41007,Clatsop,Donald J. Trump,10218
+41007,Clatsop,Joseph R. Biden,12916
+41007,Clatsop,Jo Jorgensen,437
+41007,Clatsop,Howie Hawkins,130
+41007,Clatsop,Hunter Dario,63
+41007,Clatsop,Misc,146
+41009,Columbia,Donald J. Trump,17150
+41009,Columbia,Joseph R. Biden,13835
+41009,Columbia,Jo Jorgensen,787
+41009,Columbia,Howie Hawkins,158
+41009,Columbia,Hunter Dario,87
+41009,Columbia,Misc,204
+41011,Coos,Donald J. Trump,21829
+41011,Coos,Joseph R. Biden,14243
+41011,Coos,Jo Jorgensen,572
+41011,Coos,Howie Hawkins,171
+41011,Coos,Hunter Dario,81
+41011,Coos,Misc,179
+41013,Crook,Donald J. Trump,11287
+41013,Crook,Joseph R. Biden,3801
+41013,Crook,Jo Jorgensen,231
+41013,Crook,Howie Hawkins,42
+41013,Crook,Hunter Dario,16
+41013,Crook,Misc,71
+41015,Curry,Donald J. Trump,8484
+41015,Curry,Joseph R. Biden,6058
+41015,Curry,Jo Jorgensen,228
+41015,Curry,Howie Hawkins,63
+41015,Curry,Hunter Dario,21
+41015,Curry,Misc,71
+41017,Deschutes,Donald J. Trump,55646
+41017,Deschutes,Joseph R. Biden,65962
+41017,Deschutes,Jo Jorgensen,2097
+41017,Deschutes,Howie Hawkins,422
+41017,Deschutes,Hunter Dario,157
+41017,Deschutes,Misc,950
+41019,Douglas,Donald J. Trump,43298
+41019,Douglas,Joseph R. Biden,19160
+41019,Douglas,Jo Jorgensen,1182
+41019,Douglas,Howie Hawkins,258
+41019,Douglas,Hunter Dario,145
+41019,Douglas,Misc,306
+41021,Gilliam,Donald J. Trump,834
+41021,Gilliam,Joseph R. Biden,324
+41021,Gilliam,Jo Jorgensen,17
+41021,Gilliam,Howie Hawkins,1
+41021,Gilliam,Hunter Dario,0
+41021,Gilliam,Misc,2
+41023,Grant,Donald J. Trump,3545
+41023,Grant,Joseph R. Biden,929
+41023,Grant,Jo Jorgensen,77
+41023,Grant,Howie Hawkins,12
+41023,Grant,Hunter Dario,11
+41023,Grant,Misc,22
+41025,Harney,Donald J. Trump,3475
+41025,Harney,Joseph R. Biden,894
+41025,Harney,Jo Jorgensen,63
+41025,Harney,Howie Hawkins,9
+41025,Harney,Hunter Dario,9
+41025,Harney,Misc,31
+41027,Hood River,Donald J. Trump,3955
+41027,Hood River,Joseph R. Biden,8764
+41027,Hood River,Jo Jorgensen,199
+41027,Hood River,Howie Hawkins,55
+41027,Hood River,Hunter Dario,25
+41027,Hood River,Misc,92
+41029,Jackson,Donald J. Trump,63869
+41029,Jackson,Joseph R. Biden,59478
+41029,Jackson,Jo Jorgensen,2168
+41029,Jackson,Howie Hawkins,637
+41029,Jackson,Hunter Dario,269
+41029,Jackson,Misc,744
+41031,Jefferson,Donald J. Trump,7189
+41031,Jefferson,Joseph R. Biden,4393
+41031,Jefferson,Jo Jorgensen,210
+41031,Jefferson,Howie Hawkins,57
+41031,Jefferson,Hunter Dario,24
+41031,Jefferson,Misc,40
+41033,Josephine,Donald J. Trump,31751
+41033,Josephine,Joseph R. Biden,18451
+41033,Josephine,Jo Jorgensen,795
+41033,Josephine,Howie Hawkins,223
+41033,Josephine,Hunter Dario,120
+41033,Josephine,Misc,301
+41035,Klamath,Donald J. Trump,25308
+41035,Klamath,Joseph R. Biden,10388
+41035,Klamath,Jo Jorgensen,637
+41035,Klamath,Howie Hawkins,146
+41035,Klamath,Hunter Dario,77
+41035,Klamath,Misc,170
+41037,Lake,Donald J. Trump,3470
+41037,Lake,Joseph R. Biden,792
+41037,Lake,Jo Jorgensen,63
+41037,Lake,Howie Hawkins,10
+41037,Lake,Hunter Dario,8
+41037,Lake,Misc,20
+41039,Lane,Donald J. Trump,80336
+41039,Lane,Joseph R. Biden,134366
+41039,Lane,Jo Jorgensen,462
+41039,Lane,Howie Hawkins,214
+41039,Lane,Hunter Dario,65
+41039,Lane,Misc,140
+41041,Lincoln,Donald J. Trump,12460
+41041,Lincoln,Joseph R. Biden,17385
+41041,Lincoln,Jo Jorgensen,462
+41041,Lincoln,Howie Hawkins,214
+41041,Lincoln,Hunter Dario,65
+41041,Lincoln,Misc,140
+41043,Linn,Donald J. Trump,43486
+41043,Linn,Joseph R. Biden,26512
+41043,Linn,Jo Jorgensen,1594
+41043,Linn,Howie Hawkins,403
+41043,Linn,Hunter Dario,149
+41043,Linn,Misc,496
+41045,Malheur,Donald J. Trump,8187
+41045,Malheur,Joseph R. Biden,3260
+41045,Malheur,Jo Jorgensen,221
+41045,Malheur,Howie Hawkins,56
+41045,Malheur,Hunter Dario,29
+41045,Malheur,Misc,51
+41047,Marion,Donald J. Trump,79002
+41047,Marion,Joseph R. Biden,80872
+41047,Marion,Jo Jorgensen,3272
+41047,Marion,Howie Hawkins,844
+41047,Marion,Hunter Dario,318
+41047,Marion,Misc,1226
+41049,Morrow,Donald J. Trump,3586
+41049,Morrow,Joseph R. Biden,1371
+41049,Morrow,Jo Jorgensen,126
+41049,Morrow,Howie Hawkins,13
+41049,Morrow,Hunter Dario,5
+41049,Morrow,Misc,17
+41051,Multnomah,Donald J. Trump,82995
+41051,Multnomah,Joseph R. Biden,367249
+41051,Multnomah,Jo Jorgensen,5726
+41051,Multnomah,Howie Hawkins,2974
+41051,Multnomah,Hunter Dario,1144
+41051,Multnomah,Misc,3571
+41053,Polk,Donald J. Trump,23732
+41053,Polk,Joseph R. Biden,22917
+41053,Polk,Jo Jorgensen,981
+41053,Polk,Howie Hawkins,212
+41053,Polk,Hunter Dario,90
+41053,Polk,Misc,359
+41055,Sherman,Donald J. Trump,921
+41055,Sherman,Joseph R. Biden,260
+41055,Sherman,Jo Jorgensen,24
+41055,Sherman,Howie Hawkins,1
+41055,Sherman,Hunter Dario,1
+41055,Sherman,Misc,1
+41057,Tillamook,Donald J. Trump,8354
+41057,Tillamook,Joseph R. Biden,8066
+41057,Tillamook,Jo Jorgensen,261
+41057,Tillamook,Howie Hawkins,89
+41057,Tillamook,Hunter Dario,32
+41057,Tillamook,Misc,86
+41059,Umatilla,Donald J. Trump,21270
+41059,Umatilla,Joseph R. Biden,10707
+41059,Umatilla,Jo Jorgensen,740
+41059,Umatilla,Howie Hawkins,90
+41059,Umatilla,Hunter Dario,54
+41059,Umatilla,Misc,177
+41061,Union,Donald J. Trump,10298
+41061,Union,Joseph R. Biden,4254
+41061,Union,Jo Jorgensen,241
+41061,Union,Howie Hawkins,46
+41061,Union,Hunter Dario,31
+41061,Union,Misc,74
+41063,Wallowa,Donald J. Trump,3404
+41063,Wallowa,Joseph R. Biden,1625
+41063,Wallowa,Jo Jorgensen,76
+41063,Wallowa,Howie Hawkins,10
+41063,Wallowa,Hunter Dario,16
+41063,Wallowa,Misc,18
+41065,Wasco,Donald J. Trump,7035
+41065,Wasco,Joseph R. Biden,6604
+41065,Wasco,Jo Jorgensen,296
+41065,Wasco,Howie Hawkins,75
+41065,Wasco,Hunter Dario,27
+41065,Wasco,Misc,93
+41067,Washington,Donald J. Trump,99073
+41067,Washington,Joseph R. Biden,209940
+41067,Washington,Jo Jorgensen,6398
+41067,Washington,Howie Hawkins,1426
+41067,Washington,Hunter Dario,633
+41067,Washington,Misc,2856
+41069,Wheeler,Donald J. Trump,711
+41069,Wheeler,Joseph R. Biden,217
+41069,Wheeler,Jo Jorgensen,25
+41069,Wheeler,Howie Hawkins,2
+41069,Wheeler,Hunter Dario,5
+41069,Wheeler,Misc,5
+41071,Yamhill,Donald J. Trump,29551
+41071,Yamhill,Joseph R. Biden,27174
+41071,Yamhill,Jo Jorgensen,1448
+41071,Yamhill,Howie Hawkins,254
+41071,Yamhill,Hunter Dario,119
+41071,Yamhill,Misc,377
