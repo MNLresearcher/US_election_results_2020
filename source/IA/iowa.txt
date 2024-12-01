@@ -1,0 +1,1189 @@
+fips,county,candidate,votes
+,Adair,Donald J. Trump,2917
+,Adair,Joseph R. Biden,1198
+,Adair,Rocky De La Fuente,6
+,Adair,Don Blankenship,4
+,Adair,Ricki Sue King,0
+,Adair,Howie Hawkins,4
+,Adair,Jo Jorgensen,35
+,Adair,Brock Pierce,1
+,Adair,Kanye West,7
+,Adair,Write-in,5
+,Adair,Undervotes,22
+,Adair,Overvotes,6
+,Adams,Donald J. Trump,1530
+,Adams,Joseph R. Biden,590
+,Adams,Rocky De La Fuente,2
+,Adams,Don Blankenship,3
+,Adams,Ricki Sue King,0
+,Adams,Howie Hawkins,1
+,Adams,Jo Jorgensen,27
+,Adams,Brock Pierce,0
+,Adams,Kanye West,2
+,Adams,Write-in,5
+,Adams,Undervotes,13
+,Adams,Overvotes,1
+,Allamakee,Donald J. Trump,4735
+,Allamakee,Joseph R. Biden,2576
+,Allamakee,Rocky De La Fuente,4
+,Allamakee,Don Blankenship,12
+,Allamakee,Ricki Sue King,1
+,Allamakee,Howie Hawkins,4
+,Allamakee,Jo Jorgensen,71
+,Allamakee,Brock Pierce,5
+,Allamakee,Kanye West,5
+,Allamakee,Write-in,9
+,Allamakee,Undervotes,40
+,Allamakee,Overvotes,17
+,Appanoose,Donald J. Trump,4512
+,Appanoose,Joseph R. Biden,1891
+,Appanoose,Rocky De La Fuente,2
+,Appanoose,Don Blankenship,5
+,Appanoose,Ricki Sue King,5
+,Appanoose,Howie Hawkins,9
+,Appanoose,Jo Jorgensen,72
+,Appanoose,Brock Pierce,4
+,Appanoose,Kanye West,6
+,Appanoose,Write-in,10
+,Appanoose,Undervotes,18
+,Appanoose,Overvotes,19
+,Audubon,Donald J. Trump,2295
+,Audubon,Joseph R. Biden,1071
+,Audubon,Rocky De La Fuente,1
+,Audubon,Don Blankenship,5
+,Audubon,Ricki Sue King,0
+,Audubon,Howie Hawkins,7
+,Audubon,Jo Jorgensen,32
+,Audubon,Brock Pierce,3
+,Audubon,Kanye West,2
+,Audubon,Write-in,4
+,Audubon,Undervotes,27
+,Audubon,Overvotes,8
+,Benton,Donald J. Trump,9188
+,Benton,Joseph R. Biden,5160
+,Benton,Rocky De La Fuente,13
+,Benton,Don Blankenship,21
+,Benton,Ricki Sue King,3
+,Benton,Howie Hawkins,29
+,Benton,Jo Jorgensen,186
+,Benton,Brock Pierce,3
+,Benton,Kanye West,19
+,Benton,Write-in,20
+,Benton,Undervotes,77
+,Benton,Overvotes,17
+,Black Hawk,Donald J. Trump,29640
+,Black Hawk,Joseph R. Biden,35647
+,Black Hawk,Rocky De La Fuente,54
+,Black Hawk,Don Blankenship,67
+,Black Hawk,Ricki Sue King,20
+,Black Hawk,Howie Hawkins,103
+,Black Hawk,Jo Jorgensen,722
+,Black Hawk,Brock Pierce,21
+,Black Hawk,Kanye West,146
+,Black Hawk,Write-in,173
+,Black Hawk,Undervotes,262
+,Black Hawk,Overvotes,115
+,Boone,Donald J. Trump,8695
+,Boone,Joseph R. Biden,6303
+,Boone,Rocky De La Fuente,15
+,Boone,Don Blankenship,19
+,Boone,Ricki Sue King,7
+,Boone,Howie Hawkins,24
+,Boone,Jo Jorgensen,198
+,Boone,Brock Pierce,11
+,Boone,Kanye West,34
+,Boone,Write-in,34
+,Boone,Undervotes,63
+,Boone,Overvotes,20
+,Bremer,Donald J. Trump,8294
+,Bremer,Joseph R. Biden,5958
+,Bremer,Rocky De La Fuente,8
+,Bremer,Don Blankenship,19
+,Bremer,Ricki Sue King,4
+,Bremer,Howie Hawkins,24
+,Bremer,Jo Jorgensen,185
+,Bremer,Brock Pierce,4
+,Bremer,Kanye West,20
+,Bremer,Write-in,30
+,Bremer,Undervotes,59
+,Bremer,Overvotes,22
+,Buchanan,Donald J. Trump,6420
+,Buchanan,Joseph R. Biden,4169
+,Buchanan,Rocky De La Fuente,14
+,Buchanan,Don Blankenship,19
+,Buchanan,Ricki Sue King,4
+,Buchanan,Howie Hawkins,20
+,Buchanan,Jo Jorgensen,96
+,Buchanan,Brock Pierce,0
+,Buchanan,Kanye West,22
+,Buchanan,Write-in,10
+,Buchanan,Undervotes,90
+,Buchanan,Overvotes,15
+,Buena Vista,Donald J. Trump,5056
+,Buena Vista,Joseph R. Biden,2961
+,Buena Vista,Rocky De La Fuente,15
+,Buena Vista,Don Blankenship,15
+,Buena Vista,Ricki Sue King,3
+,Buena Vista,Howie Hawkins,10
+,Buena Vista,Jo Jorgensen,66
+,Buena Vista,Brock Pierce,3
+,Buena Vista,Kanye West,20
+,Buena Vista,Write-in,18
+,Buena Vista,Undervotes,60
+,Buena Vista,Overvotes,39
+,Butler,Donald J. Trump,5542
+,Butler,Joseph R. Biden,2424
+,Butler,Rocky De La Fuente,4
+,Butler,Don Blankenship,8
+,Butler,Ricki Sue King,3
+,Butler,Howie Hawkins,14
+,Butler,Jo Jorgensen,68
+,Butler,Brock Pierce,8
+,Butler,Kanye West,13
+,Butler,Write-in,14
+,Butler,Undervotes,28
+,Butler,Overvotes,10
+,Calhoun,Donald J. Trump,3689
+,Calhoun,Joseph R. Biden,1470
+,Calhoun,Rocky De La Fuente,5
+,Calhoun,Don Blankenship,8
+,Calhoun,Ricki Sue King,3
+,Calhoun,Howie Hawkins,3
+,Calhoun,Jo Jorgensen,59
+,Calhoun,Brock Pierce,2
+,Calhoun,Kanye West,10
+,Calhoun,Write-in,9
+,Calhoun,Undervotes,21
+,Calhoun,Overvotes,7
+,Carroll,Donald J. Trump,7737
+,Carroll,Joseph R. Biden,3454
+,Carroll,Rocky De La Fuente,9
+,Carroll,Don Blankenship,8
+,Carroll,Ricki Sue King,2
+,Carroll,Howie Hawkins,13
+,Carroll,Jo Jorgensen,68
+,Carroll,Brock Pierce,0
+,Carroll,Kanye West,15
+,Carroll,Write-in,29
+,Carroll,Undervotes,73
+,Carroll,Overvotes,13
+,Cass,Donald J. Trump,4969
+,Cass,Joseph R. Biden,2201
+,Cass,Rocky De La Fuente,3
+,Cass,Don Blankenship,10
+,Cass,Ricki Sue King,1
+,Cass,Howie Hawkins,8
+,Cass,Jo Jorgensen,61
+,Cass,Brock Pierce,1
+,Cass,Kanye West,12
+,Cass,Write-in,10
+,Cass,Undervotes,41
+,Cass,Overvotes,23
+,Cedar,Donald J. Trump,6161
+,Cedar,Joseph R. Biden,4337
+,Cedar,Rocky De La Fuente,6
+,Cedar,Don Blankenship,14
+,Cedar,Ricki Sue King,3
+,Cedar,Howie Hawkins,22
+,Cedar,Jo Jorgensen,124
+,Cedar,Brock Pierce,1
+,Cedar,Kanye West,12
+,Cedar,Write-in,23
+,Cedar,Undervotes,46
+,Cedar,Overvotes,13
+,Cerro Gordo,Donald J. Trump,12442
+,Cerro Gordo,Joseph R. Biden,10941
+,Cerro Gordo,Rocky De La Fuente,36
+,Cerro Gordo,Don Blankenship,25
+,Cerro Gordo,Ricki Sue King,5
+,Cerro Gordo,Howie Hawkins,42
+,Cerro Gordo,Jo Jorgensen,196
+,Cerro Gordo,Brock Pierce,9
+,Cerro Gordo,Kanye West,48
+,Cerro Gordo,Write-in,57
+,Cerro Gordo,Undervotes,72
+,Cerro Gordo,Overvotes,54
+,Cherokee,Donald J. Trump,4495
+,Cherokee,Joseph R. Biden,1936
+,Cherokee,Rocky De La Fuente,6
+,Cherokee,Don Blankenship,6
+,Cherokee,Ricki Sue King,0
+,Cherokee,Howie Hawkins,3
+,Cherokee,Jo Jorgensen,48
+,Cherokee,Brock Pierce,1
+,Cherokee,Kanye West,8
+,Cherokee,Write-in,15
+,Cherokee,Undervotes,17
+,Cherokee,Overvotes,7
+,Chickasaw,Donald J. Trump,4308
+,Chickasaw,Joseph R. Biden,2233
+,Chickasaw,Rocky De La Fuente,6
+,Chickasaw,Don Blankenship,6
+,Chickasaw,Ricki Sue King,4
+,Chickasaw,Howie Hawkins,10
+,Chickasaw,Jo Jorgensen,47
+,Chickasaw,Brock Pierce,1
+,Chickasaw,Kanye West,2
+,Chickasaw,Write-in,14
+,Chickasaw,Undervotes,32
+,Chickasaw,Overvotes,13
+,Clarke,Donald J. Trump,3144
+,Clarke,Joseph R. Biden,1466
+,Clarke,Rocky De La Fuente,1
+,Clarke,Don Blankenship,3
+,Clarke,Ricki Sue King,1
+,Clarke,Howie Hawkins,3
+,Clarke,Jo Jorgensen,34
+,Clarke,Brock Pierce,1
+,Clarke,Kanye West,8
+,Clarke,Write-in,9
+,Clarke,Undervotes,23
+,Clarke,Overvotes,5
+,Clay,Donald J. Trump,6137
+,Clay,Joseph R. Biden,2662
+,Clay,Rocky De La Fuente,5
+,Clay,Don Blankenship,11
+,Clay,Ricki Sue King,2
+,Clay,Howie Hawkins,8
+,Clay,Jo Jorgensen,101
+,Clay,Brock Pierce,3
+,Clay,Kanye West,19
+,Clay,Write-in,21
+,Clay,Undervotes,33
+,Clay,Overvotes,11
+,Clayton,Donald J. Trump,6106
+,Clayton,Joseph R. Biden,3340
+,Clayton,Rocky De La Fuente,5
+,Clayton,Don Blankenship,10
+,Clayton,Ricki Sue King,5
+,Clayton,Howie Hawkins,18
+,Clayton,Jo Jorgensen,82
+,Clayton,Brock Pierce,1
+,Clayton,Kanye West,14
+,Clayton,Write-in,13
+,Clayton,Undervotes,35
+,Clayton,Overvotes,9
+,Clinton,Donald J. Trump,13361
+,Clinton,Joseph R. Biden,10812
+,Clinton,Rocky De La Fuente,6
+,Clinton,Don Blankenship,36
+,Clinton,Ricki Sue King,9
+,Clinton,Howie Hawkins,47
+,Clinton,Jo Jorgensen,314
+,Clinton,Brock Pierce,6
+,Clinton,Kanye West,47
+,Clinton,Write-in,49
+,Clinton,Undervotes,90
+,Clinton,Overvotes,34
+,Crawford,Donald J. Trump,4854
+,Crawford,Joseph R. Biden,2220
+,Crawford,Rocky De La Fuente,2
+,Crawford,Don Blankenship,6
+,Crawford,Ricki Sue King,4
+,Crawford,Howie Hawkins,8
+,Crawford,Jo Jorgensen,42
+,Crawford,Brock Pierce,1
+,Crawford,Kanye West,9
+,Crawford,Write-in,8
+,Crawford,Undervotes,58
+,Crawford,Overvotes,12
+,Dallas,Donald J. Trump,27987
+,Dallas,Joseph R. Biden,26879
+,Dallas,Rocky De La Fuente,38
+,Dallas,Don Blankenship,27
+,Dallas,Ricki Sue King,19
+,Dallas,Howie Hawkins,57
+,Dallas,Jo Jorgensen,744
+,Dallas,Brock Pierce,9
+,Dallas,Kanye West,87
+,Dallas,Write-in,175
+,Dallas,Undervotes,191
+,Dallas,Overvotes,55
+,Davis,Donald J. Trump,3032
+,Davis,Joseph R. Biden,1013
+,Davis,Rocky De La Fuente,2
+,Davis,Don Blankenship,4
+,Davis,Ricki Sue King,4
+,Davis,Howie Hawkins,5
+,Davis,Jo Jorgensen,30
+,Davis,Brock Pierce,1
+,Davis,Kanye West,8
+,Davis,Write-in,3
+,Davis,Undervotes,23
+,Davis,Overvotes,8
+,Decatur,Donald J. Trump,2615
+,Decatur,Joseph R. Biden,1120
+,Decatur,Rocky De La Fuente,6
+,Decatur,Don Blankenship,3
+,Decatur,Ricki Sue King,3
+,Decatur,Howie Hawkins,11
+,Decatur,Jo Jorgensen,29
+,Decatur,Brock Pierce,3
+,Decatur,Kanye West,11
+,Decatur,Write-in,3
+,Decatur,Undervotes,15
+,Decatur,Overvotes,8
+,Delaware,Donald J. Trump,6666
+,Delaware,Joseph R. Biden,3157
+,Delaware,Rocky De La Fuente,7
+,Delaware,Don Blankenship,17
+,Delaware,Ricki Sue King,7
+,Delaware,Howie Hawkins,15
+,Delaware,Jo Jorgensen,87
+,Delaware,Brock Pierce,8
+,Delaware,Kanye West,17
+,Delaware,Write-in,22
+,Delaware,Undervotes,47
+,Delaware,Overvotes,18
+,Des Moines,Donald J. Trump,10592
+,Des Moines,Joseph R. Biden,8893
+,Des Moines,Rocky De La Fuente,14
+,Des Moines,Don Blankenship,16
+,Des Moines,Ricki Sue King,8
+,Des Moines,Howie Hawkins,52
+,Des Moines,Jo Jorgensen,275
+,Des Moines,Brock Pierce,12
+,Des Moines,Kanye West,44
+,Des Moines,Write-in,50
+,Des Moines,Undervotes,89
+,Des Moines,Overvotes,37
+,Dickinson,Donald J. Trump,7438
+,Dickinson,Joseph R. Biden,3661
+,Dickinson,Rocky De La Fuente,7
+,Dickinson,Don Blankenship,8
+,Dickinson,Ricki Sue King,8
+,Dickinson,Howie Hawkins,8
+,Dickinson,Jo Jorgensen,92
+,Dickinson,Brock Pierce,2
+,Dickinson,Kanye West,6
+,Dickinson,Write-in,14
+,Dickinson,Undervotes,41
+,Dickinson,Overvotes,21
+,Dubuque,Donald J. Trump,27214
+,Dubuque,Joseph R. Biden,25657
+,Dubuque,Rocky De La Fuente,30
+,Dubuque,Don Blankenship,58
+,Dubuque,Ricki Sue King,13
+,Dubuque,Howie Hawkins,125
+,Dubuque,Jo Jorgensen,556
+,Dubuque,Brock Pierce,14
+,Dubuque,Kanye West,115
+,Dubuque,Write-in,144
+,Dubuque,Undervotes,217
+,Dubuque,Overvotes,42
+,Emmet,Donald J. Trump,3265
+,Emmet,Joseph R. Biden,1520
+,Emmet,Rocky De La Fuente,3
+,Emmet,Don Blankenship,5
+,Emmet,Ricki Sue King,1
+,Emmet,Howie Hawkins,12
+,Emmet,Jo Jorgensen,36
+,Emmet,Brock Pierce,2
+,Emmet,Kanye West,6
+,Emmet,Write-in,3
+,Emmet,Undervotes,23
+,Emmet,Overvotes,9
+,Fayette,Donald J. Trump,6145
+,Fayette,Joseph R. Biden,3835
+,Fayette,Rocky De La Fuente,10
+,Fayette,Don Blankenship,16
+,Fayette,Ricki Sue King,5
+,Fayette,Howie Hawkins,27
+,Fayette,Jo Jorgensen,102
+,Fayette,Brock Pierce,1
+,Fayette,Kanye West,16
+,Fayette,Write-in,29
+,Fayette,Undervotes,47
+,Fayette,Overvotes,16
+,Floyd,Donald J. Trump,4732
+,Floyd,Joseph R. Biden,3172
+,Floyd,Rocky De La Fuente,7
+,Floyd,Don Blankenship,12
+,Floyd,Ricki Sue King,3
+,Floyd,Howie Hawkins,10
+,Floyd,Jo Jorgensen,63
+,Floyd,Brock Pierce,6
+,Floyd,Kanye West,12
+,Floyd,Write-in,15
+,Floyd,Undervotes,43
+,Floyd,Overvotes,6
+,Franklin,Donald J. Trump,3422
+,Franklin,Joseph R. Biden,1626
+,Franklin,Rocky De La Fuente,8
+,Franklin,Don Blankenship,6
+,Franklin,Ricki Sue King,3
+,Franklin,Howie Hawkins,5
+,Franklin,Jo Jorgensen,45
+,Franklin,Brock Pierce,1
+,Franklin,Kanye West,3
+,Franklin,Write-in,11
+,Franklin,Undervotes,37
+,Franklin,Overvotes,11
+,Fremont,Donald J. Trump,2711
+,Fremont,Joseph R. Biden,1080
+,Fremont,Rocky De La Fuente,0
+,Fremont,Don Blankenship,5
+,Fremont,Ricki Sue King,2
+,Fremont,Howie Hawkins,6
+,Fremont,Jo Jorgensen,37
+,Fremont,Brock Pierce,0
+,Fremont,Kanye West,10
+,Fremont,Write-in,6
+,Fremont,Undervotes,27
+,Fremont,Overvotes,5
+,Greene,Donald J. Trump,3223
+,Greene,Joseph R. Biden,1769
+,Greene,Rocky De La Fuente,4
+,Greene,Don Blankenship,5
+,Greene,Ricki Sue King,4
+,Greene,Howie Hawkins,4
+,Greene,Jo Jorgensen,36
+,Greene,Brock Pierce,1
+,Greene,Kanye West,5
+,Greene,Write-in,6
+,Greene,Undervotes,20
+,Greene,Overvotes,7
+,Grundy,Donald J. Trump,4929
+,Grundy,Joseph R. Biden,2206
+,Grundy,Rocky De La Fuente,0
+,Grundy,Don Blankenship,7
+,Grundy,Ricki Sue King,2
+,Grundy,Howie Hawkins,12
+,Grundy,Jo Jorgensen,87
+,Grundy,Brock Pierce,10
+,Grundy,Kanye West,7
+,Grundy,Write-in,16
+,Grundy,Undervotes,32
+,Grundy,Overvotes,5
+,Guthrie,Donald J. Trump,4272
+,Guthrie,Joseph R. Biden,1985
+,Guthrie,Rocky De La Fuente,1
+,Guthrie,Don Blankenship,6
+,Guthrie,Ricki Sue King,0
+,Guthrie,Howie Hawkins,7
+,Guthrie,Jo Jorgensen,79
+,Guthrie,Brock Pierce,1
+,Guthrie,Kanye West,12
+,Guthrie,Write-in,8
+,Guthrie,Undervotes,22
+,Guthrie,Overvotes,7
+,Hamilton,Donald J. Trump,4956
+,Hamilton,Joseph R. Biden,2843
+,Hamilton,Rocky De La Fuente,7
+,Hamilton,Don Blankenship,6
+,Hamilton,Ricki Sue King,5
+,Hamilton,Howie Hawkins,7
+,Hamilton,Jo Jorgensen,71
+,Hamilton,Brock Pierce,11
+,Hamilton,Kanye West,11
+,Hamilton,Write-in,26
+,Hamilton,Undervotes,27
+,Hamilton,Overvotes,10
+,Hancock,Donald J. Trump,4390
+,Hancock,Joseph R. Biden,1683
+,Hancock,Rocky De La Fuente,8
+,Hancock,Don Blankenship,9
+,Hancock,Ricki Sue King,4
+,Hancock,Howie Hawkins,7
+,Hancock,Jo Jorgensen,49
+,Hancock,Brock Pierce,0
+,Hancock,Kanye West,11
+,Hancock,Write-in,11
+,Hancock,Undervotes,24
+,Hancock,Overvotes,12
+,Hardin,Donald J. Trump,5850
+,Hardin,Joseph R. Biden,2976
+,Hardin,Rocky De La Fuente,5
+,Hardin,Don Blankenship,10
+,Hardin,Ricki Sue King,3
+,Hardin,Howie Hawkins,11
+,Hardin,Jo Jorgensen,105
+,Hardin,Brock Pierce,3
+,Hardin,Kanye West,12
+,Hardin,Write-in,14
+,Hardin,Undervotes,30
+,Hardin,Overvotes,10
+,Harrison,Donald J. Trump,5569
+,Harrison,Joseph R. Biden,2440
+,Harrison,Rocky De La Fuente,6
+,Harrison,Don Blankenship,10
+,Harrison,Ricki Sue King,5
+,Harrison,Howie Hawkins,9
+,Harrison,Jo Jorgensen,85
+,Harrison,Brock Pierce,1
+,Harrison,Kanye West,19
+,Harrison,Write-in,11
+,Harrison,Undervotes,27
+,Harrison,Overvotes,10
+,Henry,Donald J. Trump,6507
+,Henry,Joseph R. Biden,3275
+,Henry,Rocky De La Fuente,7
+,Henry,Don Blankenship,8
+,Henry,Ricki Sue King,8
+,Henry,Howie Hawkins,15
+,Henry,Jo Jorgensen,128
+,Henry,Brock Pierce,3
+,Henry,Kanye West,13
+,Henry,Write-in,18
+,Henry,Undervotes,49
+,Henry,Overvotes,12
+,Howard,Donald J. Trump,3127
+,Howard,Joseph R. Biden,1772
+,Howard,Rocky De La Fuente,1
+,Howard,Don Blankenship,6
+,Howard,Ricki Sue King,2
+,Howard,Howie Hawkins,10
+,Howard,Jo Jorgensen,23
+,Howard,Brock Pierce,0
+,Howard,Kanye West,11
+,Howard,Write-in,6
+,Howard,Undervotes,29
+,Howard,Overvotes,9
+,Humboldt,Donald J. Trump,3819
+,Humboldt,Joseph R. Biden,1442
+,Humboldt,Rocky De La Fuente,3
+,Humboldt,Don Blankenship,6
+,Humboldt,Ricki Sue King,1
+,Humboldt,Howie Hawkins,4
+,Humboldt,Jo Jorgensen,39
+,Humboldt,Brock Pierce,0
+,Humboldt,Kanye West,7
+,Humboldt,Write-in,6
+,Humboldt,Undervotes,21
+,Humboldt,Overvotes,5
+,Ida,Donald J. Trump,2880
+,Ida,Joseph R. Biden,917
+,Ida,Rocky De La Fuente,0
+,Ida,Don Blankenship,10
+,Ida,Ricki Sue King,0
+,Ida,Howie Hawkins,6
+,Ida,Jo Jorgensen,27
+,Ida,Brock Pierce,1
+,Ida,Kanye West,3
+,Ida,Write-in,5
+,Ida,Undervotes,17
+,Ida,Overvotes,4
+,Iowa,Donald J. Trump,6009
+,Iowa,Joseph R. Biden,3547
+,Iowa,Rocky De La Fuente,9
+,Iowa,Don Blankenship,11
+,Iowa,Ricki Sue King,1
+,Iowa,Howie Hawkins,15
+,Iowa,Jo Jorgensen,102
+,Iowa,Brock Pierce,3
+,Iowa,Kanye West,19
+,Iowa,Write-in,26
+,Iowa,Undervotes,57
+,Iowa,Overvotes,9
+,Jackson,Donald J. Trump,6940
+,Jackson,Joseph R. Biden,4029
+,Jackson,Rocky De La Fuente,12
+,Jackson,Don Blankenship,9
+,Jackson,Ricki Sue King,6
+,Jackson,Howie Hawkins,13
+,Jackson,Jo Jorgensen,79
+,Jackson,Brock Pierce,4
+,Jackson,Kanye West,26
+,Jackson,Write-in,17
+,Jackson,Undervotes,73
+,Jackson,Overvotes,19
+,Jasper,Donald J. Trump,12084
+,Jasper,Joseph R. Biden,7737
+,Jasper,Rocky De La Fuente,11
+,Jasper,Don Blankenship,29
+,Jasper,Ricki Sue King,7
+,Jasper,Howie Hawkins,30
+,Jasper,Jo Jorgensen,207
+,Jasper,Brock Pierce,7
+,Jasper,Kanye West,31
+,Jasper,Write-in,41
+,Jasper,Undervotes,81
+,Jasper,Overvotes,24
+,Jefferson,Donald J. Trump,4443
+,Jefferson,Joseph R. Biden,4319
+,Jefferson,Rocky De La Fuente,5
+,Jefferson,Don Blankenship,7
+,Jefferson,Ricki Sue King,1
+,Jefferson,Howie Hawkins,32
+,Jefferson,Jo Jorgensen,95
+,Jefferson,Brock Pierce,4
+,Jefferson,Kanye West,20
+,Jefferson,Write-in,33
+,Jefferson,Undervotes,36
+,Jefferson,Overvotes,14
+,Johnson,Donald J. Trump,22925
+,Johnson,Joseph R. Biden,59177
+,Johnson,Rocky De La Fuente,22
+,Johnson,Don Blankenship,62
+,Johnson,Ricki Sue King,19
+,Johnson,Howie Hawkins,213
+,Johnson,Jo Jorgensen,964
+,Johnson,Brock Pierce,18
+,Johnson,Kanye West,170
+,Johnson,Write-in,281
+,Johnson,Undervotes,254
+,Johnson,Overvotes,93
+,Jones,Donald J. Trump,6572
+,Jones,Joseph R. Biden,4213
+,Jones,Rocky De La Fuente,7
+,Jones,Don Blankenship,12
+,Jones,Ricki Sue King,5
+,Jones,Howie Hawkins,15
+,Jones,Jo Jorgensen,118
+,Jones,Brock Pierce,3
+,Jones,Kanye West,20
+,Jones,Write-in,24
+,Jones,Undervotes,60
+,Jones,Overvotes,9
+,Keokuk,Donald J. Trump,3797
+,Keokuk,Joseph R. Biden,1414
+,Keokuk,Rocky De La Fuente,7
+,Keokuk,Don Blankenship,10
+,Keokuk,Ricki Sue King,2
+,Keokuk,Howie Hawkins,2
+,Keokuk,Jo Jorgensen,51
+,Keokuk,Brock Pierce,2
+,Keokuk,Kanye West,6
+,Keokuk,Write-in,12
+,Keokuk,Undervotes,31
+,Keokuk,Overvotes,4
+,Kossuth,Donald J. Trump,6275
+,Kossuth,Joseph R. Biden,2696
+,Kossuth,Rocky De La Fuente,4
+,Kossuth,Don Blankenship,10
+,Kossuth,Ricki Sue King,2
+,Kossuth,Howie Hawkins,10
+,Kossuth,Jo Jorgensen,61
+,Kossuth,Brock Pierce,4
+,Kossuth,Kanye West,15
+,Kossuth,Write-in,13
+,Kossuth,Undervotes,40
+,Kossuth,Overvotes,9
+,Lee,Donald J. Trump,9773
+,Lee,Joseph R. Biden,6541
+,Lee,Rocky De La Fuente,8
+,Lee,Don Blankenship,31
+,Lee,Ricki Sue King,9
+,Lee,Howie Hawkins,34
+,Lee,Jo Jorgensen,240
+,Lee,Brock Pierce,25
+,Lee,Kanye West,38
+,Lee,Write-in,35
+,Lee,Undervotes,63
+,Lee,Overvotes,32
+,Linn,Donald J. Trump,53364
+,Linn,Joseph R. Biden,70874
+,Linn,Rocky De La Fuente,48
+,Linn,Don Blankenship,117
+,Linn,Ricki Sue King,34
+,Linn,Howie Hawkins,325
+,Linn,Jo Jorgensen,2015
+,Linn,Brock Pierce,36
+,Linn,Kanye West,265
+,Linn,Write-in,380
+,Linn,Undervotes,429
+,Linn,Overvotes,149
+,Louisa,Donald J. Trump,3500
+,Louisa,Joseph R. Biden,1726
+,Louisa,Rocky De La Fuente,3
+,Louisa,Don Blankenship,5
+,Louisa,Ricki Sue King,3
+,Louisa,Howie Hawkins,5
+,Louisa,Jo Jorgensen,67
+,Louisa,Brock Pierce,5
+,Louisa,Kanye West,12
+,Louisa,Write-in,6
+,Louisa,Undervotes,21
+,Louisa,Overvotes,19
+,Lucas,Donald J. Trump,3287
+,Lucas,Joseph R. Biden,1284
+,Lucas,Rocky De La Fuente,1
+,Lucas,Don Blankenship,5
+,Lucas,Ricki Sue King,3
+,Lucas,Howie Hawkins,6
+,Lucas,Jo Jorgensen,30
+,Lucas,Brock Pierce,2
+,Lucas,Kanye West,4
+,Lucas,Write-in,8
+,Lucas,Undervotes,11
+,Lucas,Overvotes,7
+,Lyon,Donald J. Trump,5707
+,Lyon,Joseph R. Biden,1067
+,Lyon,Rocky De La Fuente,1
+,Lyon,Don Blankenship,4
+,Lyon,Ricki Sue King,0
+,Lyon,Howie Hawkins,6
+,Lyon,Jo Jorgensen,56
+,Lyon,Brock Pierce,0
+,Lyon,Kanye West,11
+,Lyon,Write-in,11
+,Lyon,Undervotes,52
+,Lyon,Overvotes,9
+,Madison,Donald J. Trump,6507
+,Madison,Joseph R. Biden,3134
+,Madison,Rocky De La Fuente,7
+,Madison,Don Blankenship,6
+,Madison,Ricki Sue King,2
+,Madison,Howie Hawkins,12
+,Madison,Jo Jorgensen,124
+,Madison,Brock Pierce,5
+,Madison,Kanye West,9
+,Madison,Write-in,18
+,Madison,Undervotes,25
+,Madison,Overvotes,4
+,Mahaska,Donald J. Trump,8297
+,Mahaska,Joseph R. Biden,2894
+,Mahaska,Rocky De La Fuente,8
+,Mahaska,Don Blankenship,10
+,Mahaska,Ricki Sue King,2
+,Mahaska,Howie Hawkins,13
+,Mahaska,Jo Jorgensen,134
+,Mahaska,Brock Pierce,4
+,Mahaska,Kanye West,19
+,Mahaska,Write-in,23
+,Mahaska,Undervotes,37
+,Mahaska,Overvotes,17
+,Marion,Donald J. Trump,12663
+,Marion,Joseph R. Biden,6178
+,Marion,Rocky De La Fuente,10
+,Marion,Don Blankenship,24
+,Marion,Ricki Sue King,6
+,Marion,Howie Hawkins,24
+,Marion,Jo Jorgensen,233
+,Marion,Brock Pierce,5
+,Marion,Kanye West,30
+,Marion,Write-in,59
+,Marion,Undervotes,77
+,Marion,Overvotes,22
+,Marshall,Donald J. Trump,9571
+,Marshall,Joseph R. Biden,8176
+,Marshall,Rocky De La Fuente,17
+,Marshall,Don Blankenship,22
+,Marshall,Ricki Sue King,8
+,Marshall,Howie Hawkins,31
+,Marshall,Jo Jorgensen,216
+,Marshall,Brock Pierce,7
+,Marshall,Kanye West,49
+,Marshall,Write-in,39
+,Marshall,Undervotes,70
+,Marshall,Overvotes,65
+,Mills,Donald J. Trump,5585
+,Mills,Joseph R. Biden,2508
+,Mills,Rocky De La Fuente,7
+,Mills,Don Blankenship,7
+,Mills,Ricki Sue King,2
+,Mills,Howie Hawkins,12
+,Mills,Jo Jorgensen,100
+,Mills,Brock Pierce,0
+,Mills,Kanye West,16
+,Mills,Write-in,31
+,Mills,Undervotes,27
+,Mills,Overvotes,14
+,Mitchell,Donald J. Trump,3677
+,Mitchell,Joseph R. Biden,2053
+,Mitchell,Rocky De La Fuente,3
+,Mitchell,Don Blankenship,6
+,Mitchell,Ricki Sue King,4
+,Mitchell,Howie Hawkins,9
+,Mitchell,Jo Jorgensen,56
+,Mitchell,Brock Pierce,1
+,Mitchell,Kanye West,6
+,Mitchell,Write-in,7
+,Mitchell,Undervotes,37
+,Mitchell,Overvotes,8
+,Monona,Donald J. Trump,3248
+,Monona,Joseph R. Biden,1407
+,Monona,Rocky De La Fuente,3
+,Monona,Don Blankenship,5
+,Monona,Ricki Sue King,0
+,Monona,Howie Hawkins,3
+,Monona,Jo Jorgensen,36
+,Monona,Brock Pierce,3
+,Monona,Kanye West,9
+,Monona,Write-in,14
+,Monona,Undervotes,19
+,Monona,Overvotes,7
+,Monroe,Donald J. Trump,2975
+,Monroe,Joseph R. Biden,1078
+,Monroe,Rocky De La Fuente,2
+,Monroe,Don Blankenship,0
+,Monroe,Ricki Sue King,1
+,Monroe,Howie Hawkins,3
+,Monroe,Jo Jorgensen,21
+,Monroe,Brock Pierce,0
+,Monroe,Kanye West,5
+,Monroe,Write-in,3
+,Monroe,Undervotes,25
+,Monroe,Overvotes,6
+,Montgomery,Donald J. Trump,3659
+,Montgomery,Joseph R. Biden,1583
+,Montgomery,Rocky De La Fuente,3
+,Montgomery,Don Blankenship,9
+,Montgomery,Ricki Sue King,1
+,Montgomery,Howie Hawkins,6
+,Montgomery,Jo Jorgensen,50
+,Montgomery,Brock Pierce,2
+,Montgomery,Kanye West,7
+,Montgomery,Write-in,7
+,Montgomery,Undervotes,21
+,Montgomery,Overvotes,12
+,Muscatine,Donald J. Trump,10823
+,Muscatine,Joseph R. Biden,9372
+,Muscatine,Rocky De La Fuente,8
+,Muscatine,Don Blankenship,21
+,Muscatine,Ricki Sue King,9
+,Muscatine,Howie Hawkins,57
+,Muscatine,Jo Jorgensen,293
+,Muscatine,Brock Pierce,9
+,Muscatine,Kanye West,37
+,Muscatine,Write-in,42
+,Muscatine,Undervotes,114
+,Muscatine,Overvotes,22
+,O'Brien,Donald J. Trump,5861
+,O'Brien,Joseph R. Biden,1569
+,O'Brien,Rocky De La Fuente,6
+,O'Brien,Don Blankenship,7
+,O'Brien,Ricki Sue King,4
+,O'Brien,Howie Hawkins,6
+,O'Brien,Jo Jorgensen,77
+,O'Brien,Brock Pierce,2
+,O'Brien,Kanye West,9
+,O'Brien,Write-in,10
+,O'Brien,Undervotes,29
+,O'Brien,Overvotes,10
+,Osceola,Donald J. Trump,2690
+,Osceola,Joseph R. Biden,601
+,Osceola,Rocky De La Fuente,1
+,Osceola,Don Blankenship,2
+,Osceola,Ricki Sue King,2
+,Osceola,Howie Hawkins,4
+,Osceola,Jo Jorgensen,18
+,Osceola,Brock Pierce,0
+,Osceola,Kanye West,5
+,Osceola,Write-in,5
+,Osceola,Undervotes,19
+,Osceola,Overvotes,0
+,Page,Donald J. Trump,5319
+,Page,Joseph R. Biden,2086
+,Page,Rocky De La Fuente,8
+,Page,Don Blankenship,7
+,Page,Ricki Sue King,0
+,Page,Howie Hawkins,10
+,Page,Jo Jorgensen,76
+,Page,Brock Pierce,1
+,Page,Kanye West,12
+,Page,Write-in,9
+,Page,Undervotes,31
+,Page,Overvotes,14
+,Palo Alto,Donald J. Trump,3370
+,Palo Alto,Joseph R. Biden,1519
+,Palo Alto,Rocky De La Fuente,0
+,Palo Alto,Don Blankenship,3
+,Palo Alto,Ricki Sue King,1
+,Palo Alto,Howie Hawkins,8
+,Palo Alto,Jo Jorgensen,43
+,Palo Alto,Brock Pierce,1
+,Palo Alto,Kanye West,5
+,Palo Alto,Write-in,8
+,Palo Alto,Undervotes,35
+,Palo Alto,Overvotes,7
+,Plymouth,Donald J. Trump,10492
+,Plymouth,Joseph R. Biden,3494
+,Plymouth,Rocky De La Fuente,13
+,Plymouth,Don Blankenship,7
+,Plymouth,Ricki Sue King,8
+,Plymouth,Howie Hawkins,13
+,Plymouth,Jo Jorgensen,112
+,Plymouth,Brock Pierce,2
+,Plymouth,Kanye West,24
+,Plymouth,Write-in,23
+,Plymouth,Undervotes,49
+,Plymouth,Overvotes,21
+,Pocahontas,Donald J. Trump,2826
+,Pocahontas,Joseph R. Biden,933
+,Pocahontas,Rocky De La Fuente,0
+,Pocahontas,Don Blankenship,8
+,Pocahontas,Ricki Sue King,1
+,Pocahontas,Howie Hawkins,2
+,Pocahontas,Jo Jorgensen,37
+,Pocahontas,Brock Pierce,4
+,Pocahontas,Kanye West,6
+,Pocahontas,Write-in,6
+,Pocahontas,Undervotes,22
+,Pocahontas,Overvotes,3
+,Polk,Donald J. Trump,106800
+,Polk,Joseph R. Biden,146250
+,Polk,Rocky De La Fuente,213
+,Polk,Don Blankenship,200
+,Polk,Ricki Sue King,79
+,Polk,Howie Hawkins,487
+,Polk,Jo Jorgensen,3322
+,Polk,Brock Pierce,78
+,Polk,Kanye West,562
+,Polk,Write-in,764
+,Polk,Undervotes,750
+,Polk,Overvotes,528
+,Pottawattamie,Donald J. Trump,26247
+,Pottawattamie,Joseph R. Biden,18575
+,Pottawattamie,Rocky De La Fuente,10
+,Pottawattamie,Don Blankenship,56
+,Pottawattamie,Ricki Sue King,14
+,Pottawattamie,Howie Hawkins,93
+,Pottawattamie,Jo Jorgensen,552
+,Pottawattamie,Brock Pierce,11
+,Pottawattamie,Kanye West,81
+,Pottawattamie,Write-in,105
+,Pottawattamie,Undervotes,150
+,Pottawattamie,Overvotes,48
+,Poweshiek,Donald J. Trump,5657
+,Poweshiek,Joseph R. Biden,4306
+,Poweshiek,Rocky De La Fuente,5
+,Poweshiek,Don Blankenship,19
+,Poweshiek,Ricki Sue King,3
+,Poweshiek,Howie Hawkins,26
+,Poweshiek,Jo Jorgensen,90
+,Poweshiek,Brock Pierce,4
+,Poweshiek,Kanye West,14
+,Poweshiek,Write-in,16
+,Poweshiek,Undervotes,46
+,Poweshiek,Overvotes,12
+,Ringgold,Donald J. Trump,1968
+,Ringgold,Joseph R. Biden,709
+,Ringgold,Rocky De La Fuente,0
+,Ringgold,Don Blankenship,5
+,Ringgold,Ricki Sue King,2
+,Ringgold,Howie Hawkins,2
+,Ringgold,Jo Jorgensen,18
+,Ringgold,Brock Pierce,1
+,Ringgold,Kanye West,3
+,Ringgold,Write-in,6
+,Ringgold,Undervotes,29
+,Ringgold,Overvotes,2
+,Sac,Donald J. Trump,4061
+,Sac,Joseph R. Biden,1389
+,Sac,Rocky De La Fuente,2
+,Sac,Don Blankenship,9
+,Sac,Ricki Sue King,2
+,Sac,Howie Hawkins,6
+,Sac,Jo Jorgensen,47
+,Sac,Brock Pierce,1
+,Sac,Kanye West,10
+,Sac,Write-in,8
+,Sac,Undervotes,30
+,Sac,Overvotes,3
+,Scott,Donald J. Trump,43683
+,Scott,Joseph R. Biden,46926
+,Scott,Rocky De La Fuente,51
+,Scott,Don Blankenship,96
+,Scott,Ricki Sue King,32
+,Scott,Howie Hawkins,209
+,Scott,Jo Jorgensen,1124
+,Scott,Brock Pierce,22
+,Scott,Kanye West,181
+,Scott,Write-in,275
+,Scott,Undervotes,268
+,Scott,Overvotes,186
+,Shelby,Donald J. Trump,4697
+,Shelby,Joseph R. Biden,1959
+,Shelby,Rocky De La Fuente,3
+,Shelby,Don Blankenship,12
+,Shelby,Ricki Sue King,6
+,Shelby,Howie Hawkins,7
+,Shelby,Jo Jorgensen,83
+,Shelby,Brock Pierce,5
+,Shelby,Kanye West,9
+,Shelby,Write-in,14
+,Shelby,Undervotes,24
+,Shelby,Overvotes,10
+,Sioux,Donald J. Trump,15680
+,Sioux,Joseph R. Biden,3019
+,Sioux,Rocky De La Fuente,9
+,Sioux,Don Blankenship,21
+,Sioux,Ricki Sue King,5
+,Sioux,Howie Hawkins,23
+,Sioux,Jo Jorgensen,170
+,Sioux,Brock Pierce,2
+,Sioux,Kanye West,27
+,Sioux,Write-in,95
+,Sioux,Undervotes,88
+,Sioux,Overvotes,19
+,Story,Donald J. Trump,20340
+,Story,Joseph R. Biden,29175
+,Story,Rocky De La Fuente,36
+,Story,Don Blankenship,51
+,Story,Ricki Sue King,10
+,Story,Howie Hawkins,147
+,Story,Jo Jorgensen,924
+,Story,Brock Pierce,21
+,Story,Kanye West,133
+,Story,Write-in,201
+,Story,Undervotes,186
+,Story,Overvotes,29
+,Tama,Donald J. Trump,5303
+,Tama,Joseph R. Biden,3577
+,Tama,Rocky De La Fuente,2
+,Tama,Don Blankenship,12
+,Tama,Ricki Sue King,3
+,Tama,Howie Hawkins,19
+,Tama,Jo Jorgensen,87
+,Tama,Brock Pierce,2
+,Tama,Kanye West,21
+,Tama,Write-in,22
+,Tama,Undervotes,41
+,Tama,Overvotes,9
+,Taylor,Donald J. Trump,2463
+,Taylor,Joseph R. Biden,746
+,Taylor,Rocky De La Fuente,1
+,Taylor,Don Blankenship,2
+,Taylor,Ricki Sue King,2
+,Taylor,Howie Hawkins,1
+,Taylor,Jo Jorgensen,17
+,Taylor,Brock Pierce,0
+,Taylor,Kanye West,10
+,Taylor,Write-in,7
+,Taylor,Undervotes,16
+,Taylor,Overvotes,5
+,Union,Donald J. Trump,4010
+,Union,Joseph R. Biden,2061
+,Union,Rocky De La Fuente,6
+,Union,Don Blankenship,6
+,Union,Ricki Sue King,4
+,Union,Howie Hawkins,10
+,Union,Jo Jorgensen,61
+,Union,Brock Pierce,2
+,Union,Kanye West,11
+,Union,Write-in,14
+,Union,Undervotes,22
+,Union,Overvotes,4
+,Van Buren,Donald J. Trump,2859
+,Van Buren,Joseph R. Biden,875
+,Van Buren,Rocky De La Fuente,2
+,Van Buren,Don Blankenship,5
+,Van Buren,Ricki Sue King,2
+,Van Buren,Howie Hawkins,6
+,Van Buren,Jo Jorgensen,23
+,Van Buren,Brock Pierce,1
+,Van Buren,Kanye West,7
+,Van Buren,Write-in,11
+,Van Buren,Undervotes,12
+,Van Buren,Overvotes,1
+,Wapello,Donald J. Trump,9516
+,Wapello,Joseph R. Biden,5821
+,Wapello,Rocky De La Fuente,6
+,Wapello,Don Blankenship,14
+,Wapello,Ricki Sue King,3
+,Wapello,Howie Hawkins,22
+,Wapello,Jo Jorgensen,200
+,Wapello,Brock Pierce,5
+,Wapello,Kanye West,26
+,Wapello,Write-in,20
+,Wapello,Undervotes,49
+,Wapello,Overvotes,53
+,Warren,Donald J. Trump,17782
+,Warren,Joseph R. Biden,12574
+,Warren,Rocky De La Fuente,27
+,Warren,Don Blankenship,30
+,Warren,Ricki Sue King,8
+,Warren,Howie Hawkins,51
+,Warren,Jo Jorgensen,430
+,Warren,Brock Pierce,4
+,Warren,Kanye West,47
+,Warren,Write-in,86
+,Warren,Undervotes,182
+,Warren,Overvotes,20
+,Washington,Donald J. Trump,6971
+,Washington,Joseph R. Biden,4561
+,Washington,Rocky De La Fuente,6
+,Washington,Don Blankenship,13
+,Washington,Ricki Sue King,1
+,Washington,Howie Hawkins,21
+,Washington,Jo Jorgensen,144
+,Washington,Brock Pierce,4
+,Washington,Kanye West,24
+,Washington,Write-in,20
+,Washington,Undervotes,40
+,Washington,Overvotes,15
+,Wayne,Donald J. Trump,2338
+,Wayne,Joseph R. Biden,727
+,Wayne,Rocky De La Fuente,2
+,Wayne,Don Blankenship,5
+,Wayne,Ricki Sue King,1
+,Wayne,Howie Hawkins,3
+,Wayne,Jo Jorgensen,20
+,Wayne,Brock Pierce,1
+,Wayne,Kanye West,6
+,Wayne,Write-in,6
+,Wayne,Undervotes,20
+,Wayne,Overvotes,3
+,Webster,Donald J. Trump,10938
+,Webster,Joseph R. Biden,6613
+,Webster,Rocky De La Fuente,10
+,Webster,Don Blankenship,9
+,Webster,Ricki Sue King,5
+,Webster,Howie Hawkins,26
+,Webster,Jo Jorgensen,128
+,Webster,Brock Pierce,5
+,Webster,Kanye West,56
+,Webster,Write-in,32
+,Webster,Undervotes,81
+,Webster,Overvotes,54
+,Winnebago,Donald J. Trump,3707
+,Winnebago,Joseph R. Biden,2135
+,Winnebago,Rocky De La Fuente,3
+,Winnebago,Don Blankenship,6
+,Winnebago,Ricki Sue King,2
+,Winnebago,Howie Hawkins,8
+,Winnebago,Jo Jorgensen,72
+,Winnebago,Brock Pierce,3
+,Winnebago,Kanye West,15
+,Winnebago,Write-in,19
+,Winnebago,Undervotes,32
+,Winnebago,Overvotes,12
+,Winneshiek,Donald J. Trump,6235
+,Winneshiek,Joseph R. Biden,5617
+,Winneshiek,Rocky De La Fuente,6
+,Winneshiek,Don Blankenship,15
+,Winneshiek,Ricki Sue King,5
+,Winneshiek,Howie Hawkins,21
+,Winneshiek,Jo Jorgensen,112
+,Winneshiek,Brock Pierce,6
+,Winneshiek,Kanye West,19
+,Winneshiek,Write-in,28
+,Winneshiek,Undervotes,67
+,Winneshiek,Overvotes,14
+,Woodbury,Donald J. Trump,25736
+,Woodbury,Joseph R. Biden,18704
+,Woodbury,Rocky De La Fuente,33
+,Woodbury,Don Blankenship,55
+,Woodbury,Ricki Sue King,11
+,Woodbury,Howie Hawkins,96
+,Woodbury,Jo Jorgensen,435
+,Woodbury,Brock Pierce,18
+,Woodbury,Kanye West,84
+,Woodbury,Write-in,190
+,Woodbury,Undervotes,180
+,Woodbury,Overvotes,158
+,Worth,Donald J. Trump,2738
+,Worth,Joseph R. Biden,1596
+,Worth,Rocky De La Fuente,8
+,Worth,Don Blankenship,8
+,Worth,Ricki Sue King,1
+,Worth,Howie Hawkins,7
+,Worth,Jo Jorgensen,38
+,Worth,Brock Pierce,4
+,Worth,Kanye West,14
+,Worth,Write-in,4
+,Worth,Undervotes,15
+,Worth,Overvotes,3
+,Wright,Donald J. Trump,4136
+,Wright,Joseph R. Biden,1996
+,Wright,Rocky De La Fuente,5
+,Wright,Don Blankenship,2
+,Wright,Ricki Sue King,3
+,Wright,Howie Hawkins,6
+,Wright,Jo Jorgensen,70
+,Wright,Brock Pierce,5
+,Wright,Kanye West,19
+,Wright,Write-in,12
+,Wright,Undervotes,43
+,Wright,Overvotes,11
