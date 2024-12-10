@@ -1,3 +1,4 @@
+# This code originates from 'https://github.com/djsutherland/pummeler/tree/master' and was fixed/modified
 from __future__ import division, print_function
 #get_ipython().run_line_magic('matplotlib', 'inline')
 
